@@ -1,84 +1,39 @@
 {
-  "updatedAt": "2026-11-09T19:03:53.878144Z",
+  "updatedAt": "2026-11-09T20:01:57.105878Z",
   "stories": [
     {
-      "title": "Beyaz Saray'da hareketli dakikalar: 2 gözaltı - Hürriyet",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWhqYm1fT0JtUDJvRWNudF9paEJWVklxWmFRYm53VTdLSXRkR3lnSEpWcmxvbGVuR1hUNHh3QXJMdkFHcWg2RloweVl0eUU2LXVvM1FnNDdGdUpobGVtSVRHdThlU1RVY2RNUkJBSHNnQldUd2lMN0d4ejU3OURkX25ZU3hjZlpxQmNJRmpIRQ?oc=5",
-      "source": "Hürriyet",
-      "date": "2026-11-09T18:32:34Z",
-      "description": "Beyaz Saray'da hareketli dakikalar: 2 gözaltı Hürriyet",
+      "title": "SON DAKİKA: İzmir'de demir çelik fabrikasında patlama! 17 ölü, 12 yaralı - Haber 7",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVU50Ri1NZllobDF4YjNOSC1ydUljcHdMbDVBX2QwMTkwaUxVamJzUU9ZNW41OEwyVmNiRVlueXRuQzZ5NmFzSnFnS3JxUFpoU0hVNmlBdEdrOVZrcVNvVEZ6U29UdnlPdWdkUjZPcGpmSEpsSF9mamZYNHFVa0F6MlBjVmZCSDB3djBKRjZXYnNBUUJ3M2hfcGk2NDJYWGtwNlQxazk5SVJVUjZOamJfeTV30gG6AUFVX3lxTFA4OUhWN2VMVkotSktPaC1kVTNFcDMwdzFIOFR2SWItSkFKNHcxVGxQVHBoMmdMdDBwSjFIeDNQUkEtTmdpcmNUcXZxSzF0dFFEb3dQako1elJkZXFoN0U5VEpabTN6aHdOZmdELVNqY2dsbUFySnBaeC1XdFBnSWh3c2Mtd2NwNU5JWDJSOTUzNC13SjczSnF0bHE2dXBhaXdVc3VsejRLOWhQM0cxTGZCcExSVnBMVHV1dw?oc=5",
+      "source": "Haber 7",
+      "date": "2026-11-09T19:26:00Z",
+      "description": "SON DAKİKA: İzmir'de demir çelik fabrikasında patlama! 17 ölü, 12 yaralı Haber 7",
       "image": "",
       "category": "Son Dakika"
     },
     {
-      "title": "İzmir'de demir çelik fabrikasında patlama: 16 ölü, 13 yaralı - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1g2WHB4SzNEZ0doOWlGWjA2cVRaaHpLWFRqOG1TdDlYREVLakEtMUI2UVl1MGV6QVdoV1dab0tWckNtTXpuNG5QbHhMWmRoZkdUcE54clUxeTFIQ2dXYUF5YXBsckhLaVhnVDlucTFnMklkMm83R0J0dmt3bnE1VGU2THB3dWtHV18yT2lSYWxwOWdsSWRVekxrcDdud3JGdHYzNVNPMEh5NGh1?oc=5",
+      "title": "İzmir'de demir çelik fabrikasında patlama: 17 ölü, 12 yaralı - TRT Haber",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdng4dE9UTURPNVItdF9yX3hPQ1JvNW1LU3pUZDczektuZTVRSEV3Z0ZSYk41cTdSUkh6dWRKajdmaVZVS2Flb0htMUIwQzdzamtGNUlMVVhlOVp2dEV4a3FTc2I5dk1DTmVNVVdLdEZwRi1BVmVFU2hod213WUg2Z0dUY2g0anNrbUtTOGI4dUk4eFpuQkVRdkFZZXNIeUNFcktGVHJsUGNZb2Rv?oc=5",
       "source": "TRT Haber",
-      "date": "2026-11-09T16:42:43Z",
-      "description": "İzmir'de demir çelik fabrikasında patlama: 16 ölü, 13 yaralı TRT Haber",
+      "date": "2026-11-09T19:16:33Z",
+      "description": "İzmir'de demir çelik fabrikasında patlama: 17 ölü, 12 yaralı TRT Haber",
       "image": "",
       "category": "Son Dakika"
     },
     {
-      "title": "İzmir'de Aliağa HABAŞ Demir-Çelik Fabrikası’nda patlama: Hayatını kaybedenlerin sayısı 16'ya yükseldi - Hürriyet",
+      "title": "İzmir'de Aliağa HABAŞ Demir-Çelik Fabrikası’nda patlama: Hayatını kaybedenlerin sayısı 17'ya yükseldi - Hürriyet",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM0VHOWJlNHI4VzNDa1ZhODNHS09PWXpKRmd0bU9qNTdkOFZ4UkdPdS1IdG1UUGgwR3BGdTBkZEZuQTlieVg1ak5UWTRQU1BGY1NEcUgzTFhLTThsNmZYeU5pV2E4d21jM1ZjZDZOQ2xscjNOTHBCM3JaMHpSNmhxR2lhV1piV21EWE54OWl6dEFRb3RZUUpEZGFzM3N1LUo0N2lDdnItSTJfX1Y1RHctZkh2UzhfMFB4N2h4YjZEeWY1T3RRcG5CTjVvOWhmT1B2N29uODVLOEpJQkJOLVE?oc=5",
       "source": "Hürriyet",
-      "date": "2026-11-09T18:50:00Z",
-      "description": "İzmir'de Aliağa HABAŞ Demir-Çelik Fabrikası’nda patlama: Hayatını kaybedenlerin sayısı 16'ya yükseldi Hürriyet",
+      "date": "2026-11-09T19:14:00Z",
+      "description": "İzmir'de Aliağa HABAŞ Demir-Çelik Fabrikası’nda patlama: Hayatını kaybedenlerin sayısı 17'ya yükseldi Hürriyet",
       "image": "",
       "category": "Son Dakika"
     },
     {
-      "title": "SON DAKİKA: İzmir'de demir çelik fabrikasında patlama! 16 ölü, 2'si ağır 13 yaralı - Haber 7",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGJ6cm1Vck5ibmloLXBOcmpXc3kxUDFwLVhpMlJtcGRKelo3NzZ6OFVwYk5yck1vNmpmbW1pOFFORFlVWlVEZlQzY0FudFNuaS1iS0o3VHNSR0NFMzQtQUd6ODY4ZnBfdGlGODQ3TWtBQXdRV0lwTkhBRTRwV1BzNlZxeDRhbHBYeHR3VjlUaEplNkFQU2ppYzRLS1pOQ2hHeUo3ZTRuSDBCY2ZBQXhhcFJSTzZrekZ2b0sxc09R0gHGAUFVX3lxTFBSOEpOS1lrZVRrRHZLVF81cE9uSENFdmZ2d1JBcW55OE5wR21NLUtBVlQ1cm94MkJvTEdyblVXMmRvOVpHcXZaM3BCZ2VCYkthU0lfRWpRTUh2ZzEzS0RnZjRDQnd4NlNGVTlLRkQyVjFxVTVGOGNRYnhEZlozWDMyckRJdGo3UFdyZjFYRWFtWXZQaUVkSmE2eDFtQmlyaHF6c0EtZFBhRUw1NjhnaUdRSm55MkI0aEFMNW1uZnQ1Rm9zMVZqdw?oc=5",
-      "source": "Haber 7",
-      "date": "2026-11-09T16:35:00Z",
-      "description": "SON DAKİKA: İzmir'de demir çelik fabrikasında patlama! 16 ölü, 2'si ağır 13 yaralı Haber 7",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Fon soruşturması yoluna koyuluyor - Habertürk",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQWhWalFRQzVaN0o2S3Q0Wm5xNEoyY3g3eE15b2Z3U3c1QkhsR0hSMDNndHFpMlU3eEVFMmhPcGpNYmZINGZoTUlVc1lRS25uSllxMmJaaTZZMHVqRXJqZ202bHBWbTgtZEJVbXZRaUpOVWFyT2pNWXNMdkE4aWpPZzZ1dkstZk03a0RzT0JmZTJMams?oc=5",
-      "source": "Habertürk",
-      "date": "2026-11-09T17:17:34Z",
-      "description": "Cumhurbaşkanı Erdoğan: Fon soruşturması yoluna koyuluyor Habertürk",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "SON DAKİKA | Cumhurbaşkanı Erdoğan: İzmir'deki patlamada sorumlular ortaya çıkarılacak! - CNN Türk",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUwyWkFEZ05pZEZESVltaTVzS21iWkxhNm1WYVBKVjNtN1pnWEltdUpGU2tmSllodEV6ckRpR2xvVXcwT1pqeEFHc3dmRnYzSzFVYzh0YnBoNjE1MzUwN2RXcVhPSXZQOU5oVk1oMFlsN0daeXFuM2RUTWJrZjRQbE45dnR3M1ZEZ2pwYW9SeHJiRjk5UFJjS3ZjOWlXc3lRRllTZjR5Nm9Td2pXeXQwa1V1cG94M2xNTTV6Yi1NU3YwQVE3WW10TlpiSU0?oc=5",
-      "source": "CNN Türk",
-      "date": "2026-11-09T17:24:07Z",
-      "description": "SON DAKİKA | Cumhurbaşkanı Erdoğan: İzmir'deki patlamada sorumlular ortaya çıkarılacak! CNN Türk",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "Son dakika... Cumhurbaşkanı Erdoğan: Türkiye ile Azerbaycan arasında ayrılık arayanlar beyhude bir çabanın içerisinde - Milliyet",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQU0l0aGRlNUl2MU96b2FiNUY4ZE90aW52S0JpeGJwVlpkcnRGdGEyME1YSGpjc0VUVUdhYklvUEtmcDRRN18zV3hsS3E3YXdoWXhqQ0JBU3N2X0JfMkcteXhPVDdkS3NlZXVPOXJWM3pTMjVCemlUWVJyVmhfTU1nWmdRa1VYcWE3OVpvZlNwU09WbEtlOXhEVGxjWG5URklXNFhGTWgzQkN3QnVfczg1aWJ4S2k3RDdoTmd2QzJCbkR0clBOSUtmMG5iV3hDQ3hwSC1tRnJKWThwS25JZUdZWlBZSjNQY3pWM2NJXw?oc=5",
-      "source": "Milliyet",
-      "date": "2026-11-09T09:57:00Z",
-      "description": "Son dakika... Cumhurbaşkanı Erdoğan: Türkiye ile Azerbaycan arasında ayrılık arayanlar beyhude bir çabanın içerisinde Milliyet",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "Cumhurbaşkanlığı Kabinesi bugün toplanacak - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb2lpWHlNb2FvUkJKaktSRWpMb2xUb1d4MExSckw3cDNXaVVFbXBZY0NwLTZuRmVrVWFWU3duZ2JrU25WSlJZU0VjdGdNWXZwRmd3UEVCUXl2MDVjelphQTl5dHhERFZiRXhna3JWM3AxbklrZ3lEUVZSbWl6OTByMi1JTWsyT2JXeE94aWw4ay1xdjRjMFVJ?oc=5",
+      "title": "Cumhurbaşkanı Erdoğan: Gabar'da 135 milyon varil yerinde petrol potansiyeli bulundu - TRT Haber",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcjlSNzlvSWNhSzI5a01xczRtN0J3aU12OE5ONklOcTlxdm5rckhGanRQYlZabTlHQmNvM0hSUThlUGVsdUlpel83WFI0YmpBWUlaQnVXcE12LXhfOWdmNVkwQVBIVWhaYTBCNEoyVHpyWENhMU9ZYzRhTkJrSEJNMnp0MEFOQ2o3RnBPOGg3Y2hzWVN4Rmc4TzU2RC1lWHdpZDJ6WnV4bzloV1dTSVYxMjk2cTY3cFF0XzIzYXdXMG5YWklJRktDOEhTcw?oc=5",
       "source": "TRT Haber",
-      "date": "2026-11-09T02:34:00Z",
-      "description": "Cumhurbaşkanlığı Kabinesi bugün toplanacak TRT Haber",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "Son dakika... Cumhurbaşkanı Erdoğan: İki sahada yeni petrol keşfettik - Hürriyet",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZjJKblpiM1YxWm5VcHFHVTFzSEtwSVd2emNSNktoam1OSVBzM2F4TW5VWHdqWXhWOG05LVpBNG5VUURxeXRJdkZxM2FGYU5YYTBET3dGTVJzblJzX1EtdXNfNGdyRDNYeFMtejVxX2sxWWZMZERCQzBWVUwzVzdjb1MxaWNwUTdJeDBNYUNTMTJxcTE1bk9oVmlQYw?oc=5",
-      "source": "Hürriyet",
-      "date": "2026-11-09T16:43:01Z",
-      "description": "Son dakika... Cumhurbaşkanı Erdoğan: İki sahada yeni petrol keşfettik Hürriyet",
+      "date": "2026-11-09T16:05:00Z",
+      "description": "Cumhurbaşkanı Erdoğan: Gabar'da 135 milyon varil yerinde petrol potansiyeli bulundu TRT Haber",
       "image": "",
       "category": "Son Dakika"
     },
@@ -86,26 +41,17 @@
       "title": "Cumhurbaşkanı Erdoğan, Tim Cook'u kabul etti - Hürriyet",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkdRWEJiUDhMaWVpVGl0UjQtRmFEVlAxd3FwbWNVMWNmYlA2OVVucWhGOTdYVml5LXFHeGNHUjdoRVMtWVFIMjlTY3pCTGdQNjEwZ3RUTm1HQ1ZsTENSTHdXbngyLVB3RnpqeFZGZTRHUXFuR1pndmswSmtDM0tRdzNlcFhITUx5M2Z4ZUp4NA?oc=5",
       "source": "Hürriyet",
-      "date": "2026-11-09T17:26:09Z",
+      "date": "2026-11-09T13:11:56Z",
       "description": "Cumhurbaşkanı Erdoğan, Tim Cook'u kabul etti Hürriyet",
       "image": "",
       "category": "Son Dakika"
     },
     {
-      "title": "Türkiye ve Irak'tan güvenlik mutabakatı - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmU2Wjc1Qk1EaExBbDZVS2k5U0JobjVEUlJlVG9XLUI5RUhNMU1oN2J3N0RMNWdMeGVRdWhTOHdTSFNibjhzQ3UzTWRoYVc3cnZ5OHNVcW43aXBEa0hidkZUWUhMVVc2d0t5NzFNWkZrRFBzUTBKMG9uOWY2c01VZjFZb09ZVFlnYnlOMmNBaHBYZw?oc=5",
-      "source": "TRT Haber",
-      "date": "2026-11-08T15:03:00Z",
-      "description": "Türkiye ve Irak'tan güvenlik mutabakatı TRT Haber",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "Adana'da 4,6 büyüklüğünde deprem - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMElGbFljTDhQR1JQR2ZUNHZiYlp5UEtGUzY2WFQwRVh4ZVJMZ1IxcXYxbTlGV1RmT3NFU1Y5X1lKaDRXa1hLM3FfMGNjYi12Q29HVk5aSkRWYkxBMU53bzQtMUNrVzE1cEh1Zk1wUjZwNWtsSUZWakFSeXIxdFBwd3ltTFRnRlpF?oc=5",
-      "source": "TRT Haber",
-      "date": "2026-11-09T12:39:00Z",
-      "description": "Adana'da 4,6 büyüklüğünde deprem TRT Haber",
+      "title": "Cumhurbaşkanı Erdoğan: Fon soruşturması yoluna koyuluyor - Habertürk",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQWhWalFRQzVaN0o2S3Q0Wm5xNEoyY3g3eE15b2Z3U3c1QkhsR0hSMDNndHFpMlU3eEVFMmhPcGpNYmZINGZoTUlVc1lRS25uSllxMmJaaTZZMHVqRXJqZ202bHBWbTgtZEJVbXZRaUpOVWFyT2pNWXNMdkE4aWpPZzZ1dkstZk03a0RzT0JmZTJMams?oc=5",
+      "source": "Habertürk",
+      "date": "2026-11-09T16:06:24Z",
+      "description": "Cumhurbaşkanı Erdoğan: Fon soruşturması yoluna koyuluyor Habertürk",
       "image": "",
       "category": "Son Dakika"
     },
@@ -119,11 +65,83 @@
       "category": "Son Dakika"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan: Terörsüz Türkiye sürecinden geriye dönüş olmayacak - TRT Haber",
+      "title": "Beyaz Saray'da hareketli dakikalar: 2 gözaltı - Hürriyet",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWhqYm1fT0JtUDJvRWNudF9paEJWVklxWmFRYm53VTdLSXRkR3lnSEpWcmxvbGVuR1hUNHh3QXJMdkFHcWg2RloweVl0eUU2LXVvM1FnNDdGdUpobGVtSVRHdThlU1RVY2RNUkJBSHNnQldUd2lMN0d4ejU3OURkX25ZU3hjZlpxQmNJRmpIRQ?oc=5",
+      "source": "Hürriyet",
+      "date": "2026-11-09T18:32:34Z",
+      "description": "Beyaz Saray'da hareketli dakikalar: 2 gözaltı Hürriyet",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "Adana'da 4,6 büyüklüğünde deprem - TRT Haber",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMElGbFljTDhQR1JQR2ZUNHZiYlp5UEtGUzY2WFQwRVh4ZVJMZ1IxcXYxbTlGV1RmT3NFU1Y5X1lKaDRXa1hLM3FfMGNjYi12Q29HVk5aSkRWYkxBMU53bzQtMUNrVzE1cEh1Zk1wUjZwNWtsSUZWakFSeXIxdFBwd3ltTFRnRlpF?oc=5",
+      "source": "TRT Haber",
+      "date": "2026-11-09T12:39:00Z",
+      "description": "Adana'da 4,6 büyüklüğünde deprem TRT Haber",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "Türkiye ve Irak'tan güvenlik mutabakatı - TRT Haber",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmU2Wjc1Qk1EaExBbDZVS2k5U0JobjVEUlJlVG9XLUI5RUhNMU1oN2J3N0RMNWdMeGVRdWhTOHdTSFNibjhzQ3UzTWRoYVc3cnZ5OHNVcW43aXBEa0hidkZUWUhMVVc2d0t5NzFNWkZrRFBzUTBKMG9uOWY2c01VZjFZb09ZVFlnYnlOMmNBaHBYZw?oc=5",
+      "source": "TRT Haber",
+      "date": "2026-11-08T15:03:00Z",
+      "description": "Türkiye ve Irak'tan güvenlik mutabakatı TRT Haber",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "Türkiye'nin ev sahipliğindeki COP31 bugün başlıyor - TRT Haber",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmJNdVkzWXE3RXF4dEhxdzRIazFwWnB4YUs5QXpqbGk0ZGk0aHU5eWZTVWNsajJnY3B5Q3VLdkpzcUtDb3VZTVlKcC1DTXhfLWRrRXVrb2VsQTRwWWJvX1U5T3dLcVVIbGJoOHNPTmRFNVFqRTAwSVZQeElVelg1MFRfSUpiekdVX0hvRVZZTlFKZ0lJWTdIS0NRZ1JPR2M1?oc=5",
+      "source": "TRT Haber",
+      "date": "2026-11-08T21:04:00Z",
+      "description": "Türkiye'nin ev sahipliğindeki COP31 bugün başlıyor TRT Haber",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "Kutup girdabı bu kış Türkiye’yi nasıl etkileyecek? - TRT Haber",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHAxaUVlV3BPZDVueFhsenhZOXc1WlZPUmRqYTBBUDJHYzRFUnh0Rzc3cWxlTXRyWmJUTDROb3hrRmE0aXlSWDJNeW0zb3R2emdLYTV0cHdXR2VpcG43bkRCNTI2MDBNUzdWdHo2RDRkRHZDSV83SkEzX241NkkxaGgxYTkybVJrdndnMEdTdjdobkZ2Z2Q2TzJwd1FFQQ?oc=5",
+      "source": "TRT Haber",
+      "date": "2026-11-09T07:44:00Z",
+      "description": "Kutup girdabı bu kış Türkiye’yi nasıl etkileyecek? TRT Haber",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "\"Oğlum terör örgütüne katıldı\" dedi! Cani babanın 12 yıllık yalanı - Habertürk",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTVhYakFfdzNHZklHYzd4TFRoLW5ucU9KYVVBWUJBTzAxSzFoRzVsMXYtcE9FajdCYnJKM25wUms4a0JONlo0LUdPMlZEQVYyVHNrUGxIYzdwU2ZJUjVPbzd2UkNGQjNEN2FXRkZwaDBFTGNJMW81VXNqTE1reGwwY0lEQ3hiR1hfRl8xempka19WMUFHczZaeERfUFlNSlVsblY2RGtjRThzRkRBNF9Ec0tSU3J0RUlCbXdheV9rQQ?oc=5",
+      "source": "Habertürk",
+      "date": "2026-11-09T10:24:28Z",
+      "description": "\"Oğlum terör örgütüne katıldı\" dedi! Cani babanın 12 yıllık yalanı Habertürk",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "Nvidia CEO'su Huang'a 'bal tuzağı!' 'Yasak aşk' itirafı ABD'yi karıştırdı - Hürriyet",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcmVpejZqS2w5ZEUtalhCc0JXbUZMTkZOZDBySHNJWk41RUY3QVByRGhVV2Q2MVB0bUtzY3Bya0JrNGtIQXE2cE03UC1uWC1xeGdkNUltMkFJQVBFVXgtZ0FVcExoeGZ3Q19fZUtCQnJ4bmtPNmRqS2VDY01XMi1Da3A2S1Q2THp5YndXdTBVX2FYMW9xSG5uNmRlS1lrNHFHd0wxYlU2aGJqbEZK?oc=5",
+      "source": "Hürriyet",
+      "date": "2026-11-09T13:09:37Z",
+      "description": "Nvidia CEO'su Huang'a 'bal tuzağı!' 'Yasak aşk' itirafı ABD'yi karıştırdı Hürriyet",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "SON DAKİKA: Başkan Erdoğan’dan Terörsüz Türkiye mesajı: Bu yoldan geri dönüş yoktur - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnY3Q3dhRE9KYW12emQwQmlqQ00tMXRraHdNMkpPRmhfWTNCaUd1LTZaeGNUd2RkcWFNZVdFMk1RY244d01wLUlJTl9XM2dpbEpyc0c4a2x4NEFWU1RLWTV1bFBxYloxbHhNZE1CSWZzVFJ0aHpLZ05lc085alZvb1ZSaEVqVE5UVTdsSGNfekFSVW9GOWl6eFhHLU8zVldiN2RwTFdjZnRCRVNsVFIySVp6djcyYjA?oc=5",
+      "source": "Sabah",
+      "date": "2026-11-09T16:05:00Z",
+      "description": "SON DAKİKA: Başkan Erdoğan’dan Terörsüz Türkiye mesajı: Bu yoldan geri dönüş yoktur Sabah",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "\"Terörsüz Türkiye sürecinden geriye dönüş olmayacak\" - Son Dakika Haberleri - TRT Haber",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSEkwdGVreVpHYkh1azFFek9zWkZmZmhEcFVCbEtITURCaXFxc20zQ3hXTjJ3VDJCeUZFTmNfcElmZ2t0d2huMjNNcFoyUmRyU1VLdnNfYmVFRTMyV1lTdWs0X1RFeXE5N212bWdUUHh5cmppRDJQYjZjNng0VUhZSE5UYUF3YXZVYzhZUmxsRURxRDh6SDZWVk1wYnozYzBZWnJ3aGVZTDdKUGtOQjAxajFkU0dYcUJIX1JxQmtEWQ?oc=5",
       "source": "TRT Haber",
       "date": "2026-11-09T10:00:00Z",
-      "description": "Cumhurbaşkanı Erdoğan: Terörsüz Türkiye sürecinden geriye dönüş olmayacak TRT Haber",
+      "description": "\"Terörsüz Türkiye sürecinden geriye dönüş olmayacak\" - Son Dakika Haberleri TRT Haber",
       "image": "",
       "category": "Son Dakika"
     },
@@ -146,11 +164,38 @@
       "category": "Son Dakika"
     },
     {
-      "title": "Kurum: Türkiye, tarih boyunca bir köprü olmuştur - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1BtOU1ESkZhWFVLRU5EUHlKMUJ4VXREaTFYMUExbkNyZUtFendBLWNETVducW9jbnc2MUdUblhUX3NVY19yUWltSmtMZUxKcFlrT1BMMjF3WDdWNkdoeUhyQkZucnFybUFkVTdrcHNlcmJyclZXQy12VXNzWVpaYWtIOHpVZDZKUVE?oc=5",
-      "source": "Bloomberght",
-      "date": "2026-11-09T09:16:51Z",
-      "description": "Kurum: Türkiye, tarih boyunca bir köprü olmuştur Bloomberght",
+      "title": "Son dakika... Kabine, Cumhurbaşkanı Erdoğan başkanlığında toplandı - CNN Türk",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQWYzVXE3a09sOW1lMWZIUF9yX0p2TGNNQ283Z3VMeUczSkdYTVBzTGlEUEk1Y3ZzVWN2dEV2QnJHbTRmel9EdVBDazBsWm9XOEltbXNHR2FtODkzZ3pXRVhmMFU2QXJxWWpPb19qOU5KWVp3eEFOc0dvTVIxeElZbjZ4QmswLTJvdm51WU9VQzhNSU9SS0lBYUc5NUtNYUEwZnQwSg?oc=5",
+      "source": "CNN Türk",
+      "date": "2026-11-09T13:53:10Z",
+      "description": "Son dakika... Kabine, Cumhurbaşkanı Erdoğan başkanlığında toplandı CNN Türk",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "Son dakika... Cumhurbaşkanı Erdoğan: İki sahada yeni petrol keşfettik - Hürriyet",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZjJKblpiM1YxWm5VcHFHVTFzSEtwSVd2emNSNktoam1OSVBzM2F4TW5VWHdqWXhWOG05LVpBNG5VUURxeXRJdkZxM2FGYU5YYTBET3dGTVJzblJzX1EtdXNfNGdyRDNYeFMtejVxX2sxWWZMZERCQzBWVUwzVzdjb1MxaWNwUTdJeDBNYUNTMTJxcTE1bk9oVmlQYw?oc=5",
+      "source": "Hürriyet",
+      "date": "2026-11-09T18:15:59Z",
+      "description": "Son dakika... Cumhurbaşkanı Erdoğan: İki sahada yeni petrol keşfettik Hürriyet",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "Cumhurbaşkanlığı Kabinesi bugün toplanacak - TRT Haber",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb2lpWHlNb2FvUkJKaktSRWpMb2xUb1d4MExSckw3cDNXaVVFbXBZY0NwLTZuRmVrVWFWU3duZ2JrU25WSlJZU0VjdGdNWXZwRmd3UEVCUXl2MDVjelphQTl5dHhERFZiRXhna3JWM3AxbklrZ3lEUVZSbWl6OTByMi1JTWsyT2JXeE94aWw4ay1xdjRjMFVJ?oc=5",
+      "source": "TRT Haber",
+      "date": "2026-11-09T02:34:00Z",
+      "description": "Cumhurbaşkanlığı Kabinesi bugün toplanacak TRT Haber",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "SON DAKİKA... Adana'da 4.6 büyüklüğünde deprem! - CNN Türk",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFRadzVpeFlMYi1sLUFRYlZfUmhLMlJ2a3JRTzU5ODgzNThOTDlzS0o4dFJMSDFXbWFHQXF2WEsxdGtHVEpYWUNyUTd6UlZldnVUQVFwd3lzR0JBYllFN3k2RUJXRTZvRjhHdndsZTYxMVNZWGxMUzhxLTJya2JpRkMzdkE4NWtjOXc?oc=5",
+      "source": "CNN Türk",
+      "date": "2026-11-09T12:38:00Z",
+      "description": "SON DAKİKA... Adana'da 4.6 büyüklüğünde deprem! CNN Türk",
       "image": "",
       "category": "Son Dakika"
     },
@@ -164,15 +209,6 @@
       "category": "Son Dakika"
     },
     {
-      "title": "Son dakika... Kabine, Cumhurbaşkanı Erdoğan başkanlığında toplandı - CNN Türk",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQWYzVXE3a09sOW1lMWZIUF9yX0p2TGNNQ283Z3VMeUczSkdYTVBzTGlEUEk1Y3ZzVWN2dEV2QnJHbTRmel9EdVBDazBsWm9XOEltbXNHR2FtODkzZ3pXRVhmMFU2QXJxWWpPb19qOU5KWVp3eEFOc0dvTVIxeElZbjZ4QmswLTJvdm51WU9VQzhNSU9SS0lBYUc5NUtNYUEwZnQwSg?oc=5",
-      "source": "CNN Türk",
-      "date": "2026-11-09T13:53:10Z",
-      "description": "Son dakika... Kabine, Cumhurbaşkanı Erdoğan başkanlığında toplandı CNN Türk",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
       "title": "Türkiye'den Mısır'a taziye mesajı - Hürriyet",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYWswaGhhVEtpTW81T0ctaDFyYW5CX3pWU19GVVZjLTZDRDlFaThnVVBZYkJXejBqRUg4eDdxODJrRFVISjVoZFFxQy1EaWRYb3hRclNwUGgwaWU3enR1ZkxlSzJ6MUo2VGVXdl82LXFVMlMwSm8wak9zV215OWJDaQ?oc=5",
       "source": "Hürriyet",
@@ -182,11 +218,11 @@
       "category": "Son Dakika"
     },
     {
-      "title": "SON DAKİKA... Adana'da 4.6 büyüklüğünde deprem! - CNN Türk",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFRadzVpeFlMYi1sLUFRYlZfUmhLMlJ2a3JRTzU5ODgzNThOTDlzS0o4dFJMSDFXbWFHQXF2WEsxdGtHVEpYWUNyUTd6UlZldnVUQVFwd3lzR0JBYllFN3k2RUJXRTZvRjhHdndsZTYxMVNZWGxMUzhxLTJya2JpRkMzdkE4NWtjOXc?oc=5",
+      "title": "SON DAKİKA | Cumhurbaşkanı Erdoğan: İzmir'deki patlamada sorumlular ortaya çıkarılacak! - CNN Türk",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUwyWkFEZ05pZEZESVltaTVzS21iWkxhNm1WYVBKVjNtN1pnWEltdUpGU2tmSllodEV6ckRpR2xvVXcwT1pqeEFHc3dmRnYzSzFVYzh0YnBoNjE1MzUwN2RXcVhPSXZQOU5oVk1oMFlsN0daeXFuM2RUTWJrZjRQbE45dnR3M1ZEZ2pwYW9SeHJiRjk5UFJjS3ZjOWlXc3lRRllTZjR5Nm9Td2pXeXQwa1V1cG94M2xNTTV6Yi1NU3YwQVE3WW10TlpiSU0?oc=5",
       "source": "CNN Türk",
-      "date": "2026-11-09T12:38:00Z",
-      "description": "SON DAKİKA... Adana'da 4.6 büyüklüğünde deprem! CNN Türk",
+      "date": "2026-11-09T16:07:00Z",
+      "description": "SON DAKİKA | Cumhurbaşkanı Erdoğan: İzmir'deki patlamada sorumlular ortaya çıkarılacak! CNN Türk",
       "image": "",
       "category": "Son Dakika"
     },
@@ -218,6 +254,15 @@
       "category": "Son Dakika"
     },
     {
+      "title": "Kurum: Türkiye, tarih boyunca bir köprü olmuştur - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1BtOU1ESkZhWFVLRU5EUHlKMUJ4VXREaTFYMUExbkNyZUtFendBLWNETVducW9jbnc2MUdUblhUX3NVY19yUWltSmtMZUxKcFlrT1BMMjF3WDdWNkdoeUhyQkZucnFybUFkVTdrcHNlcmJyclZXQy12VXNzWVpaYWtIOHpVZDZKUVE?oc=5",
+      "source": "Bloomberght",
+      "date": "2026-11-09T09:16:51Z",
+      "description": "Kurum: Türkiye, tarih boyunca bir köprü olmuştur Bloomberght",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
       "title": "Kabine, Cumhurbaşkanı Erdoğan başkanlığında toplandı - Hürriyet",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaUxxbmpfaUdxdVNpZVlEVHRyTXBVVDdZZ2lTdFZJNnUxV0FjZUdLTXVRTEo3bTBHaEdkaVo1Um1VaGREZHdaSVFLSXpHby1TQ1FMSE9SNFdYanZ5YjliaXJRNlV4U05WZTVHSkZJZk1VMXNFdEFfRXpSQXVOeW5scUtFcHpfbDZNN1dNdUFBNEJtT0NBT0ZWQUZaQQ?oc=5",
       "source": "Hürriyet",
@@ -236,20 +281,20 @@
       "category": "Son Dakika"
     },
     {
-      "title": "Bakan Gürlek'ten fon soruşturması açıklaması: \"Kimse korunup kollanmıyor\" - CNN Türk",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHVwYWJLejhqcWQ2NXZBTUpjX0xocGxEX2l6dXEzNmdlWXRFNnRtT2s5cy1xTERidHBtNWtGdEpxYzEyQTBtM1dBWkFBMHFJcklEMjBRclJ6U0RXSk94UHRQUllSZTdEYURqaVpySTdpM2tLQlZSY0ctQlhuY3VsV3BvSVNqY2RFSTladGhWZzR6b3AyR0s4dnZ6WWp1YnNaQWM1a1FzXzFwbks1b1E?oc=5",
-      "source": "CNN Türk",
-      "date": "2026-11-09T15:33:27Z",
-      "description": "Bakan Gürlek'ten fon soruşturması açıklaması: \"Kimse korunup kollanmıyor\" CNN Türk",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
       "title": "Son dakika... İzmir Aliağa'da HABAŞ'a ait karbondioksit dolum tesisinde patlama: Ölü, yaralı ve ulaşılamayan işçiler var! - Cumhuriyet",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUkkyOXpsRGt6VzR5TnN1Q2RiRkFwdGlKdElrc252cDVXckZ2ZUxBVnlIb0RFZFg3RDRaaWd3bGV5VDJ1VHh5ZGJtblRveFZ4a3Z1TkpYNHdyTDFmazFSMjU3VWd2TnZhTDJmQ0IzclRHUUY4MjF3Vko1M0R0bjRNeTRFQUdsd18yNkppdFBWT1hMTGdIYkFXaF8zYkx1YVVVN3I1cXpKT2pnZmU1clpOTlVpa0w0YUZtMzYyaGdrZ0t4dUlHcEJZTjlEQmdPX3dTZFVoemt5dk9ibTV2c3FFSjhEVUxvc2hTaFZfaWpTTU0xTEE?oc=5",
       "source": "Cumhuriyet",
       "date": "2026-11-09T09:29:00Z",
       "description": "Son dakika... İzmir Aliağa'da HABAŞ'a ait karbondioksit dolum tesisinde patlama: Ölü, yaralı ve ulaşılamayan işçiler var! Cumhuriyet",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "Bakan Gürlek'ten fon soruşturması açıklaması: \"Kimse korunup kollanmıyor\" - CNN Türk",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHVwYWJLejhqcWQ2NXZBTUpjX0xocGxEX2l6dXEzNmdlWXRFNnRtT2s5cy1xTERidHBtNWtGdEpxYzEyQTBtM1dBWkFBMHFJcklEMjBRclJ6U0RXSk94UHRQUllSZTdEYURqaVpySTdpM2tLQlZSY0ctQlhuY3VsV3BvSVNqY2RFSTladGhWZzR6b3AyR0s4dnZ6WWp1YnNaQWM1a1FzXzFwbks1b1E?oc=5",
+      "source": "CNN Türk",
+      "date": "2026-11-09T15:33:27Z",
+      "description": "Bakan Gürlek'ten fon soruşturması açıklaması: \"Kimse korunup kollanmıyor\" CNN Türk",
       "image": "",
       "category": "Son Dakika"
     },
@@ -263,11 +308,29 @@
       "category": "Son Dakika"
     },
     {
-      "title": "Altın fiyatlarında son durum - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc1FnTUN3RWdMRzBwLW81NFZvajVLcEJSS0I5dHc1RENTTTVoQVdWN3FyN3gyMFVEUHcyRWVPRmZtTVowa0JHT2ZycTJUVVBCTFpTUkVYMG5rZFZwaWRxYW5WaGpLZDJQX3EyOG1nSDJBRFNYNnd3VGswX2lCdkZaZVJDaGNkZw?oc=5",
-      "source": "TRT Haber",
-      "date": "2026-11-09T06:28:00Z",
-      "description": "Altın fiyatlarında son durum TRT Haber",
+      "title": "SON DAKİKA! Van’da deprem oldu - Alanya Postası",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mTG9nWDNKUGFkSVZCS0liZmkxalBHRVlDSEFPSDFjejJjTnNIVWlSUHJ0NzJZSG1CLVZFbThRYzZFNkZSNTluak5pcW1xSzNHRVZ3VlluUlB5NnZ2bTBJeGhFWFZzT245dW1ZTENQVWc?oc=5",
+      "source": "Alanya Postası",
+      "date": "2026-11-09T18:57:00Z",
+      "description": "SON DAKİKA! Van’da deprem oldu Alanya Postası",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "Azerbaycan’dan Türkiye’ye taziye mesajı - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR18tNkJFaUx5TVIxSVNJbnRyV1JEV29YWjRGVGY4ellud2NZT2tmN3FtYjJjeXcwSjdiWWQ3aHZzTmx6amdvV1hXX3hKb1dQZEZfaXNCNEZKN2Z2UndScUtJRWwzblMyTHY0T2ZRZHpPT2dHZTdva1A5S0EzUzU0ZkkwSWlGN1nSAYoBQVVfeXFMUGdJdTBBWmNpSlhyMmZ0cmJmeEo0U3FES3YzbDl2YzZCOUwwZTktTmNOanBZZU1HYTVUYlE0bUg5UTEtYjlKWjRmdGsyQmxqQUwxS250cWoycU56NEJaVmtYQXlnVGtYZ1B4R3ZQNDVTSUhlY3owMWlXUEpLYVdRQkZrcEZTNkZTQmRR?oc=5",
+      "source": "Sabah",
+      "date": "2026-11-09T19:36:21Z",
+      "description": "Azerbaycan’dan Türkiye’ye taziye mesajı Sabah",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "Son dakika... AFAD duyurdu! Van'da 3.5 büyüklüğünde deprem - Milliyet",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUi11Y1hpdXVqNnJab0doS1ZuOWtUeFZiRE1zT3JDd2RneWl2U0JMRVprT1JqeVE1QUlxbEU3TGN3eG94azZ1WEFHSTBXSElEM0dka2xHN0tfVHU5NkhxaThpUDk4R2dodmtFNjVDbGNyVXB4ZkpsaVhuSk5YYjZvbWlhckwtcTV0UEU2dkxISXhGUmt4SUhNRV9ueEo?oc=5",
+      "source": "Milliyet",
+      "date": "2026-11-09T18:58:00Z",
+      "description": "Son dakika... AFAD duyurdu! Van'da 3.5 büyüklüğünde deprem Milliyet",
       "image": "",
       "category": "Son Dakika"
     },
@@ -281,11 +344,20 @@
       "category": "Son Dakika"
     },
     {
-      "title": "MHP lideri Bahçeli’den 10 Kasım paylaşımı! - Sabah",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdm1RaF9TckY5cDB2bHpMOU43QnhwaGNBV2F5M3ZVSDVlT1JvbThOcWlnLTItZUNTMDU1STY2WWxiV2xPZDBfS3hGd3VadnhNMkptQ3BlSTNIbnJzZzBOTUxDUG5CcGJwM1FDSWk5UmoxNDYwVElab1RXb0hCMlMtbjAtY29qZXZZdnhF0gGOAUFVX3lxTE0zTmVtWGpHdG5YcXBydGlmbHBIQ3Z2eV9ReHBOanB0MVgtRHgxNndqZFlPNnpuSzRjYXRlYTlhZnhoVmRod0ppOXJraXZEUG9Xdk9WUjNpdjdIb0VHdlZyN3hjX1FLV2NuME5HMmo3ZEtuaURNLWI3bUZnYU96UGl6d2ZMUzRBd1JkaDAxeUE?oc=5",
-      "source": "Sabah",
-      "date": "2026-11-09T15:14:00Z",
-      "description": "MHP lideri Bahçeli’den 10 Kasım paylaşımı! Sabah",
+      "title": "Bakan Kacır'dan Apple'ın Türkiye projelerine ilişkin değerlendirme - Hürriyet",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSXpRZ3dwcld0UzVWeUdtQlJlMmJaTmxEVVhPMnNXOFFQQlB0MTlKRHpmRmt2T1B6RU1rVkNMMXNfYjB6NUFMckM1eWJkMFdWWGRVTWNtR01mQW9oMUNoVWktZWRtYThKSkdyMUhIOFRubkZVWTlUMFVhRHQxek9kQWNiQ2FUM3pOQVpFMEgzd2ZHblRpSVk2Z0dpNkZXdnJwWHRjbzdMTHRDUUVQ?oc=5",
+      "source": "Hürriyet",
+      "date": "2026-11-09T19:17:01Z",
+      "description": "Bakan Kacır'dan Apple'ın Türkiye projelerine ilişkin değerlendirme Hürriyet",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "Bakan Kurum: \"Liderler zirvesine İsrail'i davet etmedik\" - CNN Türk",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnV4dUYwcFZ2MGJQX1FScncwNEtQLUZzRllWWVBENmdZaTRUT3ZtY0JwdFJGYkRsTHBwNEZvc0RsS2J1ejMzWHBxOTV4SUVIeWFpckQwZU5PSXctalIyQnFENnpXWFp0ZXFJbWxVZFAzMUw3TURFdlFRTXJ6RUMtbU5tUFZMaEliR2RxbXo3d0Y1bktHbTRN?oc=5",
+      "source": "CNN Türk",
+      "date": "2026-11-09T19:34:00Z",
+      "description": "Bakan Kurum: \"Liderler zirvesine İsrail'i davet etmedik\" CNN Türk",
       "image": "",
       "category": "Son Dakika"
     },
@@ -299,20 +371,29 @@
       "category": "Son Dakika"
     },
     {
-      "title": "Türkiye'nin ev sahipliğindeki COP31 bugün başlıyor - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmJNdVkzWXE3RXF4dEhxdzRIazFwWnB4YUs5QXpqbGk0ZGk0aHU5eWZTVWNsajJnY3B5Q3VLdkpzcUtDb3VZTVlKcC1DTXhfLWRrRXVrb2VsQTRwWWJvX1U5T3dLcVVIbGJoOHNPTmRFNVFqRTAwSVZQeElVelg1MFRfSUpiekdVX0hvRVZZTlFKZ0lJWTdIS0NRZ1JPR2M1?oc=5",
-      "source": "TRT Haber",
-      "date": "2026-11-08T21:04:00Z",
-      "description": "Türkiye'nin ev sahipliğindeki COP31 bugün başlıyor TRT Haber",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
       "title": "Bakan Kurum: Artık söz tükendi, sıfır noktasındayız - TRT Haber",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmJLZ29kUjRFeFNBNlpjcEFSV1I3bHgxUnV6dE9wdmxxejBqeUNMaktkVi1yTFBzV2NTZ1VtTEJ2TWFJOWsxMU5IMUliUkFWcUVTTUdkbkRXMVJQSWdDY1MxMXB3VjVnclRtVkl0YlVMUUFRQTdKdGJhMVd3UVZ2NkNfOW1tWUFTdGNiRW9hME92bHd1eE05VWJ1MUFIZmt0?oc=5",
       "source": "TRT Haber",
       "date": "2026-11-09T09:14:00Z",
       "description": "Bakan Kurum: Artık söz tükendi, sıfır noktasındayız TRT Haber",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "Başkan Özlü'den 10 Kasım mesajı - Habertürk",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHotR3lRYzZTT3pTVmhiRllvWE5lLV9OQjhNNnptRW1WODI4X00xSTFLY0pRYnIyQm85VjFUZ2xCZnBXOTJiVVhFRHZrX2ZEVlBicjBBQ1lzZFo0ejljSmhnd1JCZlpxWVZXTzJ6MlpNeFZuenN5NjNQVjFqc3VkSkFUWHl2OGpVSkFpZkg0NHVWWm9vMHdwTQ?oc=5",
+      "source": "Habertürk",
+      "date": "2026-11-09T19:21:00Z",
+      "description": "Başkan Özlü'den 10 Kasım mesajı Habertürk",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "9 KASIM YENİ SON DEPREMLER LİSTESİ! Az önce deprem mi oldu, nerede kaç şiddetinde? Kandilli Rasathanesi/AFAD en son depremler listesi... - Milliyet",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeGdseV9LLVhlUXNvbFdNQnFvaEctYTUtUGMyQU9VUk9rNXFuMW1VWkdBRExjUFdHak5WQW5EQ0Fmc3ZxeVcxNW1XQUx5bkY4aDNrbmhBQUtKWDJrY3h5R0p3cWR2MnRpWFZmUm1WUmZtakJ5MDdWRVZ3Q2JSVVRpRl94Q2RCbTgtbmRMM1VhS0NSeHhveUFwc216WE1GUFR0T1pCS2U4MTl2RW5Td0tuaXNLOXQyOWpxN3NiNzVQZnVJMDRUWEptbmdXaHpLMlN3d3g3VTFpMjZZbmVfMEU1STZqMkRXbkRLZVBNY0E2bDh4TWpOa3AtYkQzRQ?oc=5",
+      "source": "Milliyet",
+      "date": "2026-11-09T19:29:44Z",
+      "description": "9 KASIM YENİ SON DEPREMLER LİSTESİ! Az önce deprem mi oldu, nerede kaç şiddetinde? Kandilli Rasathanesi/AFAD en son depremler listesi... Milliyet",
       "image": "",
       "category": "Son Dakika"
     },
@@ -326,11 +407,29 @@
       "category": "Son Dakika"
     },
     {
-      "title": "Son dakika... Adana'da 4.6 büyüklüğünde deprem - Hürriyet",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYVlOLUtIV3J3cGpJdW40YkpFVEp4eE1ZUlJIWG5KNDU2MUxXU0dCOUMtbmx5TVR3MVd5UVRzMkc5MDltdDcxemhOLXN5NG5QX2FrQmttUUVvSW9DNkE2RFFCMS15YkxEYl9FYkpsZXFHN0NrUWg5cV81bGQ0dzQyWVNQbUo4aGNCMHplT2s4Yw?oc=5",
-      "source": "Hürriyet",
-      "date": "2026-11-09T13:54:17Z",
-      "description": "Son dakika... Adana'da 4.6 büyüklüğünde deprem Hürriyet",
+      "title": "KADEMELİ EMEKLİLİK ÇIKACAK MI 2026 SON HABERLER | Erken emeklilik tablosu belli oldu mu? - Bigpara",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSkk4WDlldWJ5eHhGeVMzNlZVRlhNZklWbDdvVnFHTmNQRWFZa0p4ZW5BYzEwWjVfamEyQ2lfd2FtY2pCMGZELWxtTV9mc1RocW9MWG1aYnJENlk3NnBDc2VOalF2eVRuUjRZYTFHa2dIMnN6ZVY1bTFYY2Y2QXY3elZkWks5MU1CaDFhLTdCMjFUVkd4WnE5SkRLLVh5UWxqM0lnNjV3MHpuUmcteWd5bHVjTTZfU0NhQjFjMnFvZFlpLTJWVzdRRGJMMi1BYkFGV2dCYlFjNjlhZ2xnaTAtTEt1aFZFQzZORVVN?oc=5",
+      "source": "Bigpara",
+      "date": "2026-11-09T11:35:00Z",
+      "description": "KADEMELİ EMEKLİLİK ÇIKACAK MI 2026 SON HABERLER | Erken emeklilik tablosu belli oldu mu? Bigpara",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "MHP lideri Bahçeli’den 10 Kasım paylaşımı! - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdm1RaF9TckY5cDB2bHpMOU43QnhwaGNBV2F5M3ZVSDVlT1JvbThOcWlnLTItZUNTMDU1STY2WWxiV2xPZDBfS3hGd3VadnhNMkptQ3BlSTNIbnJzZzBOTUxDUG5CcGJwM1FDSWk5UmoxNDYwVElab1RXb0hCMlMtbjAtY29qZXZZdnhF0gGOAUFVX3lxTE0zTmVtWGpHdG5YcXBydGlmbHBIQ3Z2eV9ReHBOanB0MVgtRHgxNndqZFlPNnpuSzRjYXRlYTlhZnhoVmRod0ppOXJraXZEUG9Xdk9WUjNpdjdIb0VHdlZyN3hjX1FLV2NuME5HMmo3ZEtuaURNLWI3bUZnYU96UGl6d2ZMUzRBd1JkaDAxeUE?oc=5",
+      "source": "Sabah",
+      "date": "2026-11-09T15:14:00Z",
+      "description": "MHP lideri Bahçeli’den 10 Kasım paylaşımı! Sabah",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "Fransa duyurdu: Süpermarketlere saldırının arkasında İran var - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0RkNjRrbk1lT05ucm9jMm9TVnU2Nm01TkZabTZIa0lYM2J0b2w2LUtWdkQzS2tHT3liZzhIT3Z4RmhFejU4VV9KN1ZZbkJydUVKYndGUlZEY3JfZDZqM1ZpeXhvaldBNmJaUlNHR2VmdHc4b2VHTS1ETDQ2YnlUaE1ZVEN2SXNpTjkzZldabEUyYWk0Smp4TGdyb3RfNXdL0gGjAUFVX3lxTE9jc09uQ19NckxGa3FGOFJfdk92bTdhcnE0UzBDSDZYX2hjeERsN1ZuUVExUERlSF9VdXVHdktlXzVEVlhoeHJYQzl6VVAweExMeHd4YTVxSmJ5VTdpdHNjcmdUdUZvNWJMQ2VZckFtdVpIbWFaM3daTWNGVEJxZTAwQ05vYlotbmsxTzFZeHI5UUdNWUU4REh1VmJVeTg1d0ZEMnM?oc=5",
+      "source": "Sabah",
+      "date": "2026-11-09T18:04:29Z",
+      "description": "Fransa duyurdu: Süpermarketlere saldırının arkasında İran var Sabah",
       "image": "",
       "category": "Son Dakika"
     },
@@ -353,20 +452,20 @@
       "category": "Son Dakika"
     },
     {
+      "title": "Son dakika... Adana'da 4.6 büyüklüğünde deprem - Hürriyet",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYVlOLUtIV3J3cGpJdW40YkpFVEp4eE1ZUlJIWG5KNDU2MUxXU0dCOUMtbmx5TVR3MVd5UVRzMkc5MDltdDcxemhOLXN5NG5QX2FrQmttUUVvSW9DNkE2RFFCMS15YkxEYl9FYkpsZXFHN0NrUWg5cV81bGQ0dzQyWVNQbUo4aGNCMHplT2s4Yw?oc=5",
+      "source": "Hürriyet",
+      "date": "2026-11-09T13:54:17Z",
+      "description": "Son dakika... Adana'da 4.6 büyüklüğünde deprem Hürriyet",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
       "title": "Son dakika... AFAD duyurdu! Adana'da 4.6 büyüklüğünde deprem - Milliyet",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTHRuV0FBMjI4bDlqREJhWjBDQk5nMU5KWFZ2aEF1c0h4bEZ1NGFkWWRNcVBmRXY3a09HZnpDekVpMWJGRHRaQ1NfaWF1Slo4cTg2V29qbDB2dEFPdXNkanJnbW5KcUlzYlFYal94bHdCM3NJVnFKYWZWTk5XNGR0TWJUVFJGeWFyMnZZUTZpVlpKemhka1UwNkdrVnpPMmUtZHVqdVFEbm5PQWc5T1Z2ZlB3?oc=5",
       "source": "Milliyet",
       "date": "2026-11-09T12:35:00Z",
       "description": "Son dakika... AFAD duyurdu! Adana'da 4.6 büyüklüğünde deprem Milliyet",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "KADEMELİ EMEKLİLİK ÇIKACAK MI 2026 SON HABERLER | Erken emeklilik tablosu belli oldu mu? - Bigpara",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSkk4WDlldWJ5eHhGeVMzNlZVRlhNZklWbDdvVnFHTmNQRWFZa0p4ZW5BYzEwWjVfamEyQ2lfd2FtY2pCMGZELWxtTV9mc1RocW9MWG1aYnJENlk3NnBDc2VOalF2eVRuUjRZYTFHa2dIMnN6ZVY1bTFYY2Y2QXY3elZkWks5MU1CaDFhLTdCMjFUVkd4WnE5SkRLLVh5UWxqM0lnNjV3MHpuUmcteWd5bHVjTTZfU0NhQjFjMnFvZFlpLTJWVzdRRGJMMi1BYkFGV2dCYlFjNjlhZ2xnaTAtTEt1aFZFQzZORVVN?oc=5",
-      "source": "Bigpara",
-      "date": "2026-11-09T11:35:00Z",
-      "description": "KADEMELİ EMEKLİLİK ÇIKACAK MI 2026 SON HABERLER | Erken emeklilik tablosu belli oldu mu? Bigpara",
       "image": "",
       "category": "Son Dakika"
     },
@@ -380,20 +479,11 @@
       "category": "Son Dakika"
     },
     {
-      "title": "Son Dakika Deprem Haberleri AFAD ve Kandilli Listesi: 9 Kasım 2026 bugün az önce Adana'da deprem mi oldu, en son deprem nerede oldu? - Milliyet",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeGdseV9LLVhlUXNvbFdNQnFvaEctYTUtUGMyQU9VUk9rNXFuMW1VWkdBRExjUFdHak5WQW5EQ0Fmc3ZxeVcxNW1XQUx5bkY4aDNrbmhBQUtKWDJrY3h5R0p3cWR2MnRpWFZmUm1WUmZtakJ5MDdWRVZ3Q2JSVVRpRl94Q2RCbTgtbmRMM1VhS0NSeHhveUFwc216WE1GUFR0T1pCS2U4MTl2RW5Td0tuaXNLOXQyOWpxN3NiNzVQZnVJMDRUWEptbmdXaHpLMlN3d3g3VTFpMjZZbmVfMEU1STZqMkRXbkRLZVBNY0E2bDh4TWpOa3AtYkQzRQ?oc=5",
-      "source": "Milliyet",
-      "date": "2026-11-09T12:41:37Z",
-      "description": "Son Dakika Deprem Haberleri AFAD ve Kandilli Listesi: 9 Kasım 2026 bugün az önce Adana'da deprem mi oldu, en son deprem nerede oldu? Milliyet",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "Kutup girdabı bu kış Türkiye’yi nasıl etkileyecek? - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHAxaUVlV3BPZDVueFhsenhZOXc1WlZPUmRqYTBBUDJHYzRFUnh0Rzc3cWxlTXRyWmJUTDROb3hrRmE0aXlSWDJNeW0zb3R2emdLYTV0cHdXR2VpcG43bkRCNTI2MDBNUzdWdHo2RDRkRHZDSV83SkEzX241NkkxaGgxYTkybVJrdndnMEdTdjdobkZ2Z2Q2TzJwd1FFQQ?oc=5",
+      "title": "Türkiye'den Polonya'daki terör saldırısına taziye mesajı - TRT Haber",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV0RHcDVoc2ptUEZ6aC1JeTNNUXktazZ2czZwTmxTQkhGU0RFdUNwYTJkR2FfVURsWElQUkF5bjVEeTdXdGV5TjBueWt4RTA0WjNlRUg0eFJ1dTNGWUkzNGFELTN5VGhiRHZ4cTVkR3ZESE84TzQxNVE3R1UyNlVheDNlb3NKX0l1djJaaTdxQkJ3ZzFHSnE3U3ctLWdFdmVBdnNTTGJDaw?oc=5",
       "source": "TRT Haber",
-      "date": "2026-11-09T07:44:00Z",
-      "description": "Kutup girdabı bu kış Türkiye’yi nasıl etkileyecek? TRT Haber",
+      "date": "2026-11-08T09:01:00Z",
+      "description": "Türkiye'den Polonya'daki terör saldırısına taziye mesajı TRT Haber",
       "image": "",
       "category": "Son Dakika"
     },
@@ -416,20 +506,11 @@
       "category": "Son Dakika"
     },
     {
-      "title": "Kayseri Büyükşehir Meclisi toplandı - Habertürk",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSExVeFZtakFyamFnNWR5TVM3Yk85SmMyaWp4RllrYWdpcVYxdlNOZi1LNWJsYjg2YWUyaUgyNTJLZVZjZ3d1YXBGS1hxMmlSWWRuaEdIMU90U2h3WjdiSnVqRm1fOXhYSlpvdW5OYnVaazZNbDRZV3NhZ1lWaVhvOTJLNFYyMEVRbDVwUUl5UGF5UHFZUjNZZzZCLW9SNHdYSFE?oc=5",
+      "title": "16 yaşındaki genç annesini döven babasını bıçakla öldürdü - Habertürk",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM0p0SkxtOEd5RS1sNjNCdGtFRjFwalp1LTUyaHdYNlQ1dlVVdEF1ZE1sWlVFaXlNenFCeXhNUzlkY0N6UzFZMl9YcVlaMVlxMHpqc3Z6bnJmR3dkUVVhRFhYcWxCb29VRHoxQzNZeHlkSzN1TTFwMGdRdzV5SlpVNUdmS0VLSDZlM1UxYzR0ME5zdHlQYlVmYjdfUE53STRwaWN3OGd3Y1hnSjZHWExPRHRwRXdTcjczOGlyRXM2a1B0dnBYSnFDWjVnaG1zUQ?oc=5",
       "source": "Habertürk",
-      "date": "2026-11-09T14:48:00Z",
-      "description": "Kayseri Büyükşehir Meclisi toplandı Habertürk",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "Küresel kamuoyunun gözü COP31'de olacak - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTFWbEI2YVp1eDZEREpZcDkxYm5adVlVUEFmc1liYjUxVWM2SXpuTlZQUjhaV1plaFhoeXJ2eFRTS1Z4STY1Y2hBT0kxc3BBT0lpMmM5cERJdVRCaDQ2MVJJUGNNV3RWZU5teUF1bWQtX0FYbW5ZYTc5QTRiaUItVg?oc=5",
-      "source": "Bloomberght",
-      "date": "2026-11-09T04:50:37Z",
-      "description": "Küresel kamuoyunun gözü COP31'de olacak Bloomberght",
+      "date": "2026-11-09T12:51:16Z",
+      "description": "16 yaşındaki genç annesini döven babasını bıçakla öldürdü Habertürk",
       "image": "",
       "category": "Son Dakika"
     },
@@ -443,11 +524,11 @@
       "category": "Son Dakika"
     },
     {
-      "title": "Dünyanın gözü bu zirvede: COP31 bugün Antalya'da başladı - Sabah",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JTHZaNFVSYU1WQzJOU2txMklGeDhIMkFNbEVkNXhKX3dLQWJ0MVBzN09feU5UZVY5Y2ZSa0FZWWppaEVIUzVGUWw0T3l3M3ZZalExV3pYTVBKa0h3U3NhMEIycU1WQU1WUFJvUHlwRzhzaDczLVHSAXhBVV95cUxNZG9uVzQ4eGdpRVhJY0ZQUGFCQlo5UzhiZl9qTEtFaG5mdzZqdUsxY2w5V2N2ekpOVlpvRC1maVk0UER2ZVVxVDhzbUhhUV9vdlBnNHpGU1A4T1ZGSGR6QzlIMXR4VGNTWnJmNWFsSmJMU1ZyRnZzZVc?oc=5",
-      "source": "Sabah",
-      "date": "2026-11-09T03:59:08Z",
-      "description": "Dünyanın gözü bu zirvede: COP31 bugün Antalya'da başladı Sabah",
+      "title": "Küresel kamuoyunun gözü COP31'de olacak - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTFWbEI2YVp1eDZEREpZcDkxYm5adVlVUEFmc1liYjUxVWM2SXpuTlZQUjhaV1plaFhoeXJ2eFRTS1Z4STY1Y2hBT0kxc3BBT0lpMmM5cERJdVRCaDQ2MVJJUGNNV3RWZU5teUF1bWQtX0FYbW5ZYTc5QTRiaUItVg?oc=5",
+      "source": "Bloomberght",
+      "date": "2026-11-09T04:50:37Z",
+      "description": "Küresel kamuoyunun gözü COP31'de olacak Bloomberght",
       "image": "",
       "category": "Son Dakika"
     },
@@ -461,11 +542,29 @@
       "category": "Son Dakika"
     },
     {
-      "title": "Türkiye hazır: Let's COP - Milliyet",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fNGYzX3QwbG5zTTF3UTZjN0JjYkxWMXE0UmFYc3hCbW0zRTNneEhCU0ZPU19CR254NHVnNy1lVlVEQ3NLY2pRd1Jobk9jemFtZUw0Z0xQYzUzUTVEamt0TVU4cU9rZUNsVzk5c2p6YlFYeWs?oc=5",
-      "source": "Milliyet",
-      "date": "2026-11-09T03:51:00Z",
-      "description": "Türkiye hazır: Let's COP Milliyet",
+      "title": "Çorum’da zincirleme trafik kazası: 8 yaralı - Medya Gazete",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORVdCV2U1aEhhTzFBRzhiYVVNdkJZc3FqbE1HMFFpLU5oN0RIb0VLWXFpTFVscGg4b1hiVFh1VjVaV1pTcTJrUkpZY2xoY2ZBNlFHT2l0emdfQmtscHY2NEVOcmlaZkd5emlnVUFMZmFxYU44bDhKNXI5by1nbGNjUw?oc=5",
+      "source": "Medya Gazete",
+      "date": "2026-11-09T19:27:00Z",
+      "description": "Çorum’da zincirleme trafik kazası: 8 yaralı Medya Gazete",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "Muratlı’da trafik kazası: 2 yaralı - Medya Gazete",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hX1J6cDZsVzN1dGhVckdjOF9LOVpaRmVpQmJXVWVWTFdxdWhMd0g1M3lVdzZtV2otaFMwcTU2N0JqcVhKM21WQXdOWmR2cnVBQV9OM25aRjhMWmNqRHRQRkZPYy04OTFxOC05LWtweDJfYld5dzBJ?oc=5",
+      "source": "Medya Gazete",
+      "date": "2026-11-09T19:29:00Z",
+      "description": "Muratlı’da trafik kazası: 2 yaralı Medya Gazete",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "Dünyanın gözü bu zirvede: COP31 bugün Antalya'da başladı - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JTHZaNFVSYU1WQzJOU2txMklGeDhIMkFNbEVkNXhKX3dLQWJ0MVBzN09feU5UZVY5Y2ZSa0FZWWppaEVIUzVGUWw0T3l3M3ZZalExV3pYTVBKa0h3U3NhMEIycU1WQU1WUFJvUHlwRzhzaDczLVHSAXhBVV95cUxNZG9uVzQ4eGdpRVhJY0ZQUGFCQlo5UzhiZl9qTEtFaG5mdzZqdUsxY2w5V2N2ekpOVlpvRC1maVk0UER2ZVVxVDhzbUhhUV9vdlBnNHpGU1A4T1ZGSGR6QzlIMXR4VGNTWnJmNWFsSmJMU1ZyRnZzZVc?oc=5",
+      "source": "Sabah",
+      "date": "2026-11-09T03:59:08Z",
+      "description": "Dünyanın gözü bu zirvede: COP31 bugün Antalya'da başladı Sabah",
       "image": "",
       "category": "Son Dakika"
     },
@@ -488,11 +587,11 @@
       "category": "Son Dakika"
     },
     {
-      "title": "Son dakika! COP31 İklim Zirvesi başladı! Bakan Kurum: Tarihi iş birliğini Antalya'da kuralım - Milliyet",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc2cyLW81UVJFX3NjU25VandsRzF2Z2prNUVFaTRkUlpxeTZTdGhMSXhCZkExZTBCZklXNVhmUG4xQTNfQ0dkLThMVFhLZndLaWNiYjZZQnVmdjFnbkVpNkxSajJHSlVYcTNpcXNzZDE1S3lpMW1oRzhGNnpJSEREOU9zekxwY1dKM2dSWlBCV1NlY0FCdUw2OWJRVXhNLWVkWENsWEhtTU9CNElCbHpLazQzLTBpb2UtVnBQSnVxVkR2RWx4T3dUeHdDOFI?oc=5",
+      "title": "Türkiye hazır: Let's COP - Milliyet",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fNGYzX3QwbG5zTTF3UTZjN0JjYkxWMXE0UmFYc3hCbW0zRTNneEhCU0ZPU19CR254NHVnNy1lVlVEQ3NLY2pRd1Jobk9jemFtZUw0Z0xQYzUzUTVEamt0TVU4cU9rZUNsVzk5c2p6YlFYeWs?oc=5",
       "source": "Milliyet",
-      "date": "2026-11-09T08:58:00Z",
-      "description": "Son dakika! COP31 İklim Zirvesi başladı! Bakan Kurum: Tarihi iş birliğini Antalya'da kuralım Milliyet",
+      "date": "2026-11-09T03:51:00Z",
+      "description": "Türkiye hazır: Let's COP Milliyet",
       "image": "",
       "category": "Son Dakika"
     },
@@ -506,6 +605,15 @@
       "category": "Son Dakika"
     },
     {
+      "title": "Son dakika! COP31 İklim Zirvesi başladı! Bakan Kurum: Tarihi iş birliğini Antalya'da kuralım - Milliyet",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc2cyLW81UVJFX3NjU25VandsRzF2Z2prNUVFaTRkUlpxeTZTdGhMSXhCZkExZTBCZklXNVhmUG4xQTNfQ0dkLThMVFhLZndLaWNiYjZZQnVmdjFnbkVpNkxSajJHSlVYcTNpcXNzZDE1S3lpMW1oRzhGNnpJSEREOU9zekxwY1dKM2dSWlBCV1NlY0FCdUw2OWJRVXhNLWVkWENsWEhtTU9CNElCbHpLazQzLTBpb2UtVnBQSnVxVkR2RWx4T3dUeHdDOFI?oc=5",
+      "source": "Milliyet",
+      "date": "2026-11-09T08:58:00Z",
+      "description": "Son dakika! COP31 İklim Zirvesi başladı! Bakan Kurum: Tarihi iş birliğini Antalya'da kuralım Milliyet",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
       "title": "Tamer Saka: Aksiyona yakın çözümler üretmeyiz - Bloomberght",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMlhZcWR1QU9aOVlwVTM1cTlNcTM2dURQQ2lxZ0M2aG5CZnU5SjVPTURvQXdMZmpHeTZmWGxhOEZvR2FrRms5MmFvSVF3VHdBVjcwcXRFZzEyQThlMHFFa0x2MnhTc2JvLS1LR2JFenNnVVU0cVFoT21VYXpGRDJwU09mYkg4WDg?oc=5",
       "source": "Bloomberght",
@@ -515,20 +623,11 @@
       "category": "Son Dakika"
     },
     {
-      "title": "Son Dakika... Tarihi geçmiş kanser ilaçları soruşturmasında ikinci dalga operasyon: Aralarında doktor ve hemşire de var! - Cumhuriyet",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYnRfZnJ1V0txUno2Zm5pUmQ2ZVJLSWRGQjlmaGdGQjZ0b2h3MTk2WG5fcGtka2xkN3lKM0xoelp4NjhlX1JUZjJFTVpjeFJXUEpvZmtQZmZTS0JNbjZfc2N6R0V4Zjh5R2FIODBIeFFfa3ZQSVBibXVrZzNfM1paN0xQaUgxXzZzWEhrMEw5UkhmbHAtQjlQWnBReTQwU3pUUnkzX1llM3YzVlZsS25uSGxaWkkzVldZb3BoSzdXeUJYS0tZN2xiaTF3dDdNaU9hVGZMRkFkR1JKcWVEZ09KX0pPbkd6UjUzMWJ4TTNMRjZBM0k?oc=5",
-      "source": "Cumhuriyet",
-      "date": "2026-11-09T05:14:00Z",
-      "description": "Son Dakika... Tarihi geçmiş kanser ilaçları soruşturmasında ikinci dalga operasyon: Aralarında doktor ve hemşire de var! Cumhuriyet",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "Konyalı doğaseverler tarihin izinde yürüdü - Habertürk",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdUg2VHF0Y2ZZQ2dmNFNabVNMZ2JjWGNuZTRGWEx3ZmVJX3hCZmpSUHJkLThjWWp6S2RSZzc2ZnFlY2RuNUhKVGtOdEhGbEtQSExGbG5ib21sb2tHRUJwOEZ0ZEV5WlU1Uko4WHhZVkJWRjJQNk1ZZlZYRzVaUUdTVE84M2sxUDktZWNqTEowUW5tZXhVejR0VkNmUHJabmRJTlJYeXprNnU?oc=5",
-      "source": "Habertürk",
-      "date": "2026-11-09T13:22:47Z",
-      "description": "Konyalı doğaseverler tarihin izinde yürüdü Habertürk",
+      "title": "Fabrikadaki patlamada 16 kişi hayatını kaybetmişti: Yaralıların kimlikleri belli oldu! - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTnVidF8wWmZoWlhIZjIxeWh1SUl6STRYMmpzamNqTkE4RVR4elhDcE8tdE9lOFJlVUJVZVZ2YU43T3lfWEtidk1kcXcxbnN2Rnd4ZXFQQUUxM1RqWG1mZUpWYWxHYnhScVRybHp4VmxhVHRPdGpyS05GQW9FY2tfaFVFZ3VaQXlYNkllRjhLUDlBS3k2WHR0VHVqZlZDNGthRXZPd3lTLWx2dnFNNURROVZlbndGdUVGVHpkV1Bhc3LSAcMBQVVfeXFMT1dWelhvMnNfc20tVkRxM1RGdFZzOGprZFpaektadkZPNHlHNVNZbDFfdUpMbkFpZi1QRE8wTXdOUTBtMERGZDFMQXB2S2NFT2RpTFpBNFZYS2JjQ3N4TlF1aHk5NWFPcUdpNWpIbWViM3doSWQ2XzZNbUNwSDhEZ29BMzBHOGZpaG9Bd3dEUnVDS2dSbUM5REhUTkpmdTZfRVJZRWhRYk9HR29CTnVaS0xzemk4UW5MX3pEVGgxR2xrNi1r?oc=5",
+      "source": "Sabah",
+      "date": "2026-11-09T17:20:32Z",
+      "description": "Fabrikadaki patlamada 16 kişi hayatını kaybetmişti: Yaralıların kimlikleri belli oldu! Sabah",
       "image": "",
       "category": "Son Dakika"
     },
@@ -542,6 +641,15 @@
       "category": "Son Dakika"
     },
     {
+      "title": "Konyalı doğaseverler tarihin izinde yürüdü - Habertürk",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdUg2VHF0Y2ZZQ2dmNFNabVNMZ2JjWGNuZTRGWEx3ZmVJX3hCZmpSUHJkLThjWWp6S2RSZzc2ZnFlY2RuNUhKVGtOdEhGbEtQSExGbG5ib21sb2tHRUJwOEZ0ZEV5WlU1Uko4WHhZVkJWRjJQNk1ZZlZYRzVaUUdTVE84M2sxUDktZWNqTEowUW5tZXhVejR0VkNmUHJabmRJTlJYeXprNnU?oc=5",
+      "source": "Habertürk",
+      "date": "2026-11-09T13:22:47Z",
+      "description": "Konyalı doğaseverler tarihin izinde yürüdü Habertürk",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
       "title": "Bodrum’da öğrencilerden Atatürk anması - Medya Gazete",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BQUI1cnNJaklWYXNFbmpsUU1XYzdTQURWSTFtX2VSb0NTM1F5ZnlidVc4dEw0TUNfSVl0ZFdEckQ1ajVvRExkcnJVdnVnUkRNR2cwdjlwZ21sQXE0QlMxNFRUV0FjcnBMcUYxSDBQdlNidl9sX3BNd0JzZw?oc=5",
       "source": "Medya Gazete",
@@ -551,11 +659,11 @@
       "category": "Son Dakika"
     },
     {
-      "title": "Erdoğan’dan kaymakamlara net mesaj - Alanya Postası",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2a1c3MVpCUUFxaGRkVVk3V29vOEpacDN6Ykc3SHpTT0ZRLXRaYUttVWV6OURKWk9ycUZCYVhLSmNRTDlwV05VQzQyZnJxT0lHQVdHdEczTWhIcklENFhzUmxsR1Bfc2xwVjJON25oaVo5RWkw?oc=5",
-      "source": "Alanya Postası",
-      "date": "2026-11-09T15:26:00Z",
-      "description": "Erdoğan’dan kaymakamlara net mesaj Alanya Postası",
+      "title": "Son Dakika... Tarihi geçmiş kanser ilaçları soruşturmasında ikinci dalga operasyon: Aralarında doktor ve hemşire de var! - Cumhuriyet",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYnRfZnJ1V0txUno2Zm5pUmQ2ZVJLSWRGQjlmaGdGQjZ0b2h3MTk2WG5fcGtka2xkN3lKM0xoelp4NjhlX1JUZjJFTVpjeFJXUEpvZmtQZmZTS0JNbjZfc2N6R0V4Zjh5R2FIODBIeFFfa3ZQSVBibXVrZzNfM1paN0xQaUgxXzZzWEhrMEw5UkhmbHAtQjlQWnBReTQwU3pUUnkzX1llM3YzVlZsS25uSGxaWkkzVldZb3BoSzdXeUJYS0tZN2xiaTF3dDdNaU9hVGZMRkFkR1JKcWVEZ09KX0pPbkd6UjUzMWJ4TTNMRjZBM0k?oc=5",
+      "source": "Cumhuriyet",
+      "date": "2026-11-09T05:14:00Z",
+      "description": "Son Dakika... Tarihi geçmiş kanser ilaçları soruşturmasında ikinci dalga operasyon: Aralarında doktor ve hemşire de var! Cumhuriyet",
       "image": "",
       "category": "Son Dakika"
     },
@@ -569,20 +677,20 @@
       "category": "Son Dakika"
     },
     {
-      "title": "Görme Engelli Büşra Türkiye şampiyonu oldu - Son Dakika İnternet Haberleri - Habertürk",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYW9MYjVOSU14aENWSWdhYlNzNjZOalVEUnFEeDkwNkw1dVR0X3BCS0xWYTc3QkFlRFlMN29lZ2JnQjVtbWE3cGY1X25LZ3NvQ0ZBSlRLSVNhdzFNaUFrTnBXS05RVU5RM3BzRVNjcFFIem9RVFhDNVE4LUdfeWJXTXNfY3BXQjB3OUVn?oc=5",
-      "source": "Habertürk",
-      "date": "2026-11-09T15:38:27Z",
-      "description": "Görme Engelli Büşra Türkiye şampiyonu oldu - Son Dakika İnternet Haberleri Habertürk",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
       "title": "Son Dakika... İzmir'de fabrikada patlama! Bakan Işıkhan nedenini açıkladı: 'İlk incelemelere göre...' - Cumhuriyet",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdWdabm9Udmhhb3pJSFZXdWFGSU5aSXlxTGZBR2JpX3E0elVGUUpoSEw1dkFZTi1SNDJrV3hpYzFmMmZqdkdVSnltU29HWkVQUXoybzhtdkVxMVFuN2FSMVM4a3dTRFNtNU05eVJVeUFJY1VlWWh3dTZ5WTBpVVhEMGV4YjJDZjZJWUxMNzhvRG41alVCOTdhalJGcXhjZGQzaDJYdXpidl9ZVHdoZzlKd0JyVnIxcW9LR2FKSVpZQ3djYW9ULWlyUWhWbXMxRDJDT0hr?oc=5",
       "source": "Cumhuriyet",
       "date": "2026-11-09T18:15:00Z",
       "description": "Son Dakika... İzmir'de fabrikada patlama! Bakan Işıkhan nedenini açıkladı: 'İlk incelemelere göre...' Cumhuriyet",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "Görme Engelli Büşra Türkiye şampiyonu oldu - Son Dakika İnternet Haberleri - Habertürk",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYW9MYjVOSU14aENWSWdhYlNzNjZOalVEUnFEeDkwNkw1dVR0X3BCS0xWYTc3QkFlRFlMN29lZ2JnQjVtbWE3cGY1X25LZ3NvQ0ZBSlRLSVNhdzFNaUFrTnBXS05RVU5RM3BzRVNjcFFIem9RVFhDNVE4LUdfeWJXTXNfY3BXQjB3OUVn?oc=5",
+      "source": "Habertürk",
+      "date": "2026-11-09T15:38:27Z",
+      "description": "Görme Engelli Büşra Türkiye şampiyonu oldu - Son Dakika İnternet Haberleri Habertürk",
       "image": "",
       "category": "Son Dakika"
     },
@@ -605,47 +713,11 @@
       "category": "Son Dakika"
     },
     {
-      "title": "Basketbol Süper Ligi: Karşıyaka: 84 - Beşiktaş: 83 - Medya Gazete",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYlYxYkVwUVZDbU50aHJ0ZDhGTmt2Y3BUOU9xell6QzBsUzM5X0k2QjlsRE9HSHhBOEFPZE9kQjhYd1llM0txQnlWLVhndFU0cTF0R0dyb2p2ZGg3eDlPYkdGa3FlSll3ZVpuVTViUkx3dk1DSFFRZGtuLVNUMGpwSnByOWlYUQ?oc=5",
-      "source": "Medya Gazete",
-      "date": "2026-11-09T18:11:00Z",
-      "description": "Basketbol Süper Ligi: Karşıyaka: 84 - Beşiktaş: 83 Medya Gazete",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
       "title": "Son Dakika... İzmir'deki demir çelik fabrikasındaki patlamaya ilişkin yayın yasağı getirildi - Cumhuriyet",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeDMzVHdMeWNSczRQU1lZZmhudkVmZk15d2lFMzNKbFlnSDZzWm1iX2lUU1BwSE1SNHRpZmkzMzNGTlFhNkwwQkVINS1WeUtwWmd6LW83QjhFdDV6OFNJWmJranZGZmVzVFpTaGxGdklwd3huRDJGbWN2QXBBLVk0Sl9EWW1GOFJiNE5ueVZ4eDU5Z3hwbV9Rekgyc0ZIVXpGcVJhRHhhUVB5R0E0SEtmdGRzRkNMeEdKcHkxaVR5SFlMbHV5RXZXUzExN25IdVFs?oc=5",
       "source": "Cumhuriyet",
       "date": "2026-11-09T17:39:00Z",
       "description": "Son Dakika... İzmir'deki demir çelik fabrikasındaki patlamaya ilişkin yayın yasağı getirildi Cumhuriyet",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "Trabzon’un 4 ilçesinde şehitler anıldı - Medya Gazete",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uazF3VVdsUW5MUXNBTk5ndlpRaFdxbXJ2VVhQempxRFRjQ1pxdmVnNU5OOTlNVnU5TU9xNHk2amlxcGRYS3Q0UE5Pd1JKclF1NzhfdlJ0MFN4a3dwWTg2NjEzUjRsU0FER0R4N1ZBRjVPN0cwS3QtaVRCYw?oc=5",
-      "source": "Medya Gazete",
-      "date": "2026-11-09T17:56:00Z",
-      "description": "Trabzon’un 4 ilçesinde şehitler anıldı Medya Gazete",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "SON DAKİKA! Van’da deprem oldu - Alanya Postası",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mTG9nWDNKUGFkSVZCS0liZmkxalBHRVlDSEFPSDFjejJjTnNIVWlSUHJ0NzJZSG1CLVZFbThRYzZFNkZSNTluak5pcW1xSzNHRVZ3VlluUlB5NnZ2bTBJeGhFWFZzT245dW1ZTENQVWc?oc=5",
-      "source": "Alanya Postası",
-      "date": "2026-11-09T18:57:00Z",
-      "description": "SON DAKİKA! Van’da deprem oldu Alanya Postası",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "Karabük’te \"Bir Direniş Öyküsü: Sumud\" Konferansı - Medya Gazete",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ3U1alBZUUNjaWNMUUl1NG1jRW0wM1pjcklJVUt0NHpnWGlnWUVFZTBQVEp0bEhORzA3OE80N0ZsWlpNaVk4cExocExJU0ZjOGozeEw0Um9TLVNRRXBIRjFPY3JfaV9zSmlfeUxXX0QwbnNPSGU2UWs0amNtQWZVckM5NnFVdw?oc=5",
-      "source": "Medya Gazete",
-      "date": "2026-11-09T18:24:00Z",
-      "description": "Karabük’te \"Bir Direniş Öyküsü: Sumud\" Konferansı Medya Gazete",
       "image": "",
       "category": "Son Dakika"
     },
@@ -659,20 +731,20 @@
       "category": "Son Dakika"
     },
     {
-      "title": "Doğu Akdeniz’de söz diplomaside - Milliyet",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GZGg1TUdieFRMXzUwUzFmQTFEMW5sLURhUTFrSmptelZGTHNYS1FId1JNbHVHZW5TX3lSWFdTWUtJb0xERXN4N0FqQWx0YlVvbWVsSmJ2OFgwOXFWeHVmTUNzeFBXbDMtTWFXUGZiWGFUeTFGQzJtRWdHNG1SQQ?oc=5",
-      "source": "Milliyet",
-      "date": "2026-11-09T03:49:00Z",
-      "description": "Doğu Akdeniz’de söz diplomaside Milliyet",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
       "title": "Türkiye ve Irak'tan Terörsüz Türkiye açıklaması - Hürriyet",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjN4XzZCTHRkWl9nVVVITUoxZHhVckx4ZUJsVDZLVzJmSkxrM3J0em0tblMwV0VwOHZDRlB5bWJFOUxibWhJNlZsLU9OY1Q1OWRuLVdabGpwMklTaUJ5TmFxU3ZLS3hVenFjY0lJVWZtYW9KZEE3VVBvQmg3d0VDSmNZRTVfajhrRWt2ZHJlWXJGd1By?oc=5",
       "source": "Hürriyet",
       "date": "2026-11-08T15:10:03Z",
       "description": "Türkiye ve Irak'tan Terörsüz Türkiye açıklaması Hürriyet",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
+      "title": "Doğu Akdeniz’de söz diplomaside - Milliyet",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GZGg1TUdieFRMXzUwUzFmQTFEMW5sLURhUTFrSmptelZGTHNYS1FId1JNbHVHZW5TX3lSWFdTWUtJb0xERXN4N0FqQWx0YlVvbWVsSmJ2OFgwOXFWeHVmTUNzeFBXbDMtTWFXUGZiWGFUeTFGQzJtRWdHNG1SQQ?oc=5",
+      "source": "Milliyet",
+      "date": "2026-11-09T03:49:00Z",
+      "description": "Doğu Akdeniz’de söz diplomaside Milliyet",
       "image": "",
       "category": "Son Dakika"
     },
@@ -686,6 +758,15 @@
       "category": "Son Dakika"
     },
     {
+      "title": "Victor Osimhen ne zaman dönecek? - Alanya Postası",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5SFZyTlMwbXBiX2xZQjI5bHJkOTB3dk1GSVBiMERaMG4wTlllUzB5S3M5cEgyRHNGNmt6YWFEOHhDNHM4UmpzOGl1SDdFTEJUU2UzZWhkUTR1YnVjWjJEOGtHajFRYzczRDlpWTYxdlYzdw?oc=5",
+      "source": "Alanya Postası",
+      "date": "2026-11-09T19:32:00Z",
+      "description": "Victor Osimhen ne zaman dönecek? Alanya Postası",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
       "title": "Vance’in 2028 hesapları karıştı - Hürriyet",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xMkIyY0VfbU5hN0dBRldta2ZQanNLS0daa3Q3ZHBsbWZYZ1VwREhNVWxPRDJnb1ZXM2ZlYUMtVGYwNURzZW1hcWRZekhQTnIwNGxoSTBLaV9TOGR5bVpHT014ZmljTUh1NDNnQ09uTUs2Zm93dF9uR3V4VmFaQQ?oc=5",
       "source": "Hürriyet",
@@ -695,20 +776,20 @@
       "category": "Son Dakika"
     },
     {
+      "title": "Eşini darbeden erkeğe para cezası - Cumhuriyet",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU2lSWTBCYlRyVUxjVEJVLWI5cE02MnZrN3lJZHRZU2JTRzJUakFXY1FUUzQ1Wk1nT09MU0R4OGtwaVptYUtKeXd5UnBqMWluLTFMSFYybng0ZzFuSzhxa2JGNTl0dFFqZUp3dzNadDd3dHZjbEhOSU9oem1NOFJCZUQwV3RwZw?oc=5",
+      "source": "Cumhuriyet",
+      "date": "2026-11-09T01:00:00Z",
+      "description": "Eşini darbeden erkeğe para cezası Cumhuriyet",
+      "image": "",
+      "category": "Son Dakika"
+    },
+    {
       "title": "Başvurular arttı! \"Grip oldum diyerek rahatlamayın\" - Habertürk",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbHo4RlVGaVo3MVgyNmlpQVVRSkphaUQxT25GdFZnZDN6WU1NRHBrTjA3OTJtQ2V3a0ljQlFBS2I0UWZpakRJWkNxTnA1eVprSEREbGsyZTUxYVJQSHlRV3c2cEZGNE9lWjdQZHlJSHBqZ2JidTNYb21wSEVlSFZHVUJwRlMyVXZiV1M0X1NNQU9RX0RicDhaUU5RQ19KWWs?oc=5",
       "source": "Habertürk",
       "date": "2026-11-09T07:38:02Z",
       "description": "Başvurular arttı! \"Grip oldum diyerek rahatlamayın\" Habertürk",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "Enerji Çalışanları Haftası 2026 ne zaman? - Alanya Postası",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KQ3h5eGZ0TjJyVkV5azk5alVuWVQzSWlkUTVPb2JKdEZUZWJfR1VpVnk4RUp5RnlpTTdhS1ViTnE1QmttUXpkRHEtOGxtdlYyUWJZQTdnbjdTZGVoekE0eXJ5YWV0Tkk1NWRKemU5bFdKWEQxTEJXb3U1a083UQ?oc=5",
-      "source": "Alanya Postası",
-      "date": "2026-11-09T16:24:00Z",
-      "description": "Enerji Çalışanları Haftası 2026 ne zaman? Alanya Postası",
       "image": "",
       "category": "Son Dakika"
     },
@@ -857,74 +938,20 @@
       "category": "Son Dakika"
     },
     {
-      "title": "PISA 2025'te Türkiye'den büyük başarı - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFJKaUdQVjJaUlRab2ZMaXRnbHc3c3lVMXRlMTlCOVNzWlFBZ0hhNU9vNV9vVHVMV3NFdC1HRFp0cW4tS0RBTFp0RThYcTc5N0RlaFpNa0RjZmgxSDZYUm51SjBUTlNveGVSajNNMXBYUzB1TWtpbmRTeGlBRnNjY2ZHZVJEMi1JR2lJUDZn?oc=5",
-      "source": "TRT Haber",
-      "date": "2026-09-08T07:00:00Z",
-      "description": "PISA 2025'te Türkiye'den büyük başarı TRT Haber",
+      "title": "SON DAKİKA: Başkan Erdoğan’dan Terörsüz Türkiye mesajı: Bu yoldan geri dönüş yoktur - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnY3Q3dhRE9KYW12emQwQmlqQ00tMXRraHdNMkpPRmhfWTNCaUd1LTZaeGNUd2RkcWFNZVdFMk1RY244d01wLUlJTl9XM2dpbEpyc0c4a2x4NEFWU1RLWTV1bFBxYloxbHhNZE1CSWZzVFJ0aHpLZ05lc085alZvb1ZSaEVqVE5UVTdsSGNfekFSVW9GOWl6eFhHLU8zVldiN2RwTFdjZnRCRVNsVFIySVp6djcyYjA?oc=5",
+      "source": "Sabah",
+      "date": "2026-11-09T16:05:00Z",
+      "description": "SON DAKİKA: Başkan Erdoğan’dan Terörsüz Türkiye mesajı: Bu yoldan geri dönüş yoktur Sabah",
       "image": "",
-      "category": "Son Dakika"
+      "category": "Türkiye"
     },
     {
-      "title": "TBMM'de yeni haftada 3 önemli başlık - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTTlnellxbS10eC1KcWlFaFowZDVmZ0VfWTJzcm5mbi1WOFhWam5sWUJxbkhOREhQdjdRcWhXOEJYYnJjazlfVU9lNURDNmlyWUpQYU92SHBuamNibzUzR2hldXkyWHpnZFNROGxqc1JlYzVYZWVENlV6OFJkNURVbF9rLUEtRjJZX2tuTjFn?oc=5",
-      "source": "TRT Haber",
-      "date": "2026-08-02T07:00:00Z",
-      "description": "TBMM'de yeni haftada 3 önemli başlık TRT Haber",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "Türkiye, Suudi Arabistan ve Pakistan'dan Mekke Savunma Anlaşması - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVVdSaHF5cVdVd01TTkVQLTdBN29yYnMzaFA0VTdkNjRaNlcwQUZpMi01X0xmNU5Nd04tOEUxeHk2T29XRy16aVhBYVB5Unk5Q3RWd0FrWHVVMmRDWWRPVXF1TkdyR1pwbUZoRldncTUwMzY3QXRSRnBzdTZUZkp2YjhxcFZybGpral9DTTRTaGk2aU9NZmRqUjY3LWRlQmlRNnNoU0VnQnRsa2hnU3BCeA?oc=5",
-      "source": "TRT Haber",
-      "date": "2026-08-07T07:00:00Z",
-      "description": "Türkiye, Suudi Arabistan ve Pakistan'dan Mekke Savunma Anlaşması TRT Haber",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "Trump: Türkiye'ye tüm yaptırımları kaldıracağız - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWt3XzdJOG5wbWx5T1pBcnpwOFRBU0lvUXM1QzJvT0xDcUxfYVhNY0VUdzN1bkUxdGF3b19CeEZnc0o4RU5hMUtHSmd5NzE5bkVmQkhWVGRiVzNFYkswQ01naTAtZU1aQUpEZGdDbG9qQWJQNlpRZmlTLUVuTkt4T215ZzNHcmgwcEJMaE55bUNhWFdnWklOci1B?oc=5",
-      "source": "TRT Haber",
-      "date": "2026-07-07T07:00:00Z",
-      "description": "Trump: Türkiye'ye tüm yaptırımları kaldıracağız TRT Haber",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "Altın fiyatlarında son durum - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWTZaV3RxdUswUVdUMFZZU1BxVW83T0VrdWZaVXdMdW9lNXVhc3hYNE8yUzZORHZqd21FQ2pNXzVnM19Bd2JGdy1SdkhkWDFLaXV0TUlqU05GeWNzTGp1Q0xrbGRjQVc4b29KSlk0TnZuNVlLeExRN3VHWWJHYWNmZGl5ejNJdw?oc=5",
-      "source": "TRT Haber",
-      "date": "2026-08-26T07:00:00Z",
-      "description": "Altın fiyatlarında son durum TRT Haber",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "Netanyahu canlı yayında köşeye sıkışıp yine Türkiye'yi tehdit etti! 'Bu işi bitireceğiz, Ankara'yı engellemek zorundayız' - Milliyet",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdVlVOVl1ek8zc1N0c1Fmc05wTlNzT29EaVd4LVZGMTBIRncwbFl3ZjA3SEVCTEtuMDVIcFZHMlVfbHRqbWhpVW54SnpzWUJqbXVycDE3emxWcDZUaG9wcnZXdUFaRTNvQzVHUkpXWFpWT3E3NVpFM1pHNXlrQlNyV05zYUdsRkpYczVZaWdFTGZrdEJkeTRfZVhiWUxQWlRWMlZEd3E2dDI2MHNHTy1WblQ3a2hJRzdDTTVkbm1WNWhCVWlvT1RJaFJkNjc4eGoxc2Y4VUNoWVRROTFuUnQ5ajhZcUd0VV9BeXFyd0RoY3RVZWtwTUd2cS1yZnU?oc=5",
-      "source": "Milliyet",
-      "date": "2026-08-31T07:00:00Z",
-      "description": "Netanyahu canlı yayında köşeye sıkışıp yine Türkiye'yi tehdit etti! 'Bu işi bitireceğiz, Ankara'yı engellemek zorundayız' Milliyet",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "Altın fiyatlarında son durum - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc3I4MmlzOVNpVE1sQm9hRHpNenRiNzFTWFhzY1Q1S05VWmFNbEVha2ZVb2tUNlFuRmV4ZFkxcERFd3BMYkRpZE9aZzZhMjZKSVJZODROXzhjMWFWSVY3ZG1aaFhTTS1fYUlxbEw0SzJUV2wxWG5uMFhKX1V1VDIzMUtSN2wzZw?oc=5",
-      "source": "TRT Haber",
-      "date": "2026-08-17T07:00:00Z",
-      "description": "Altın fiyatlarında son durum TRT Haber",
-      "image": "",
-      "category": "Son Dakika"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Terörsüz Türkiye sürecinden geriye dönüş olmayacak - TRT Haber",
+      "title": "\"Terörsüz Türkiye sürecinden geriye dönüş olmayacak\" - Son Dakika Haberleri - TRT Haber",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSEkwdGVreVpHYkh1azFFek9zWkZmZmhEcFVCbEtITURCaXFxc20zQ3hXTjJ3VDJCeUZFTmNfcElmZ2t0d2huMjNNcFoyUmRyU1VLdnNfYmVFRTMyV1lTdWs0X1RFeXE5N212bWdUUHh5cmppRDJQYjZjNng0VUhZSE5UYUF3YXZVYzhZUmxsRURxRDh6SDZWVk1wYnozYzBZWnJ3aGVZTDdKUGtOQjAxajFkU0dYcUJIX1JxQmtEWQ?oc=5",
       "source": "TRT Haber",
       "date": "2026-11-09T10:00:00Z",
-      "description": "Cumhurbaşkanı Erdoğan: Terörsüz Türkiye sürecinden geriye dönüş olmayacak TRT Haber",
+      "description": "\"Terörsüz Türkiye sürecinden geriye dönüş olmayacak\" - Son Dakika Haberleri TRT Haber",
       "image": "",
       "category": "Türkiye"
     },
@@ -938,15 +965,6 @@
       "category": "Türkiye"
     },
     {
-      "title": "Türkiye'nin en zengin ve en fakir illeri açıklandı! - Afyon Ana Haber",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORmhuMl9ONXhzNHM2WFhHdU9vdEZ6anhuSWNEckJfVlJRczdSM2NvclM2MjlwR2pQbzdNb3p6N0ZyZDAwRDh5ckNIMlplN1Z5cC1RVHVuVHdJeEhkckdZQXZiUDk0cHV2Z0RJejBVdUlGZnV3WlkwWWFaUXdEVmo1VHRwYTFIdUJjbHJnbVhDbC1nUHh2MVpkc2hmQ2I?oc=5",
-      "source": "Afyon Ana Haber",
-      "date": "2026-11-09T12:06:00Z",
-      "description": "Türkiye'nin en zengin ve en fakir illeri açıklandı! Afyon Ana Haber",
-      "image": "",
-      "category": "Türkiye"
-    },
-    {
       "title": "Kablo düğümünde gözler Fransa’da - Hürriyet",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HSG81andoT0pIV01BRjl3cF9iT1ZJVW5DbE9jYmw5LTFfdmp6d3JCZW95Z0NmRTNSQ2xrS3M1RFQ2TWZ0aUZhY1gzeWp6WEpJeFpBc2V4dkNVRk54bkx1Mm44OGpUWFdNTTdodFZyaDZES2tkRzljM3l6WWNrdGc?oc=5",
       "source": "Hürriyet",
@@ -956,20 +974,20 @@
       "category": "Türkiye"
     },
     {
-      "title": "Türkiye'nin ev sahipliğindeki COP31 bugün başlıyor - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmJNdVkzWXE3RXF4dEhxdzRIazFwWnB4YUs5QXpqbGk0ZGk0aHU5eWZTVWNsajJnY3B5Q3VLdkpzcUtDb3VZTVlKcC1DTXhfLWRrRXVrb2VsQTRwWWJvX1U5T3dLcVVIbGJoOHNPTmRFNVFqRTAwSVZQeElVelg1MFRfSUpiekdVX0hvRVZZTlFKZ0lJWTdIS0NRZ1JPR2M1?oc=5",
-      "source": "TRT Haber",
-      "date": "2026-11-08T21:04:00Z",
-      "description": "Türkiye'nin ev sahipliğindeki COP31 bugün başlıyor TRT Haber",
-      "image": "",
-      "category": "Türkiye"
-    },
-    {
       "title": "İletişim Başkanlığı duyurdu! Türkiye ve Irak'tan ortak açıklama - Gündem Haberleri - Posta",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZU14S3lLVWp3VjFIZW1WUXpwV0xMZENYRW05UDljVDRhVHdnSDRKWnR5azFCTVdZcWhJREMtOVAtQUhxc2ZNcFVWVUJ5LVNXdm1vZU9lUXJHcXB4OUN6TUlCbHQydlBQbXdWWkV6eDNQOVJBR1RwX1J0UUx1alRNeHdqSUQ4cXBWXzRuaXRQQzNWRkYtZUJTVzNiRlE0RUctYWhV?oc=5",
       "source": "Posta",
       "date": "2026-11-08T15:34:43Z",
       "description": "İletişim Başkanlığı duyurdu! Türkiye ve Irak'tan ortak açıklama - Gündem Haberleri Posta",
+      "image": "",
+      "category": "Türkiye"
+    },
+    {
+      "title": "Türkiye'nin ev sahipliğindeki COP31 bugün başlıyor - TRT Haber",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmJNdVkzWXE3RXF4dEhxdzRIazFwWnB4YUs5QXpqbGk0ZGk0aHU5eWZTVWNsajJnY3B5Q3VLdkpzcUtDb3VZTVlKcC1DTXhfLWRrRXVrb2VsQTRwWWJvX1U5T3dLcVVIbGJoOHNPTmRFNVFqRTAwSVZQeElVelg1MFRfSUpiekdVX0hvRVZZTlFKZ0lJWTdIS0NRZ1JPR2M1?oc=5",
+      "source": "TRT Haber",
+      "date": "2026-11-08T21:04:00Z",
+      "description": "Türkiye'nin ev sahipliğindeki COP31 bugün başlıyor TRT Haber",
       "image": "",
       "category": "Türkiye"
     },
@@ -992,15 +1010,6 @@
       "category": "Türkiye"
     },
     {
-      "title": "Başkan Erdoğan ve Aliyev'den ortak basın toplantısı: Azerbaycan-Türkiye halkları kardeştir - Sabah",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xWGF3OVJkU05IbHN6dUtxNTZnQUs1bDFDVFVxMmI3dUxoZE94VllUWkdDWTlNenRJMk9TSnRNd1E1R0VSOHUwYkFCeHRJbUR3ckhUU01tamM0anQ5QjE1b2ViWFozVXl3cWJZbjUzN1UzY3PSAXZBVV95cUxQbW1GMk5VbjRWOUlrcW8zbDZ2ZTJRWURHS0tIZUNpY3c4dkF0N0VseVhhOWZzLWk0TEhvTW1LNFF2ejVzMmc5M0JxM2ItMTh5ZVZFalM1UlhueTB3c0M2NEFYR3RvTndRaTJKdFREWkRfTE9uMVlB?oc=5",
-      "source": "Sabah",
-      "date": "2026-11-08T04:01:31Z",
-      "description": "Başkan Erdoğan ve Aliyev'den ortak basın toplantısı: Azerbaycan-Türkiye halkları kardeştir Sabah",
-      "image": "",
-      "category": "Türkiye"
-    },
-    {
       "title": "Türkiye’nin e-ticaret geliri 5 milyar doları aştı - Yeni Asır",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXRxRXNlbGVWb2RVa2Y2em4zaldIblVEZDEyZWtja0RtcEQ2RHRWZGV5UmI0eWJjRlBsaXR2Z1VhY1VVN1RxWFY1dEdXazRGY2E5ZWtKb3cwTU1fMTVhUTVmVVVLUnRCT3BmR1Q0VzdvTU1ralN6N2M4YXFVWmxNbkxlUk9mbkhScTZSWHNLeGplVlZ4R3JXWDVn?oc=5",
       "source": "Yeni Asır",
@@ -1019,6 +1028,15 @@
       "category": "Türkiye"
     },
     {
+      "title": "Başkan Erdoğan ve Aliyev'den ortak basın toplantısı: Azerbaycan-Türkiye halkları kardeştir - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xWGF3OVJkU05IbHN6dUtxNTZnQUs1bDFDVFVxMmI3dUxoZE94VllUWkdDWTlNenRJMk9TSnRNd1E1R0VSOHUwYkFCeHRJbUR3ckhUU01tamM0anQ5QjE1b2ViWFozVXl3cWJZbjUzN1UzY3PSAXZBVV95cUxQbW1GMk5VbjRWOUlrcW8zbDZ2ZTJRWURHS0tIZUNpY3c4dkF0N0VseVhhOWZzLWk0TEhvTW1LNFF2ejVzMmc5M0JxM2ItMTh5ZVZFalM1UlhueTB3c0M2NEFYR3RvTndRaTJKdFREWkRfTE9uMVlB?oc=5",
+      "source": "Sabah",
+      "date": "2026-11-08T04:01:31Z",
+      "description": "Başkan Erdoğan ve Aliyev'den ortak basın toplantısı: Azerbaycan-Türkiye halkları kardeştir Sabah",
+      "image": "",
+      "category": "Türkiye"
+    },
+    {
       "title": "COP31’in iletişim altyapısı Türk Telekom’a emanet - Yeni Asır",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTW9PaFBpOERrYUQxeVF6MnA1QmFPNDBDN20tSjVkNk1vbE5IRWV2TTBrUlI1SmVzdXVTb3l6cXZkQ1MzTEtyNzZMQldabGN3ODBIOVFyTFZrSjdPaDh6OWw5bGV4VU1VOTU3WkpoaFdtRVN1d3RZRHBPdmU5clp6U1pORXZWbWpuekp3MktBT3BsMDg5UlVJNw?oc=5",
       "source": "Yeni Asır",
@@ -1028,20 +1046,20 @@
       "category": "Türkiye"
     },
     {
-      "title": "Türkiye ve Irak'tan Terörsüz Bölge adımı! Ortak Güvenlik Koordinasyon Komitesi faaliyete geçirilecek - Sabah",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkEwNE5BLWhmRmN2dlNWeGFMeGlCWFpQS0llbnhDSm8zUHNrQUtGY081MllfZ005Zks5M21iTzNWYWFkRTlfUnZrM0h2T1F5QTFFdHMyY1VyTEtaR3FvMWpkWWo1aDNOMDBoUG0yZFlpZWtxYUZFNGFyUG9ER2pScGhn0gGEAUFVX3lxTE94NENLNVZqTG9JQURXbWxCUWMzOWR5Y2dydk1fLXMwejdyZVh6T1hSb095YVdJN2h6Uno3ZkoxTzUwX3F0UGpxNlZ2eHI3ZWhnMEJRUWhxc05KanpKMjJXeFJMUTc4SHRIcnZXbFlqSWVGUDB2OXhuVVpPdWRKRUVPR25EVw?oc=5",
-      "source": "Sabah",
-      "date": "2026-11-08T15:03:48Z",
-      "description": "Türkiye ve Irak'tan Terörsüz Bölge adımı! Ortak Güvenlik Koordinasyon Komitesi faaliyete geçirilecek Sabah",
-      "image": "",
-      "category": "Türkiye"
-    },
-    {
       "title": "Haberler Yeni Şafak Son Dakika Haber Gündem: Bugünkü Yeni Şafak Gazetesi Manşeti ve Yazarları - Yeni Şafak",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONnNjN0JaTndlaW1WM0FjSkwwckMzQ2s5cjBMTFpieDRPVUFWYmtxa1dJWk9TMXNGbnktNDBjWUlENkJJd2dzdDNZcXFjUmZnU0tNY1Y5RzM4SUg2QmZrUzlJcWl5UF9jelFRZS0tSmNic3VxZjd2aHhXUFNSY0J4YlpGVW1oczdIYlNlUUhsOTVyYl9SeXl5Y3dIOUFoOWlUMUxkRktQOWdZWkt0eHpTM0JUVkY4ZWtsZVR3bW1NRU83ZDJ0NG43X3AzZjUxZkkza0MyeA?oc=5",
       "source": "Yeni Şafak",
       "date": "2026-10-05T07:00:00Z",
       "description": "Haberler Yeni Şafak Son Dakika Haber Gündem: Bugünkü Yeni Şafak Gazetesi Manşeti ve Yazarları Yeni Şafak",
+      "image": "",
+      "category": "Türkiye"
+    },
+    {
+      "title": "Türkiye ve Irak'tan Terörsüz Bölge adımı! Ortak Güvenlik Koordinasyon Komitesi faaliyete geçirilecek - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkEwNE5BLWhmRmN2dlNWeGFMeGlCWFpQS0llbnhDSm8zUHNrQUtGY081MllfZ005Zks5M21iTzNWYWFkRTlfUnZrM0h2T1F5QTFFdHMyY1VyTEtaR3FvMWpkWWo1aDNOMDBoUG0yZFlpZWtxYUZFNGFyUG9ER2pScGhn0gGEAUFVX3lxTE94NENLNVZqTG9JQURXbWxCUWMzOWR5Y2dydk1fLXMwejdyZVh6T1hSb095YVdJN2h6Uno3ZkoxTzUwX3F0UGpxNlZ2eHI3ZWhnMEJRUWhxc05KanpKMjJXeFJMUTc4SHRIcnZXbFlqSWVGUDB2OXhuVVpPdWRKRUVPR25EVw?oc=5",
+      "source": "Sabah",
+      "date": "2026-11-08T15:03:48Z",
+      "description": "Türkiye ve Irak'tan Terörsüz Bölge adımı! Ortak Güvenlik Koordinasyon Komitesi faaliyete geçirilecek Sabah",
       "image": "",
       "category": "Türkiye"
     },
@@ -1460,20 +1478,20 @@
       "category": "Siyaset"
     },
     {
-      "title": "İran-ABD gerilimi sona ermeli | Politika ve Siyaset Haberleri - Yeni Şafak",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSejhvem5lUHlsZ2hjQkJMN3lUU1Itemo4NndPVk9Jbmc4T0gzRF9qWFlpZlotZDZoOHNHWjU1SWpGc2Y3STBTaUc1Z21lWmxPV19pYlRKWVJDbXhNNzVUZGh4enRCX2NwaEo4Sl9iSnN4NXoyeEpYanl3?oc=5",
-      "source": "Yeni Şafak",
-      "date": "2026-11-08T01:00:00Z",
-      "description": "İran-ABD gerilimi sona ermeli | Politika ve Siyaset Haberleri Yeni Şafak",
-      "image": "",
-      "category": "Siyaset"
-    },
-    {
       "title": "Devlet Bahçeli: Cumhurbaşkanı Erdoğan bir kez daha aday olmalıdır | Siyaset Haberleri - GZT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUXFOZklvYVJqNmV0WVJEcTMxUzQ4ZElsWndKamI4V2dUMzhSQjdLb3ZjYUVYT1I3SW9PSkdkckNyQzdCaVNzdlR6MGVrLXFFNGQ3WDR3bEFvSGhZQklaSnh6ZE5mSWc5QlFxYnYzYVFtd25iTlF4NmwweGZ4cW0tSVlISGF2UUtpZ0lDbXQtQ1RSSXlWMVJfcmpSb21uTzlG?oc=5",
       "source": "GZT",
       "date": "2026-10-06T07:00:00Z",
       "description": "Devlet Bahçeli: Cumhurbaşkanı Erdoğan bir kez daha aday olmalıdır | Siyaset Haberleri GZT",
+      "image": "",
+      "category": "Siyaset"
+    },
+    {
+      "title": "İran-ABD gerilimi sona ermeli | Politika ve Siyaset Haberleri - Yeni Şafak",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSejhvem5lUHlsZ2hjQkJMN3lUU1Itemo4NndPVk9Jbmc4T0gzRF9qWFlpZlotZDZoOHNHWjU1SWpGc2Y3STBTaUc1Z21lWmxPV19pYlRKWVJDbXhNNzVUZGh4enRCX2NwaEo4Sl9iSnN4NXoyeEpYanl3?oc=5",
+      "source": "Yeni Şafak",
+      "date": "2026-11-08T01:00:00Z",
+      "description": "İran-ABD gerilimi sona ermeli | Politika ve Siyaset Haberleri Yeni Şafak",
       "image": "",
       "category": "Siyaset"
     },
@@ -1541,20 +1559,20 @@
       "category": "Siyaset"
     },
     {
-      "title": "Erdoğan, Trump ile görüştü: Gündem ABD-Türkiye ilişkileri - Cumhuriyet",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa19zcUl5cXpjLU44UHNDU2theFBEQXg4WXA5NkJxelQxa05XblZxNnFxdkRhRkdzQmY4a282M0lOUzEtMWF3VFNDeXgtUEwwQkV0WXdNQVU4c2NpZWVQR08xdThicllDRFRxT1VBVllZakR5dXdib29RNGdJUXZnUUpiN2J5NmthS2dOS0VnMnJ2R3lDaVN3b0liSmFWeWlHVWNF?oc=5",
-      "source": "Cumhuriyet",
-      "date": "2026-08-18T07:00:00Z",
-      "description": "Erdoğan, Trump ile görüştü: Gündem ABD-Türkiye ilişkileri Cumhuriyet",
-      "image": "",
-      "category": "Siyaset"
-    },
-    {
       "title": "Erdoğan'ın 30 Ağustos mesajında 'Türkiye Yüzyılı' teşekkürü - Cumhuriyet",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSW9LbGFlcEVzdEN2TmtscU5nQks5ZjlpejZfdHVlNDZMVUYzY3Fqa251R21LMlEtSnFaenhiX0dQUF9FTnVnNV90OTdXbEFOdkFtSXA3WHhaZFI5dk5OQ2JSLXlOTXN3dkZ1eGdYbnBwYmV4RmFfQkNXanZneG5hSzJrUG1hTDY4endIaEtEY21nMVFrak14WjQwRU1FUVdKVTdiQjJ3?oc=5",
       "source": "Cumhuriyet",
       "date": "2026-08-30T07:00:00Z",
       "description": "Erdoğan'ın 30 Ağustos mesajında 'Türkiye Yüzyılı' teşekkürü Cumhuriyet",
+      "image": "",
+      "category": "Siyaset"
+    },
+    {
+      "title": "Erdoğan, Trump ile görüştü: Gündem ABD-Türkiye ilişkileri - Cumhuriyet",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa19zcUl5cXpjLU44UHNDU2theFBEQXg4WXA5NkJxelQxa05XblZxNnFxdkRhRkdzQmY4a282M0lOUzEtMWF3VFNDeXgtUEwwQkV0WXdNQVU4c2NpZWVQR08xdThicllDRFRxT1VBVllZakR5dXdib29RNGdJUXZnUUpiN2J5NmthS2dOS0VnMnJ2R3lDaVN3b0liSmFWeWlHVWNF?oc=5",
+      "source": "Cumhuriyet",
+      "date": "2026-08-18T07:00:00Z",
+      "description": "Erdoğan, Trump ile görüştü: Gündem ABD-Türkiye ilişkileri Cumhuriyet",
       "image": "",
       "category": "Siyaset"
     },
@@ -1582,6 +1600,15 @@
       "source": "Cumhuriyet",
       "date": "2026-06-14T07:00:00Z",
       "description": "Ahmet Türk: Bu süreci bozan Kürtler olmayacak - Son Dakika Siyaset Haberleri Cumhuriyet",
+      "image": "",
+      "category": "Siyaset"
+    },
+    {
+      "title": "Son Dakika... Kemal Kılıçdaroğlu yönetimi: 'Diyalog heyeti oluşturulacak' - Cumhuriyet",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObzFoWjRZUnlDX2ZRQ0lkLXJiZ0tBQV9OMm4tU1YtakFDeThIX29CS3pjU1JTU2VtbUplX3ZXQ3dtRllIRUNrLXpLbFJ0LXdDWFFQYzBXVWVHTE0tc0FFUGdRUVQ5WDVIVGl6Q3BDRUV2OHJEaHlVNkJFQWF3aUpKQWdYb2FvaXhDTjVrZkp4Mmw0VU9XZnQtb3lWVXdQUTdjbGtEX2doLVVNOGs?oc=5",
+      "source": "Cumhuriyet",
+      "date": "2026-06-03T07:00:00Z",
+      "description": "Son Dakika... Kemal Kılıçdaroğlu yönetimi: 'Diyalog heyeti oluşturulacak' Cumhuriyet",
       "image": "",
       "category": "Siyaset"
     },
@@ -1640,11 +1667,29 @@
       "category": "Siyaset"
     },
     {
+      "title": "Özgür Özel, Romanlarla buluştu: 'Yoksulluk tarihte görülmemiş boyutta' - Cumhuriyet",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQlQzekZkUTRmTDQtN2hGNVI0SnZRbG5zcEM2NkY0azRHaHY0eFl3Vm9qczR5eUtDOFJpRlNMLUdEa3B6VHlXSU5zZ1hHN09oaVhieTk1OFVtTU1vLXRnbURsVkVKS255eDF2dndEa096WC1kSkhmbm03aTVNX2sxbEtrRl9NNlRkTElGOWRTYXRlZ3VJd2J4WHNFWklIZ0NFREdBX3Z5eVMtRzE3NzNHWk13?oc=5",
+      "source": "Cumhuriyet",
+      "date": "2026-04-03T07:00:00Z",
+      "description": "Özgür Özel, Romanlarla buluştu: 'Yoksulluk tarihte görülmemiş boyutta' Cumhuriyet",
+      "image": "",
+      "category": "Siyaset"
+    },
+    {
       "title": "Özgür Özel'den 'Çetin Emeç' mesajı - Cumhuriyet",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbWNrUEtiWHhFeDhlM2V5U09mNFZkOGdXc0pxZmp0dTdxTmwzbEJxeTVFYWRyTWY0ZUM5aDQzc0RNSWVJRmpPangzX0V5Nk1vcm1lX1pWdVdtdUtMUVVrWkxNNWlwU1FfYndaenZrc3JvXzFwWUNpZEpnODZwc2Q1TEZEeVY?oc=5",
       "source": "Cumhuriyet",
       "date": "2026-03-07T08:00:00Z",
       "description": "Özgür Özel'den 'Çetin Emeç' mesajı Cumhuriyet",
+      "image": "",
+      "category": "Siyaset"
+    },
+    {
+      "title": "Siyasi partilerin üyeleri kaç arttı? - Yeni Şafak",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMlBveVVqNnRoSU1SZHVLTjAwUG01eXJkeGpMWHphWE9mbEp5TnJRTkJSSHhpWTQ0Qk1zczdTS28yZ1VJNGl1WTZGV2NhLWVBNWNjQ2hQS25RX2hLUXlQbHF6d2tWbC0xZno5dlJBM0c1M0JKendtLURkZEFVdTRDdkl4RkNZTkR3S285cmNfa2g?oc=5",
+      "source": "Yeni Şafak",
+      "date": "2026-01-05T08:00:00Z",
+      "description": "Siyasi partilerin üyeleri kaç arttı? Yeni Şafak",
       "image": "",
       "category": "Siyaset"
     },
@@ -1672,15 +1717,6 @@
       "source": "Independent Türkçe",
       "date": "2019-12-27T08:00:00Z",
       "description": "2019 Top 10: En çok okunan siyaset haberleri Independent Türkçe",
-      "image": "",
-      "category": "Siyaset"
-    },
-    {
-      "title": "Savcı Sayan’dan ‘terörsüz Türkiye’ çıkışı - Cumhuriyet",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNelctd1MyS2dlbGJyeFZNalRZUzFnN3NyUnV3Y1lDQXo0YWtlZnJGakczNFB6T0NYOFl0XzBxeC01NjZaVzJFYldfTmVXbDNVcjkxRS1zZlQ2RXFQUF9EUm1HZTktT2c0VUswU1p6aFlMY3lCWXBPVU42UWpOTXJ6eTREODM5ZmlYaG1zOTBn?oc=5",
-      "source": "Cumhuriyet",
-      "date": "2025-08-06T07:00:00Z",
-      "description": "Savcı Sayan’dan ‘terörsüz Türkiye’ çıkışı Cumhuriyet",
       "image": "",
       "category": "Siyaset"
     },
@@ -1744,6 +1780,15 @@
       "source": "Cumhuriyet",
       "date": "2024-05-19T07:00:00Z",
       "description": "5 siyasi partiden yeni ittifak Cumhuriyet",
+      "image": "",
+      "category": "Siyaset"
+    },
+    {
+      "title": "Mahmud Abbas Türkiye'ye geliyor: Tarih belli oldu - Cumhuriyet",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObXNZd3I5Z2tZNE1wcmhhclBGeXduVkI2OG5DVG41OHRHTlF4TEIweUpTeUdib1BUdGpjcEdYUG5kVkU5bkdIY3JsdzkzMFhhTHViTl9IZ1lqTGR5ZXIyYzZ4MUUzYkdOeUU5bjNOZDBORE52aFA3dUxMN0pxMTJtQ19WaWpJRUxSdUtFdG9PRk82SFZ4QXhRcA?oc=5",
+      "source": "Cumhuriyet",
+      "date": "2024-07-31T07:00:00Z",
+      "description": "Mahmud Abbas Türkiye'ye geliyor: Tarih belli oldu Cumhuriyet",
       "image": "",
       "category": "Siyaset"
     },
@@ -1847,11 +1892,11 @@
       "category": "Spor"
     },
     {
-      "title": "Thomas Reis, Trabzonspor'u 7 basamak yukarı taşıdı - CNN Türk",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWmhNV0VTQ0lmdnlyUkplS2d5NU41WGFJUnlRMHY3MUN1ZEFQNDRkM1d0WHhzSFhUM3R1cWwzZEJ6YjVkcTU4UnBIOHYzSHlqQWhLTGdTX2MyS1prMVpydF9xdU82TERxcGlkV0o1Nk10THdlQnVHQ0NEeHh3dHR3Vkc2eGNKN002UkgzV2hDaVVETy1mY1l3?oc=5",
+      "title": "Göztepe'den 'iç' karartan performans: Evinde dibi gördü - CNN Türk",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakhwcVUzNnZOa0F1eWhJTXFYYzg1Qm1hNWdjV2ZJWXd4MDdjandLLXB5d3VsYmlHWlpRbXZydkoxTkszYkM2cnBnR09hMlBKZ01KaTZ0bnhrUkpCWHBBMU9CNGkxeW9IcUZIalJ0SHJ2c0swZEFEcURKbHh5RmNUUlJ0bldKNFBMODhVMHBXZF9pSklYY2t6OXNKWQ?oc=5",
       "source": "CNN Türk",
-      "date": "2026-11-09T09:07:29Z",
-      "description": "Thomas Reis, Trabzonspor'u 7 basamak yukarı taşıdı CNN Türk",
+      "date": "2026-11-09T11:09:57Z",
+      "description": "Göztepe'den 'iç' karartan performans: Evinde dibi gördü CNN Türk",
       "image": "",
       "category": "Spor"
     },
@@ -1883,20 +1928,29 @@
       "category": "Spor"
     },
     {
-      "title": "Göztepe'den 'iç' karartan performans: Evinde dibi gördü - CNN Türk",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakhwcVUzNnZOa0F1eWhJTXFYYzg1Qm1hNWdjV2ZJWXd4MDdjandLLXB5d3VsYmlHWlpRbXZydkoxTkszYkM2cnBnR09hMlBKZ01KaTZ0bnhrUkpCWHBBMU9CNGkxeW9IcUZIalJ0SHJ2c0swZEFEcURKbHh5RmNUUlJ0bldKNFBMODhVMHBXZF9pSklYY2t6OXNKWQ?oc=5",
-      "source": "CNN Türk",
-      "date": "2026-11-09T11:09:57Z",
-      "description": "Göztepe'den 'iç' karartan performans: Evinde dibi gördü CNN Türk",
-      "image": "",
-      "category": "Spor"
-    },
-    {
       "title": "Günün spor sayfalarından öne çıkanlar (10 Ekim 2026 spor haberleri) - NTV Haber",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTFRxN2Q0MUxkNzFjcFRKWWhYNUdzd1VXNzZOWkVRLVF5ZE5xRUF5TjRaZGpyTExxU3FDMEJMQ2FlWHJoazY5MGVXRUxWdkladUdsYW1sWlB0c0dNSS1YT05nTDdzaks1MjNkWVVlYmZGVUtINmp6SDVCSG5Kdjd0Rlp2T0hBZTZXZkpicDlTeG1WTnljVl8tNFgybDhEZ0FQY0p2U3dGR2w2ZzlhSndqeDl3?oc=5",
       "source": "NTV Haber",
       "date": "2026-10-10T07:00:00Z",
       "description": "Günün spor sayfalarından öne çıkanlar (10 Ekim 2026 spor haberleri) NTV Haber",
+      "image": "",
+      "category": "Spor"
+    },
+    {
+      "title": "Rafael Leao: 'Türkiye Ligi beni şaşırttı!' - Hürriyet",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdGd3MFpPUEtSaFJmem9RR3c0YWZkUzFVaE1ZUkFGTUlKai1IdHFseDVDUUp0M3FOdzl4aFNHaVpfaUF0QVRTU3czM21pSzlZNGZmSEZibG8wb2hlLXA2bTd6Vm8tbmw2Q3JOWVJGeDMyS2EtM2NxdEpocGFrbXQybTVxek5sbUNOVWVBQkV3?oc=5",
+      "source": "Hürriyet",
+      "date": "2026-09-29T07:00:00Z",
+      "description": "Rafael Leao: 'Türkiye Ligi beni şaşırttı!' Hürriyet",
+      "image": "",
+      "category": "Spor"
+    },
+    {
+      "title": "Golf tutkunları, Erdoğan Demirören Golf Cup 2026da buluştu - Spor Haberleri - CNN Türk",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0IxYmw5OHo0cWxMdzV2bnUwVnpKNVlBVjBPQ3ltZ21UdXJabVdoZTBWblBBZnhXa1A3ZzhqQkVnU1AyZFhQc1hlY0hxM0t5Ny1oczJVcFFIaGlxNFQ4TzBPSEVBRXBSa1ZDZUxHQ3lRU3pnQ1RzNEZBQXF5Z1R4MjhCQTdhRVkwUU5xcTZnU2Q4WXU2SDM3NU5DWVFQRjF3RGQ3UmVfSHYyTTht?oc=5",
+      "source": "CNN Türk",
+      "date": "2026-11-09T07:56:00Z",
+      "description": "Golf tutkunları, Erdoğan Demirören Golf Cup 2026da buluştu - Spor Haberleri CNN Türk",
       "image": "",
       "category": "Spor"
     },
@@ -1919,11 +1973,11 @@
       "category": "Spor"
     },
     {
-      "title": "Golf tutkunları, Erdoğan Demirören Golf Cup 2026da buluştu - Spor Haberleri - CNN Türk",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0IxYmw5OHo0cWxMdzV2bnUwVnpKNVlBVjBPQ3ltZ21UdXJabVdoZTBWblBBZnhXa1A3ZzhqQkVnU1AyZFhQc1hlY0hxM0t5Ny1oczJVcFFIaGlxNFQ4TzBPSEVBRXBSa1ZDZUxHQ3lRU3pnQ1RzNEZBQXF5Z1R4MjhCQTdhRVkwUU5xcTZnU2Q4WXU2SDM3NU5DWVFQRjF3RGQ3UmVfSHYyTTht?oc=5",
+      "title": "Elif Nur Turhan, IBF kemerini kaybetti: Kariyerinin ilk yenilgisi - CNN Türk",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUp4SlhfMUZheUZYOTFnLXYyOGRfcW9kTjhVX2lKMm90MzE2VTZoclBCNzJnNnlPcEhvTnJkbEk5QTNTYksyTzFKZ0tWRnFqLS1vcGVZbDlFTGRrU2Z3c3ctRWh5dWdXWFk3WEx4dzZZVjdGZ3RXemt0dVZkQ3pqUlZvX243dlJRbGw0dHh6N2g2VkxvbTJxRGFPTW9jX2dnV0tERmd2bUpJYXE4RERKVTRqSHU?oc=5",
       "source": "CNN Türk",
-      "date": "2026-11-09T07:56:00Z",
-      "description": "Golf tutkunları, Erdoğan Demirören Golf Cup 2026da buluştu - Spor Haberleri CNN Türk",
+      "date": "2026-11-09T06:14:00Z",
+      "description": "Elif Nur Turhan, IBF kemerini kaybetti: Kariyerinin ilk yenilgisi CNN Türk",
       "image": "",
       "category": "Spor"
     },
@@ -1937,29 +1991,11 @@
       "category": "Spor"
     },
     {
-      "title": "Elif Nur Turhan, IBF kemerini kaybetti: Kariyerinin ilk yenilgisi - CNN Türk",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUp4SlhfMUZheUZYOTFnLXYyOGRfcW9kTjhVX2lKMm90MzE2VTZoclBCNzJnNnlPcEhvTnJkbEk5QTNTYksyTzFKZ0tWRnFqLS1vcGVZbDlFTGRrU2Z3c3ctRWh5dWdXWFk3WEx4dzZZVjdGZ3RXemt0dVZkQ3pqUlZvX243dlJRbGw0dHh6N2g2VkxvbTJxRGFPTW9jX2dnV0tERmd2bUpJYXE4RERKVTRqSHU?oc=5",
-      "source": "CNN Türk",
-      "date": "2026-11-09T06:14:00Z",
-      "description": "Elif Nur Turhan, IBF kemerini kaybetti: Kariyerinin ilk yenilgisi CNN Türk",
-      "image": "",
-      "category": "Spor"
-    },
-    {
       "title": "Fenerbahçe Medicana, Türk Hava Yolları karşısında zorlanmadı - Sabah",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTjRXaVVITmd6b3dJeDlON3dkUk81Y1lKcEs1a2ljVUI2anpiRmlDZVZCZVRZZHlVQjdHTjRiNlRJQXpiMDFIRVJUZDNjODRFbGJuTjNkc2lBMkhGb3pnRE9JNVNPek5tVXNnclNXVzVyWjhUWk9nbkhGTVZKQzk5Q19aOFpUbTNlVWxvaDNvRlRUXzF1YXJSYnMwb3o3eEhQY0RPVnMtRThLdnItWk5WY1lR0gG0AUFVX3lxTE9fS2swWXhEajU5N3VJSVlUQV9Fa1Etd2trb2Q1dF9qSU53eHk2LXZSazFXekNEN3lLNWRuVHlqNnFHVHgtdHZlb2ZwMlNBZHFHUTM4RjN5MUpTWjFPeVRtWXBWa1EyWEJoSDQ0TVVaY3J1ZHJ3Mk5lQkVIWjNNcXRsRWtwZlh2Tms3ZGNJeVJpcExJclp0anZINTVDZHloSnFkdlpuV3BSVE04XzV4Y1hUU2xhZA?oc=5",
       "source": "Sabah",
       "date": "2026-11-08T18:30:02Z",
       "description": "Fenerbahçe Medicana, Türk Hava Yolları karşısında zorlanmadı Sabah",
-      "image": "",
-      "category": "Spor"
-    },
-    {
-      "title": "Rafael Leao: 'Türkiye Ligi beni şaşırttı!' - Hürriyet",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdGd3MFpPUEtSaFJmem9RR3c0YWZkUzFVaE1ZUkFGTUlKai1IdHFseDVDUUp0M3FOdzl4aFNHaVpfaUF0QVRTU3czM21pSzlZNGZmSEZibG8wb2hlLXA2bTd6Vm8tbmw2Q3JOWVJGeDMyS2EtM2NxdEpocGFrbXQybTVxek5sbUNOVWVBQkV3?oc=5",
-      "source": "Hürriyet",
-      "date": "2026-09-29T07:00:00Z",
-      "description": "Rafael Leao: 'Türkiye Ligi beni şaşırttı!' Hürriyet",
       "image": "",
       "category": "Spor"
     },
@@ -2201,8 +2237,17 @@
       "title": "FUTBOL HABERLERİ SON DAKİKA TRANSFERLERİ - Fotomaç",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5rYXVBMlpwUGctZTVvRnhEZkNodXdveVNnaFlQYW5aSTlqOXZIZU9ndTJRTjVVRENsWnFLUkl2aklQR0FrY1ZhVg?oc=5",
       "source": "Fotomaç",
-      "date": "2026-11-09T13:05:00Z",
+      "date": "2026-11-09T16:52:00Z",
       "description": "FUTBOL HABERLERİ SON DAKİKA TRANSFERLERİ Fotomaç",
+      "image": "",
+      "category": "Futbol"
+    },
+    {
+      "title": "Amedspor'dan ses getirecek transfer hamlesi: Menajeriyle ilk temas kuruldu - Yeni Şafak",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObE9iQ1lraVVoUnQwNVlXQUJsRmdxQ1M0ZnY4emJ1RmY0TlowU0x0NHp6V3lueGxqYUh0X05mTzdPUDlWbldqYTNLNFV5WXpPUkhiQ2kyNHVqczFpM09kUXNiam5HYTdwOG9JMFRtMXYxRkpHR1BpVzczUUc5cXhlUzZKQVd3Y1BqcDYyR05ieGpBVVBnZ3hiWmt0Sm1sRVdWZ3dZaUUwZ05xTFVkNWVaeUphakEzN2lwZ3c?oc=5",
+      "source": "Yeni Şafak",
+      "date": "2026-11-09T06:40:36Z",
+      "description": "Amedspor'dan ses getirecek transfer hamlesi: Menajeriyle ilk temas kuruldu Yeni Şafak",
       "image": "",
       "category": "Futbol"
     },
@@ -2216,15 +2261,6 @@
       "category": "Futbol"
     },
     {
-      "title": "Türkiye - Belçika maçı ne zaman, saat kaçta, CANLI YAYIN hangi kanalda? - Gazete Vatan",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjk1cTJaRjRsa0lhOVh4NkJVUmdtU1hSSGJ4dG1WTWhOQnZCZ3JSNkJWX2EteVV1VV93aVNHVENlUE9ZTjN2Z2xacXlfWlJmRHlWZUdRS2xraS1Od3pndm56a0VyMkdHYndiTmtFYzEyUVN0WHNNX0dpWFNCQ2lEVHZQX0dvcHdkY01wVWM4d0JEbVZydUI4eWRnZ0VKRmJycTB1YUMzTnRocHhLVWc?oc=5",
-      "source": "Gazete Vatan",
-      "date": "2026-11-09T07:08:00Z",
-      "description": "Türkiye - Belçika maçı ne zaman, saat kaçta, CANLI YAYIN hangi kanalda? Gazete Vatan",
-      "image": "",
-      "category": "Futbol"
-    },
-    {
       "title": "TFF'den Cevad Prekazi için başsağlığı mesajı! - Sabah",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEI2ZU5WZDU4bXh4QjRWTERKUzFwMGtBQjMzQjZ2UVNHZnBibFBtMXFCVmx4MXRVUUpBbnNLU3JZR0JCaGZPR18xamxMcFFaemdhZ3Y2anlBMk9OQ3VTeFRaeXJwREdudHNpR1pqazJiZ3czT3R5ZXBrLU1Cb0l4MS1mbnFmQy1mcU1veDdSVldsTmVzQ3fSAZgBQVVfeXFMTmxEbEV4c1c3VWxlWjRVV0p3aDRwcXhPaks4UllvRUxlRVBMNzlVOTYtZlJiSUVnTjRqamdsVnRxeF9BT0Q2SmFreGg5OTBYTURqVjBlbkYycXpFdkxCTHgtTm9HSDFYYjFiRlF5MXkwYk00U3lHd2hJSlpRbE9XZ0RZME9vaU1zOEN6M0RLQ0YwLWVEYlRVSlI?oc=5",
       "source": "Sabah",
@@ -2234,20 +2270,11 @@
       "category": "Futbol"
     },
     {
-      "title": "Türkiye maçı öncesi Fransa'da şok sakatlık: Kadrodan çıkarıldı - Yeni Şafak",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlNsR0VXaG9CYkdWNEQybmJ1UUJmQjFmOHA1dXNUMEM0NUxyRDVPbF9nTTJ6amhwMWo2Z1dKYzkwV3JCY21qbzM1SUI5WTBoR1JPck1SRmNKZGdCWFlwdHVnRW9YMGlEMUFxTGNnR1pQQ3BuWGtoOE9MWGFpREthUS1mZnRhZmo1M3BYMkJqMlJPcE9QMy1PLWg4czdEZ2dR?oc=5",
-      "source": "Yeni Şafak",
-      "date": "2026-11-09T13:19:34Z",
-      "description": "Türkiye maçı öncesi Fransa'da şok sakatlık: Kadrodan çıkarıldı Yeni Şafak",
-      "image": "",
-      "category": "Futbol"
-    },
-    {
-      "title": "A MİLLİ FUTBOL TAKIMI HABERLERİ - Fotomaç",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12eGwyR2VtUWtiQUJNcnZyVkJ2MVRscUZpTG1mV3Q1SEs1cjBvamNHQVRyX3NBdlo0alhUZG1mUHYtYVF3MXNEX19uWUVIZw?oc=5",
-      "source": "Fotomaç",
-      "date": "2026-11-09T06:34:00Z",
-      "description": "A MİLLİ FUTBOL TAKIMI HABERLERİ Fotomaç",
+      "title": "Türkiye - Belçika maçı ne zaman, saat kaçta, CANLI YAYIN hangi kanalda? - Gazete Vatan",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjk1cTJaRjRsa0lhOVh4NkJVUmdtU1hSSGJ4dG1WTWhOQnZCZ3JSNkJWX2EteVV1VV93aVNHVENlUE9ZTjN2Z2xacXlfWlJmRHlWZUdRS2xraS1Od3pndm56a0VyMkdHYndiTmtFYzEyUVN0WHNNX0dpWFNCQ2lEVHZQX0dvcHdkY01wVWM4d0JEbVZydUI4eWRnZ0VKRmJycTB1YUMzTnRocHhLVWc?oc=5",
+      "source": "Gazete Vatan",
+      "date": "2026-11-09T07:08:00Z",
+      "description": "Türkiye - Belçika maçı ne zaman, saat kaçta, CANLI YAYIN hangi kanalda? Gazete Vatan",
       "image": "",
       "category": "Futbol"
     },
@@ -2270,15 +2297,6 @@
       "category": "Futbol"
     },
     {
-      "title": "TFF'den Cevad Prekazi için başsağlığı mesajı - Yeni Şafak",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSC1UZUIzV0duM183RnVIdTJrMGJGcEJOczJ4WmxoUHoyREhuNlRaWjVzNTZDcHB6TUo3MmhGenVBUS1kTW1fMm56Wk1wcWFhS1NDREhLVTR6V2FEUjdldVBwajJ5NnBzUlMyRC04SUhsNFJ3Nnk5M2RHa0FQZFROYnZmMF8yV0tzQkE?oc=5",
-      "source": "Yeni Şafak",
-      "date": "2026-11-09T08:31:26Z",
-      "description": "TFF'den Cevad Prekazi için başsağlığı mesajı Yeni Şafak",
-      "image": "",
-      "category": "Futbol"
-    },
-    {
       "title": "Milli şölen Turkuvaz’da - Sabah",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWWMzSUppRXh4bXk1cnU0RkhIbFN4T0dDd3VIcUpITldBdXBlR3FVYW9OYmZ5V1liaFlsVWRqbG1IbVFFV2lta05oUFM1WEZUeWlZZ0pQbTBlbllSMmZIZmZxX0gwWktZWHZZdXJTcGdmeDFtS3VZQ2930gF8QVVfeXFMTTE1U3VSQmMzSlpPNU5SUXhtYlJpQ0tkR3ZleVRjNUNES0xMNE1taTYtRWhFRHkzOUFCeThxZThWQURBXy1RbndGeUM3SmlSSkU4dkhsbW1hcXBVWFZmNHM3NnVTZmI2QWdLZF9SMjdsUHFnblY0OUd4cE5mVw?oc=5",
       "source": "Sabah",
@@ -2288,11 +2306,11 @@
       "category": "Futbol"
     },
     {
-      "title": "Cevad Prekazi kimdir, kaç yaşında vefat etti? Galatasaray'da hangi yıllarda forma giydi? | Futbol Haberleri - Yeni Şafak",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUxfcHpOdXBHRzRuaEtxb1F1a0NhSHZQcUlXbXIwbHhTZ2w2eEZPZXZFdHQ5SFNacDNGN0xpYU94SW1QLXJ6T3pxYk52X09tUkNNbTNkaDZySUduMmUxTmNQbUdBdVlaOGhLNFREd1lOYXc5dU9BRmxXbVB6Um14V3dyZXBjMmtFM09oR295Mnk3UG1VcVZlMFhKQ0ZXckFuVDc3Rm5JOVAzLTJieW5IN05KdWo1YjJKT2hWZ3otWUI0UjZUN2UwS2h3?oc=5",
+      "title": "TFF'den Cevad Prekazi için başsağlığı mesajı - Yeni Şafak",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSC1UZUIzV0duM183RnVIdTJrMGJGcEJOczJ4WmxoUHoyREhuNlRaWjVzNTZDcHB6TUo3MmhGenVBUS1kTW1fMm56Wk1wcWFhS1NDREhLVTR6V2FEUjdldVBwajJ5NnBzUlMyRC04SUhsNFJ3Nnk5M2RHa0FQZFROYnZmMF8yV0tzQkE?oc=5",
       "source": "Yeni Şafak",
-      "date": "2026-11-08T20:27:00Z",
-      "description": "Cevad Prekazi kimdir, kaç yaşında vefat etti? Galatasaray'da hangi yıllarda forma giydi? | Futbol Haberleri Yeni Şafak",
+      "date": "2026-11-09T08:31:26Z",
+      "description": "TFF'den Cevad Prekazi için başsağlığı mesajı Yeni Şafak",
       "image": "",
       "category": "Futbol"
     },
@@ -2594,6 +2612,15 @@
       "category": "Futbol"
     },
     {
+      "title": "TFF resmen duyurdu! Yayın ihalesi, beIN Sports'ta - Hürriyet",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejRVaS1wWlJhOVBuTmkyNURTSGM3NkxYM2h2ZzBVaVU5LXAxUjBPVG54eWFiN05SQ2VfaGstNkxTZmNVd3Zhc1E0Y0hzdEgxdGtxX2EwQUlXRHByR0pUTkdydHNkYlNfSG80ZjJoWnZlRGZ2aTZkM2pKTHVVWkRZNjB2ZG1LLWIwSkdlYThZSWpKZ0ZiWmU0Uw?oc=5",
+      "source": "Hürriyet",
+      "date": "2024-03-02T08:00:00Z",
+      "description": "TFF resmen duyurdu! Yayın ihalesi, beIN Sports'ta Hürriyet",
+      "image": "",
+      "category": "Futbol"
+    },
+    {
       "title": "SÜPER LİG HABERLERİ - Süper Lig’deki son dakika transfer haberleri, fikstür ve puan durumu burada - Fotomaç",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtazhUT3MtN1RJMmJHaXhpczR4X3hTVHhfS3JHYm9qSkhQdUxNVU9YY3FmS2o1TnlhNXhaWFltRlNpQWhYRzZNdXBxQQ?oc=5",
       "source": "Fotomaç",
@@ -2612,15 +2639,6 @@
       "category": "Futbol"
     },
     {
-      "title": "TFF resmen duyurdu! Yayın ihalesi, beIN Sports'ta - Hürriyet",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejRVaS1wWlJhOVBuTmkyNURTSGM3NkxYM2h2ZzBVaVU5LXAxUjBPVG54eWFiN05SQ2VfaGstNkxTZmNVd3Zhc1E0Y0hzdEgxdGtxX2EwQUlXRHByR0pUTkdydHNkYlNfSG80ZjJoWnZlRGZ2aTZkM2pKTHVVWkRZNjB2ZG1LLWIwSkdlYThZSWpKZ0ZiWmU0Uw?oc=5",
-      "source": "Hürriyet",
-      "date": "2024-03-02T08:00:00Z",
-      "description": "TFF resmen duyurdu! Yayın ihalesi, beIN Sports'ta Hürriyet",
-      "image": "",
-      "category": "Futbol"
-    },
-    {
       "title": "GALATASARAY HABERLERİ - Galatasaray Transfer Haberleri, Son Dakika Gelişmeler - Fotomaç",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JeWxKalM1NUpxRmE0bG1hQ3lSSVktaGxBaGZEZkxqS3VGcWdELWQ0bkxMS0g4N2pRUnp3UTFhTWNrQlVTRVpta1FBMnkwUG8?oc=5",
       "source": "Fotomaç",
@@ -2630,11 +2648,11 @@
       "category": "Futbol"
     },
     {
-      "title": "FENERBAHÇE HABERLERİ - Fenerbahçe Transfer Haberleri, Son Dakika Gelişmeleri. - Fotomaç",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nTDFFYm9vT1dWelg1SGU5aTB6VEktalpQSjNMOERBbWQySXVMOVFjM0RxQXM0cFFMYW53Nzgza3VjNFlIS2VwdEhnRTFCZw?oc=5",
-      "source": "Fotomaç",
-      "date": "2016-10-21T20:18:12Z",
-      "description": "FENERBAHÇE HABERLERİ - Fenerbahçe Transfer Haberleri, Son Dakika Gelişmeleri. Fotomaç",
+      "title": "4 büyükler arasındaki unutulmayan transfer çalımları! - Hürriyet",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVHdMMWxVRU1POGwtakQ5NTFkVHZWSko5TzUyZ05sZHJoZFpER3UxbTR1cmZ1WUc0bktabWJkeF9VdU5obmZLcEg2Vjk1TlpvOS1zdFhhMG8wNUFsWk54SzI3UE1nLUZWOEczemxFRFZMY1RWSzNXQ2ZjU0pTUlI1US1vdWdxcDh0QjJqRGJXSU82bE5UT21tbUMteUJzb3NJQ181LXdhWGZrQ0FqUnc?oc=5",
+      "source": "Hürriyet",
+      "date": "2020-03-07T03:06:48Z",
+      "description": "4 büyükler arasındaki unutulmayan transfer çalımları! Hürriyet",
       "image": "",
       "category": "Futbol"
     },
@@ -2648,11 +2666,11 @@
       "category": "Futbol"
     },
     {
-      "title": "A SPOR CANLI YAYIN - aspor.com.tr - A Spor",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oLXVMcGxqbnJIMjZVdnpkY20zRHhPcHpxYkdMR1VEdElsd2xjYUg0T0lhWmE2RVhmNWsxZmJIZG14bndTbWx4RHp0bVppRy1RYVd0Sg?oc=5",
-      "source": "A Spor",
-      "date": "2014-09-17T07:00:00Z",
-      "description": "A SPOR CANLI YAYIN - aspor.com.tr A Spor",
+      "title": "FENERBAHÇE HABERLERİ - Fenerbahçe Transfer Haberleri, Son Dakika Gelişmeleri. - Fotomaç",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nTDFFYm9vT1dWelg1SGU5aTB6VEktalpQSjNMOERBbWQySXVMOVFjM0RxQXM0cFFMYW53Nzgza3VjNFlIS2VwdEhnRTFCZw?oc=5",
+      "source": "Fotomaç",
+      "date": "2016-10-21T20:18:12Z",
+      "description": "FENERBAHÇE HABERLERİ - Fenerbahçe Transfer Haberleri, Son Dakika Gelişmeleri. Fotomaç",
       "image": "",
       "category": "Futbol"
     },
@@ -2684,20 +2702,20 @@
       "category": "Futbol"
     },
     {
-      "title": "Azerbaycan'ın Aldığı 500 Milyon Dolarlık Türk Savunma Sistemleri 2T Teknoloji & Savunma #19 - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHR1cFRfMHpSUk1adUtKaWl5YVFQNFFYUkl0eWFVenQwWWJLVzB2UWgyYnQ1M0o0SXR0dktiR0FWUkg2LVFuZ0FZVzdVMDQtYTR4UXA4MG9jSUdsWHQ2cVNDN2NjZld3aWpGME9VWFUwOXVWZ0xIN0JrUmI3cTczMjZ6aTB1aUNNVUdGXzJTY1ZtNVhLWHJ1YXVWNHhOMnVxeTNUYVNrbEE2MFZtUUthSlFINVE?oc=5",
-      "source": "ShiftDelete.Net",
-      "date": "2026-11-08T16:40:00Z",
-      "description": "Azerbaycan'ın Aldığı 500 Milyon Dolarlık Türk Savunma Sistemleri 2T Teknoloji & Savunma #19 ShiftDelete.Net",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
       "title": "Apple'dan Türkiye'ye büyük yatırım: 7 yeni merkez açılacak - DonanımHaber",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUhQNEFlay1aVnJyd2ZUbllmTUZvbTRpdzdvSjFZYjdCc01zbFp0TDNzblktci1ENDREbjhaUDk4OEJubmk3OFk5VDNoYjJpUmlGQkpPSkFmQ1ZoZjNOSTJSb1pzLW43WFBTWWpnQk9JWWsyX3dHNWdmX1lpUkFMREE5Sy1Xd0FfVGViYXZoVkQydkpkR3ByY0VB?oc=5",
       "source": "DonanımHaber",
       "date": "2026-11-09T15:28:22Z",
       "description": "Apple'dan Türkiye'ye büyük yatırım: 7 yeni merkez açılacak DonanımHaber",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
+      "title": "Azerbaycan'ın Aldığı 500 Milyon Dolarlık Türk Savunma Sistemleri 2T Teknoloji & Savunma #19 - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHR1cFRfMHpSUk1adUtKaWl5YVFQNFFYUkl0eWFVenQwWWJLVzB2UWgyYnQ1M0o0SXR0dktiR0FWUkg2LVFuZ0FZVzdVMDQtYTR4UXA4MG9jSUdsWHQ2cVNDN2NjZld3aWpGME9VWFUwOXVWZ0xIN0JrUmI3cTczMjZ6aTB1aUNNVUdGXzJTY1ZtNVhLWHJ1YXVWNHhOMnVxeTNUYVNrbEE2MFZtUUthSlFINVE?oc=5",
+      "source": "ShiftDelete.Net",
+      "date": "2026-11-08T16:40:00Z",
+      "description": "Azerbaycan'ın Aldığı 500 Milyon Dolarlık Türk Savunma Sistemleri 2T Teknoloji & Savunma #19 ShiftDelete.Net",
       "image": "",
       "category": "Teknoloji"
     },
@@ -2774,20 +2792,20 @@
       "category": "Teknoloji"
     },
     {
-      "title": "Türkiye Teknoloji Takımı Vakfı deprem bölgesinde çocukların yanında - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2lWZlltSXZmaUpiVjZkT2pXem43SDE3cjE2UWxrbm9sOWJWOTNhS2xwZGJDam5LYUZpZG5yQzQzZ1BRYzNKTm1NTmdtdVhOQU85cmtPVWdLTnoxY1dCOGFxWlEzWFJQQTlXTHhVZ1QtTVFtVkRaa0JFOXFSbFVNU2dQaURnM09ZVm0wdzN5ZWNXZThySkQzS1Bydm1jT043cnplSFdkU29qaEJ0MEZBRmlB?oc=5",
-      "source": "ShiftDelete.Net",
-      "date": "2023-02-27T08:00:00Z",
-      "description": "Türkiye Teknoloji Takımı Vakfı deprem bölgesinde çocukların yanında ShiftDelete.Net",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
       "title": "Azerbaycan'ın Türk savunma sistemleri satın alımı konuşuluyor - ShiftDelete.Net",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaTZDMEJub3pUZkxxOEY4UFUxQnVYZ2tsbDVmMy1ZR25obEVBOFN3bG1TdnVKNVNRalBwSkFLSFZfay0tUTdMLUxGbE1vQnlSa2Z3ZVpXOXhkTHlUck1WTHBXNV9sUjN5dE1lNF8tZU03ZllTcF8wWlNYWGZVajJPQm5QWHFFQXplTVZTZ1BjckQ3Uy1pcmZKZVFjb0lTN2VFNWN6cWV5V3ltUENqN3p2dURpVWc1SUFIUDVCdVNveVhMakVj?oc=5",
       "source": "ShiftDelete.Net",
       "date": "2026-11-08T16:41:00Z",
       "description": "Azerbaycan'ın Türk savunma sistemleri satın alımı konuşuluyor ShiftDelete.Net",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
+      "title": "Türkiye Teknoloji Takımı Vakfı deprem bölgesinde çocukların yanında - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2lWZlltSXZmaUpiVjZkT2pXem43SDE3cjE2UWxrbm9sOWJWOTNhS2xwZGJDam5LYUZpZG5yQzQzZ1BRYzNKTm1NTmdtdVhOQU85cmtPVWdLTnoxY1dCOGFxWlEzWFJQQTlXTHhVZ1QtTVFtVkRaa0JFOXFSbFVNU2dQaURnM09ZVm0wdzN5ZWNXZThySkQzS1Bydm1jT043cnplSFdkU29qaEJ0MEZBRmlB?oc=5",
+      "source": "ShiftDelete.Net",
+      "date": "2023-02-27T08:00:00Z",
+      "description": "Türkiye Teknoloji Takımı Vakfı deprem bölgesinde çocukların yanında ShiftDelete.Net",
       "image": "",
       "category": "Teknoloji"
     },
@@ -2828,20 +2846,20 @@
       "category": "Teknoloji"
     },
     {
-      "title": "Türkiye Teknoloji Fonu ile Girişim Ekosistemine Sağlanan Destek 100 Milyon Doları Aştı - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNEZ2YnY0UmFiNVVxak1yeU51dGFNaWQzd01MWFF3ekZHZXJkX3dnVjJMY0RndDNmRzRaelVwazRoRXBPTW1oejNBTXRjMV9ySF9HV3lwV0JPNFZndWlOeEszQ2JHWHgwakNrY2EzbnVuZkd1Zjh5Ry0tMmpVOEdnSjhqc2NlZ3ZmTVE3MXdEYW0wSDVvZGEyMWpVUDViNGhTdV96TjRWSU9pTm5mNmwyU29JYnJiaXNTU3JwTnNsb3lBazQ?oc=5",
-      "source": "ShiftDelete.Net",
-      "date": "2025-10-03T07:00:00Z",
-      "description": "Türkiye Teknoloji Fonu ile Girişim Ekosistemine Sağlanan Destek 100 Milyon Doları Aştı ShiftDelete.Net",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
       "title": "Tim Cook İstanbul'da! İşte Geliş Sebebi - Webtekno",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BWjYxVlBqZnpkZ2p5eHpMSFdHNUROUmNyeDY5YWRxeHBRMHMxQjZzR3R1VTJmMi1tQTk2WWp1cmcyZ1NKajZsdVFqNnQ5Rnh4bnFtNHBjSVlTNE01bi1WUVFfdXAwa0ZiUEdEMlozbWVxSmVKdjBj?oc=5",
       "source": "Webtekno",
       "date": "2026-11-09T06:34:09Z",
       "description": "Tim Cook İstanbul'da! İşte Geliş Sebebi Webtekno",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
+      "title": "Türkiye Teknoloji Fonu ile Girişim Ekosistemine Sağlanan Destek 100 Milyon Doları Aştı - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNEZ2YnY0UmFiNVVxak1yeU51dGFNaWQzd01MWFF3ekZHZXJkX3dnVjJMY0RndDNmRzRaelVwazRoRXBPTW1oejNBTXRjMV9ySF9HV3lwV0JPNFZndWlOeEszQ2JHWHgwakNrY2EzbnVuZkd1Zjh5Ry0tMmpVOEdnSjhqc2NlZ3ZmTVE3MXdEYW0wSDVvZGEyMWpVUDViNGhTdV96TjRWSU9pTm5mNmwyU29JYnJiaXNTU3JwTnNsb3lBazQ?oc=5",
+      "source": "ShiftDelete.Net",
+      "date": "2025-10-03T07:00:00Z",
+      "description": "Türkiye Teknoloji Fonu ile Girişim Ekosistemine Sağlanan Destek 100 Milyon Doları Aştı ShiftDelete.Net",
       "image": "",
       "category": "Teknoloji"
     },
@@ -2900,15 +2918,6 @@
       "category": "Teknoloji"
     },
     {
-      "title": "Türkiye’de Teknoloji devlerine vergi müjdesi! - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQU5GMTc2QjBVRHVVUkM2dGwzdXJXM3Nwa282Qm9aVU9oRmdIWlNqSGY4MXloaEdXTmlZbzNmczBGZW5tRy1ubTc3cnlyWFdXTXRjVGlheUZCTHV5bGxsU3FHUnFDaWsyc1JzUE9Jbldxb0w4U3FMWGwxb2lTRkRzX01fc2tMTkE0YWc2WDBncUo2NEU?oc=5",
-      "source": "ShiftDelete.Net",
-      "date": "2025-12-25T08:00:00Z",
-      "description": "Türkiye’de Teknoloji devlerine vergi müjdesi! ShiftDelete.Net",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
       "title": "Vivo X500 Pro Max Türkiye Fiyatı ve Kit Seçenekleri - ShiftDelete.Net",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54RC1FbUcyTGYyQjVleXQwOTVTUUtyRmtMckdQdEMzNUdOSEtHeWpHT1c0enNvNmlwbEx2bXZweDFGZEd3b0gzdmZLWlBpOVV2VEQyTmxjR2g5TFBNQUNTUHhpLXNlXzIzSmJJbzQ2U1FvanJrTllCSQ?oc=5",
       "source": "ShiftDelete.Net",
@@ -2918,11 +2927,29 @@
       "category": "Teknoloji"
     },
     {
+      "title": "Türkiye’de Teknoloji devlerine vergi müjdesi! - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQU5GMTc2QjBVRHVVUkM2dGwzdXJXM3Nwa282Qm9aVU9oRmdIWlNqSGY4MXloaEdXTmlZbzNmczBGZW5tRy1ubTc3cnlyWFdXTXRjVGlheUZCTHV5bGxsU3FHUnFDaWsyc1JzUE9Jbldxb0w4U3FMWGwxb2lTRkRzX01fc2tMTkE0YWc2WDBncUo2NEU?oc=5",
+      "source": "ShiftDelete.Net",
+      "date": "2025-12-25T08:00:00Z",
+      "description": "Türkiye’de Teknoloji devlerine vergi müjdesi! ShiftDelete.Net",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
       "title": "vivo X500 Pro Max, Özel Avantajlarla Türkiye'de Ön Siparişe Açıldı: İşte Fiyatı! - Webtekno",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUnF2Y1BadGtxLWVYb3kwOTVVa2ZaYnhzbTJSNDVLUW1iYXlrYS1lYk44NkFkaVQwdTdRaE9mbzNOM3FmSHdCN3pvNzJnTjNjeHJpZ0NleWxSMmZTcXUyTzBNLVJaQXBkZUVKdHN6N2hOOG5zYnFvZkIyZy01UnoxYmtHS0lHVWRP?oc=5",
       "source": "Webtekno",
       "date": "2026-11-09T12:09:32Z",
       "description": "vivo X500 Pro Max, Özel Avantajlarla Türkiye'de Ön Siparişe Açıldı: İşte Fiyatı! Webtekno",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
+      "title": "Tim Cook'un 2. Kez Türkiye'ye Gelmesini Sağlayan Bünyamin Aydın Kimdir? - Webtekno",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yeHVLVkw1M0EtQ1pRaDFnSHBDN0dJY2JBY0UwdVVqSm45TWFSSG1wQ3NxR004b1hicURRNVlwd3B2cC1TUFpTeDRITE1WbVdQaUVLWnhiZU5jekdyQ0E4QjZVQTd5MEc4cWNZ?oc=5",
+      "source": "Webtekno",
+      "date": "2026-11-09T13:53:02Z",
+      "description": "Tim Cook'un 2. Kez Türkiye'ye Gelmesini Sağlayan Bünyamin Aydın Kimdir? Webtekno",
       "image": "",
       "category": "Teknoloji"
     },
@@ -2941,24 +2968,6 @@
       "source": "DonanımHaber",
       "date": "2026-11-09T17:46:22Z",
       "description": "Amazon'da Kasım indirimlerine ek 1.000 TL indirim kuponu! DonanımHaber",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
-      "title": "Tim Cook'un 2. Kez Türkiye'ye Gelmesini Sağlayan Bünyamin Aydın Kimdir? - Webtekno",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yeHVLVkw1M0EtQ1pRaDFnSHBDN0dJY2JBY0UwdVVqSm45TWFSSG1wQ3NxR004b1hicURRNVlwd3B2cC1TUFpTeDRITE1WbVdQaUVLWnhiZU5jekdyQ0E4QjZVQTd5MEc4cWNZ?oc=5",
-      "source": "Webtekno",
-      "date": "2026-11-09T13:53:02Z",
-      "description": "Tim Cook'un 2. Kez Türkiye'ye Gelmesini Sağlayan Bünyamin Aydın Kimdir? Webtekno",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
-      "title": "Elektrikli otomobiller için 2.000 km menzil vadeden batarya - DonanımHaber",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa2ZYaFNjREhQVC1QVTM2Q0VHbmdQMnhaaHZMbmE1R3ZPUmFPZHAwOFl1S1NlbWlSVXAzTDF0NWYxWFI3T2RQOVgtOUY3X2pCdGtLMVhsNUlRcWtCbGw2RzlQQ1lNV1hQNEJSMDMtbHI1STgwSC02R3pVZF9uRS1wbHBwYnE4dERhUVVJaGJxQ0lYM0UwWldQUGpHcW8?oc=5",
-      "source": "DonanımHaber",
-      "date": "2026-11-08T16:30:00Z",
-      "description": "Elektrikli otomobiller için 2.000 km menzil vadeden batarya DonanımHaber",
       "image": "",
       "category": "Teknoloji"
     },
@@ -2990,11 +2999,11 @@
       "category": "Teknoloji"
     },
     {
-      "title": "Casper Excalibur G870 Intertek testlerinde hangi sonuçları aldı? - DonanımHaber",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWd3cXNkbWVfSXRIdThMMW9kTE95ZjBOSnpYUk5HU1kxQVZzVE9DUUhVZVNlaUcySE9WYjlzeVJLckkwUWxVWVBsNnZQNDlzR3A2aDNoaXN4QTM5XzIwNnFmTG5FVzJ1WTN5VU12cE5tUDB3MFM2OWM3UmJ5akJtYkZTM09YcTA5bkI1aWpFVUxDdmFrdGV4alNmWWRIaXZwOUE?oc=5",
+      "title": "Sony, PS5 sahiplerinin kapısını çaldı: Konsol için 400 dolar veriyor - DonanımHaber",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzVyQkNZZ2dMMW5ocWtRQkN2NkxxalE2UWRpTTVCUm4tWFpaenhBN1F5b2Y1Y3RINEdodjBFLS1MaXZ5bjU2WU9IUlBZcXVlUno3YjBsOEJQZjRGLXVkM1doOEtTY25ZV0tmT2wyMTdCRHlMZFZJSDJuY0dDNG52V3NEa2tsTkduRXhCNXlmYW5kOXVodFNYSWhockhfdmZabnc?oc=5",
       "source": "DonanımHaber",
-      "date": "2026-11-06T16:20:50Z",
-      "description": "Casper Excalibur G870 Intertek testlerinde hangi sonuçları aldı? DonanımHaber",
+      "date": "2026-11-06T10:26:00Z",
+      "description": "Sony, PS5 sahiplerinin kapısını çaldı: Konsol için 400 dolar veriyor DonanımHaber",
       "image": "",
       "category": "Teknoloji"
     },
@@ -3008,38 +3017,11 @@
       "category": "Teknoloji"
     },
     {
-      "title": "Sony, PS5 sahiplerinin kapısını çaldı: Konsol için 400 dolar veriyor - DonanımHaber",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzVyQkNZZ2dMMW5ocWtRQkN2NkxxalE2UWRpTTVCUm4tWFpaenhBN1F5b2Y1Y3RINEdodjBFLS1MaXZ5bjU2WU9IUlBZcXVlUno3YjBsOEJQZjRGLXVkM1doOEtTY25ZV0tmT2wyMTdCRHlMZFZJSDJuY0dDNG52V3NEa2tsTkduRXhCNXlmYW5kOXVodFNYSWhockhfdmZabnc?oc=5",
-      "source": "DonanımHaber",
-      "date": "2026-11-06T10:26:00Z",
-      "description": "Sony, PS5 sahiplerinin kapısını çaldı: Konsol için 400 dolar veriyor DonanımHaber",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
       "title": "Amazon Gülümseten Kasım'da haftanın öne çıkan fırsatları! - DonanımHaber",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX19lTUthMzdOTkRJYThSd3I0aUc3WWlDemN1NDBkRG1yUE5ZeXFEVDJQZHE4MXZiUEk4ai1RdG9oMjVoWEs5bXJDaWt0akhrMlFQYU5oa0oxVHJnSTFoZnFyeHFVRkxSOGkydFh2allWaW5Wa2Y0SXVZT0thZm5VbThXVnZvODhyVFJ1dENrQVVWV3liMEdHc0ZJSzRYSG5Ca2FBSA?oc=5",
       "source": "DonanımHaber",
       "date": "2026-11-09T13:30:44Z",
       "description": "Amazon Gülümseten Kasım'da haftanın öne çıkan fırsatları! DonanımHaber",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
-      "title": "Tim Cook Anıtkabir'i ziyaret etti - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45NThjR3BUSEhHSmtPNHV2SlhnTkE1dm1QOE80VE9LUUQ4a21XV1B6NVI0UnRjZzlTMUlPd2pKMDNnRWQ0ZzNwMGZNeFR3Y294WDVINUxSSXQ5Q250MXQyY3FtNA?oc=5",
-      "source": "ShiftDelete.Net",
-      "date": "2026-11-09T06:41:16Z",
-      "description": "Tim Cook Anıtkabir'i ziyaret etti ShiftDelete.Net",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
-      "title": "Fiat Fiyat Listesi Kasım 2026: Güncel Türkiye Fiyatları - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hSDB2cmpwakxNcmN3V0ZuUnBXa2hERDd2YW9fV2tzOFZXV1FMeXB6M250VloyTldCZU9rYV9fR2xXMlVyT0NTdkJhWlZ1Z1pHUUlmNA?oc=5",
-      "source": "ShiftDelete.Net",
-      "date": "2026-11-08T13:08:17Z",
-      "description": "Fiat Fiyat Listesi Kasım 2026: Güncel Türkiye Fiyatları ShiftDelete.Net",
       "image": "",
       "category": "Teknoloji"
     },
@@ -3053,11 +3035,11 @@
       "category": "Teknoloji"
     },
     {
-      "title": "MG Fiyat Listesi Kasım 2026: 2.385.000 TL'den - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCQ19VRkhyUzZUaHcwZHVxZ2VDZTR6azRobVpGa3VXMjE0TU95RjVyckpoZktzM21tbndFYzNEbUd2SjVDaEFvOU5LckZPZlpQTVE?oc=5",
-      "source": "ShiftDelete.Net",
-      "date": "2026-11-09T13:30:00Z",
-      "description": "MG Fiyat Listesi Kasım 2026: 2.385.000 TL'den ShiftDelete.Net",
+      "title": "Casper Excalibur G870 Intertek testlerinde hangi sonuçları aldı? - DonanımHaber",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWd3cXNkbWVfSXRIdThMMW9kTE95ZjBOSnpYUk5HU1kxQVZzVE9DUUhVZVNlaUcySE9WYjlzeVJLckkwUWxVWVBsNnZQNDlzR3A2aDNoaXN4QTM5XzIwNnFmTG5FVzJ1WTN5VU12cE5tUDB3MFM2OWM3UmJ5akJtYkZTM09YcTA5bkI1aWpFVUxDdmFrdGV4alNmWWRIaXZwOUE?oc=5",
+      "source": "DonanımHaber",
+      "date": "2026-11-06T16:20:50Z",
+      "description": "Casper Excalibur G870 Intertek testlerinde hangi sonuçları aldı? DonanımHaber",
       "image": "",
       "category": "Teknoloji"
     },
@@ -3080,6 +3062,15 @@
       "category": "Teknoloji"
     },
     {
+      "title": "Tim Cook Anıtkabir'i ziyaret etti - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45NThjR3BUSEhHSmtPNHV2SlhnTkE1dm1QOE80VE9LUUQ4a21XV1B6NVI0UnRjZzlTMUlPd2pKMDNnRWQ0ZzNwMGZNeFR3Y294WDVINUxSSXQ5Q250MXQyY3FtNA?oc=5",
+      "source": "ShiftDelete.Net",
+      "date": "2026-11-09T06:41:16Z",
+      "description": "Tim Cook Anıtkabir'i ziyaret etti ShiftDelete.Net",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
       "title": "KGM SsangYong fiyat listesi - Kasım 2026 - Webtekno",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPXzk4ZGJmOGVhSGtRZkRpZ3owck52YTdGSjgzVFhRdmMwUFB6TnU5dTdKdFhqdThvM3lQQklxdGJncXZSbWoyamZpSTRkaDRYMXNnaEJNNWtHY2RLTWtMZWR0Sl84XzVpV0JnMGs5NmQxVjZjYW1hUFU4ZHpfT1dmY3ZB?oc=5",
       "source": "Webtekno",
@@ -3098,6 +3089,15 @@
       "category": "Teknoloji"
     },
     {
+      "title": "Elektrikli otomobiller için 2.000 km menzil vadeden batarya - DonanımHaber",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa2ZYaFNjREhQVC1QVTM2Q0VHbmdQMnhaaHZMbmE1R3ZPUmFPZHAwOFl1S1NlbWlSVXAzTDF0NWYxWFI3T2RQOVgtOUY3X2pCdGtLMVhsNUlRcWtCbGw2RzlQQ1lNV1hQNEJSMDMtbHI1STgwSC02R3pVZF9uRS1wbHBwYnE4dERhUVVJaGJxQ0lYM0UwWldQUGpHcW8?oc=5",
+      "source": "DonanımHaber",
+      "date": "2026-11-08T16:30:00Z",
+      "description": "Elektrikli otomobiller için 2.000 km menzil vadeden batarya DonanımHaber",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
       "title": "Yapay zeka çiplerini soğutmak için elmas kullanılacak: Bakırdan 5 kat daha iyi - DonanımHaber",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSUFXRl9yTENFdGVsdTdQNUxlYTE4YWR0b3cwcERwbkhXenplWkJ2Q19pMmpzM0hlNkM5OGpmWVpCTjJPR0o4amNHWS1yakpxLTlxa3hiNnlGS09Id01EcHg2Tl9CV3JBNnJsTzk2TzdsVzB6V1RlYVVkcWpWWlFUS2pwYlpoTXVfdXZ2WG00VTBYalM1?oc=5",
       "source": "DonanımHaber",
@@ -3107,11 +3107,11 @@
       "category": "Teknoloji"
     },
     {
-      "title": "Elon Musk, Samsung kadar bellek üretmek için kolları sıvadı - DonanımHaber",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjFuWjNjMXQwd2ozSU9ncmVISThwelN4cjFpSkMxME1ZLXdxOHpJTmpFdVB2OEhuNVVvdmhZQjVPNFZBVGV5dlBjWUdJb0dlbGpUMDQ2UWprOERkR3BncjhmWVVfUC1WWjV3N0dJUTlBRFgzOThVcG8xTUw4d2hMOE1HVl9SaGMzcm04dk9XMlNjZ2Z3UHdpcnlzMA?oc=5",
-      "source": "DonanımHaber",
-      "date": "2026-11-09T10:09:00Z",
-      "description": "Elon Musk, Samsung kadar bellek üretmek için kolları sıvadı DonanımHaber",
+      "title": "Fiat Fiyat Listesi Kasım 2026: Güncel Türkiye Fiyatları - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hSDB2cmpwakxNcmN3V0ZuUnBXa2hERDd2YW9fV2tzOFZXV1FMeXB6M250VloyTldCZU9rYV9fR2xXMlVyT0NTdkJhWlZ1Z1pHUUlmNA?oc=5",
+      "source": "ShiftDelete.Net",
+      "date": "2026-11-08T13:08:17Z",
+      "description": "Fiat Fiyat Listesi Kasım 2026: Güncel Türkiye Fiyatları ShiftDelete.Net",
       "image": "",
       "category": "Teknoloji"
     },
@@ -3125,15 +3125,6 @@
       "category": "Teknoloji"
     },
     {
-      "title": "Tesla Kasım 2026 Fiyat Listesi - Webtekno",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5udXFIdmhPZDJvR0VDQV9hT1dEbF9tZjBxOFhua2pUNXl4a2thc2JrZ3lQLUl3RVd3WXNSejVtSmJ2NjVMNWpEWUZhNFJNZUhyM19BLVpvN3g3R1pDRGM4c3VKeTljTjRwbUpEdEkxcDJZdFdHN0Y4?oc=5",
-      "source": "Webtekno",
-      "date": "2026-11-06T14:42:11Z",
-      "description": "Tesla Kasım 2026 Fiyat Listesi Webtekno",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
       "title": "Bayraktar: 2040'ta enerjide bağımsız olacağız - ShiftDelete.Net",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMjJyc0Qzd3JvUWNCUDJSN0FQQ0l1NXBSdjNRWnlOUE9WTUZaYktXWU9pbGN3a3pFOTd5dG5uY2ZuODBZOUdZRkZPMmhuMUh4aVdNTGRESXhvZDJFajl6elBZWlF6Wlh6MmgwSHlvT2VfaDRBSXNybG14ZjJtNGZESWhkaXFDbklX?oc=5",
       "source": "ShiftDelete.Net",
@@ -3143,20 +3134,11 @@
       "category": "Teknoloji"
     },
     {
-      "title": "Microsoft, 30 yıllık Windows özelliğini nihayet yeniliyor - DonanımHaber",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMlc0NzdSZU9DR1RPNDJTVFBBYmZrRkRYR045OEVSVnRDT2xPZXBPLW9sVlFYQUYzeWxYNklNRVNpU0V5WkMwd2VGUnlkTEk2czJzdFhTTEYwZXZPdHpOTi1TVHlpb1hNamtsSlEwdXk5UDNFQ0cwZzg3MU9Fb1VuaUNHU2lRcHVMcGpZZnBpZFctblhwT3FINg?oc=5",
-      "source": "DonanımHaber",
-      "date": "2026-11-09T07:13:51Z",
-      "description": "Microsoft, 30 yıllık Windows özelliğini nihayet yeniliyor DonanımHaber",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
-      "title": "Huawei Nova 17 Pro: 200MP kamera ve 6,84 inç OLED ekran - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Rb2c0b0pyZnlacDl5aHpDVzhWWmhwUlFiSkpzNXBBdWRlNW1YZHZQZXVGcG0zckNkYUZtZFp6VzRGRHNBemZkX2NhVlhOZXJMSlFhN3JLcTJpZDVmOGtUcF9xcHQ0RnlTZjVfWg?oc=5",
+      "title": "MG Fiyat Listesi Kasım 2026: 2.385.000 TL'den - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCQ19VRkhyUzZUaHcwZHVxZ2VDZTR6azRobVpGa3VXMjE0TU95RjVyckpoZktzM21tbndFYzNEbUd2SjVDaEFvOU5LckZPZlpQTVE?oc=5",
       "source": "ShiftDelete.Net",
-      "date": "2026-11-05T19:55:00Z",
-      "description": "Huawei Nova 17 Pro: 200MP kamera ve 6,84 inç OLED ekran ShiftDelete.Net",
+      "date": "2026-11-09T19:19:53Z",
+      "description": "MG Fiyat Listesi Kasım 2026: 2.385.000 TL'den ShiftDelete.Net",
       "image": "",
       "category": "Teknoloji"
     },
@@ -3166,15 +3148,6 @@
       "source": "ShiftDelete.Net",
       "date": "2026-11-09T11:20:39Z",
       "description": "Ender Öztürk Yazıları – Sayfa 399 ShiftDelete.Net",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
-      "title": "Apple, iPhone Duo kullanıcılarına anket gönderdi - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSeVpTLWM2TXZTYzRWZGpRblZIWG9uRXlydDRQdEhEOEFZZ3lCbDJVeThJeTBZQlpLLU5qUFNCUFpDN0hFY3UteE83UTc1UEdtcUF4ZnVFbFZFbUhqRjd5bDFvdmJDRGpvZDBWZmowaGdvd3F2Rktaeg?oc=5",
-      "source": "ShiftDelete.Net",
-      "date": "2026-11-06T06:47:25Z",
-      "description": "Apple, iPhone Duo kullanıcılarına anket gönderdi ShiftDelete.Net",
       "image": "",
       "category": "Teknoloji"
     },
@@ -3215,15 +3188,6 @@
       "category": "Teknoloji"
     },
     {
-      "title": "Galaxy Buds On Türkiye'ye ocak veya şubat ayında gelebilir - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT19ET1d5a2lGWU90Mk9PRUctY05sU3djZUhhbWFDU1FCbHNyazFmYzZOWHBTd0xnUndFSW9sNEg0a09yU2ZzcldWNk45eXRmLU4zRDl6NHdpemxMWlRaMGpfM1RJNXVVN1hFSW81M3hhZXZzekZMV3FKT3ljM3lvZWdBTGZ6VG5yRGZOQzRCZWQ?oc=5",
-      "source": "ShiftDelete.Net",
-      "date": "2026-11-07T11:01:04Z",
-      "description": "Galaxy Buds On Türkiye'ye ocak veya şubat ayında gelebilir ShiftDelete.Net",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
       "title": "ABD'deki seçimler teknoloji şirketlerine ağır darbe indirdi: Bir günde 2 trilyon dolar kayıp - DonanımHaber",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNFYwZjdFVlNWOFpEUlhjSjVDeEtMX0F3dkYyTXFuREVkYWNYX0t4dzY3NXNHZlZwbDhwYnFkdC1icy1NblVLaWFGZE9wcHVJWG1seDBZTFVfTWk3TnZkSHJJeDBiZjgzQ3NQWlNhaWJZS2p0cDZLV0VMR0Z3RFh6M2hhWllMaVdQVXpmWnFmMFpsRWZQLWN3SmpONTY?oc=5",
       "source": "DonanımHaber",
@@ -3233,11 +3197,11 @@
       "category": "Teknoloji"
     },
     {
-      "title": "Tim Cook Anıtkabir'i ziyaret etti - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WZXg4UENmMGdpelpvZ2x0cVhaRG91Y1RQTm02SHBHZ2ktWnFReE80QXBGbVNlWm1hVzFNSzVBUkVGMk04Q1RrQzRtbjJCdVNBTnplOGc0UnJxeWVrVkxxaw?oc=5",
+      "title": "Galaxy Buds On Türkiye'ye ocak veya şubat ayında gelebilir - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT19ET1d5a2lGWU90Mk9PRUctY05sU3djZUhhbWFDU1FCbHNyazFmYzZOWHBTd0xnUndFSW9sNEg0a09yU2ZzcldWNk45eXRmLU4zRDl6NHdpemxMWlRaMGpfM1RJNXVVN1hFSW81M3hhZXZzekZMV3FKT3ljM3lvZWdBTGZ6VG5yRGZOQzRCZWQ?oc=5",
       "source": "ShiftDelete.Net",
-      "date": "2026-11-09T09:17:09Z",
-      "description": "Tim Cook Anıtkabir'i ziyaret etti ShiftDelete.Net",
+      "date": "2026-11-07T11:01:04Z",
+      "description": "Galaxy Buds On Türkiye'ye ocak veya şubat ayında gelebilir ShiftDelete.Net",
       "image": "",
       "category": "Teknoloji"
     },
@@ -3251,33 +3215,6 @@
       "category": "Teknoloji"
     },
     {
-      "title": "Tesla Cybertruck İçin Yolun Sonu: Üretim Resmen Sona Eriyor! - Webtekno",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RT3FINl80VnVVc3VyUEYzeXNEbWp2UFZOdGx2M3BEY2w2NU1TcUlKbWs3QlNOTXM2LS1NTzRDcWZ2bFBwcjVOZFMwQl90anJBY3M4RjJ3azVWT3Rlc1JUVEp2eG1sbUtLSTZjY3ZXUXREZnN1eTBNQVN3?oc=5",
-      "source": "Webtekno",
-      "date": "2026-11-06T13:31:23Z",
-      "description": "Tesla Cybertruck İçin Yolun Sonu: Üretim Resmen Sona Eriyor! Webtekno",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
-      "title": "Samsung Galaxy S27 Pro: Çıkış Tarihi, Özellikler ve Fiyat - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96ZzZuWGQ1Nk5wZVJqaUh4WVd5bjJkcWZWb1VTa1VEWkh2ZHlSSFV4Q29xUUt4bDhOZXRkZjI4dUdJYm1sOF9idUN4OGFoWklSYmc4SlJEbmp3dw?oc=5",
-      "source": "ShiftDelete.Net",
-      "date": "2026-11-09T09:07:23Z",
-      "description": "Samsung Galaxy S27 Pro: Çıkış Tarihi, Özellikler ve Fiyat ShiftDelete.Net",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
-      "title": "Oppo Find X10 Ultra, RAM krizi nedeniyle iptal edilebilir - DonanımHaber",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMWt1ZE85Y2ktNzJmMjBsaWU2ejFZUm9QZS1ld1dvTFVhUTZtdG1BR0s1MzdTYkRCMWcwclhDejdwYXZVejlNckxabDByOHk1Z2lRZzRUd2w2V2ZMRTZGM0VGcEJrcHNJMHBhbmZnVVZYUHRVVmRfYm5LREhJWnFRZ19YbmY1bkFnb3VfUkg5UlBfcGlLbXNlRA?oc=5",
-      "source": "DonanımHaber",
-      "date": "2026-11-08T17:00:00Z",
-      "description": "Oppo Find X10 Ultra, RAM krizi nedeniyle iptal edilebilir DonanımHaber",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
       "title": "One UI 9.5 Takvim ve Samsung Health Değişiklikleri - ShiftDelete.Net",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnM3FacFlBUTFQTEoxdWFJWWplaE8yRy01ODNPUVR2elM1STljTDBQWXRhVjFZc0h5TGNrOTN6NHhTZjdmU2tFYnFZYUJLTl9oVjRVWWF4VnJuUnNCZTNvdDFJaXNrdXp1YXVtZ3B6Tk0xMFdEZ0ZuclFPOA?oc=5",
       "source": "ShiftDelete.Net",
@@ -3287,56 +3224,11 @@
       "category": "Teknoloji"
     },
     {
-      "title": "GTA 6 ön yükleme saatleri: PS5 ve Xbox için - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wd3ZMYkNMY0VpM3p4NnNzR0FVU1gxZFFnVlIzaFJBZlNIUE8zVnZwQnRuUTBSR2g2YlJINzd4RlZRUHJWWG9rbGUzQ3cwdl9NMDB1ZnZWMGNtNFBMX3c?oc=5",
-      "source": "ShiftDelete.Net",
-      "date": "2026-11-09T12:30:00Z",
-      "description": "GTA 6 ön yükleme saatleri: PS5 ve Xbox için ShiftDelete.Net",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
-      "title": "Insta360 Efsane Cuma: X6 ve Luna Ultra indirimde - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83OEVFa2trRm5KcHoxdG1Fbl9PaFg0YkxUbWxIa29UZ1liU2NEUjlLRDMwUVcwZzFBdFFnUHRubU9jclZrLW1tMUIxUnJERGhtVDRvU1FoQjdOUEpybGFYa2VXZnpEbW13enh6UVo3bEo2LU93Y0xNT3BhQQ?oc=5",
-      "source": "ShiftDelete.Net",
-      "date": "2026-11-09T07:00:00Z",
-      "description": "Insta360 Efsane Cuma: X6 ve Luna Ultra indirimde ShiftDelete.Net",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
-      "title": "Enough Phone: Küçük Ekranlı, Pili Değişen Telefon - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYkhGS0RfRktEalBPb1hBWS1vVzdSZ29OYlVibUJmM0NaRktoeERCV1FuaFN3RlVuWVc0VFJLSjJCaTNlNXV0OEdlTVFmd25TWXR4Ymd4aVlBbmVXbFNyN0pOcWtDMG9PeF96aFQwTzk5blh4Y2hpNDUyWElfckljYWktdw?oc=5",
-      "source": "ShiftDelete.Net",
-      "date": "2026-11-05T09:39:30Z",
-      "description": "Enough Phone: Küçük Ekranlı, Pili Değişen Telefon ShiftDelete.Net",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
-      "title": "Çin'in elektrikli Rolls-Royce'u tanıtıldı: 1.000 km menzil ve ihtişamlı tasarım - DonanımHaber",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORkEwdFVPcF9wUHRVUDlNdXR6QkFuLVdmV1ljWHJNUVdtWlVMb0VlS3lkekVwNnd5eGNYMXFOaEtOMjVKZmNZRTJEVFhEV2IwQTJMV3dBVzg3YmU0SlNwNm9uVldSQVRYeFpzLUVScEpScjBoNmdGSzVhUDdsb29fSlRETk41TUstdTFOX2hNT3F6YnlIdW1oY3ZR?oc=5",
-      "source": "DonanımHaber",
-      "date": "2026-11-08T10:00:00Z",
-      "description": "Çin'in elektrikli Rolls-Royce'u tanıtıldı: 1.000 km menzil ve ihtişamlı tasarım DonanımHaber",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
-      "title": "Dyson R1 ve R2 Nurovi Robot Süpürge: Özellikler ve Fiyat - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MSTZjbU4wM2ZnVDdsdGloT2x1TTNaRHd3QXdMbXEzNXZEdmp3ejhiLURWbjBQMkVqeW55cWNabWNfaVhGc2JJWnU0TFloUEs4Vl9CdTZKZXY5Z2ZpdEFmUDZ4ekJuUGJDUFM4VWp2ZXNjcmhtRE9TdzMzQQ?oc=5",
-      "source": "ShiftDelete.Net",
-      "date": "2026-11-09T13:35:25Z",
-      "description": "Dyson R1 ve R2 Nurovi Robot Süpürge: Özellikler ve Fiyat ShiftDelete.Net",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
-      "title": "iPhone Duo için 100 binden fazla uygulama hazır - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFaFZEYks1VFFGbU55dUdLakVPN2dmaW91LWtBdzQ2UHJfZ2dlOTl5RHdHZHM4b3pfRlA4eUdrM0RGUTBWZ2REMXMxLWJsdFJtZm1jallheUoySV91YTliQTcxN1FsNE04Z2NfamM5cFdKZw?oc=5",
-      "source": "ShiftDelete.Net",
-      "date": "2026-11-07T11:30:58Z",
-      "description": "iPhone Duo için 100 binden fazla uygulama hazır ShiftDelete.Net",
+      "title": "Tesla Cybertruck İçin Yolun Sonu: Üretim Resmen Sona Eriyor! - Webtekno",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RT3FINl80VnVVc3VyUEYzeXNEbWp2UFZOdGx2M3BEY2w2NU1TcUlKbWs3QlNOTXM2LS1NTzRDcWZ2bFBwcjVOZFMwQl90anJBY3M4RjJ3azVWT3Rlc1JUVEp2eG1sbUtLSTZjY3ZXUXREZnN1eTBNQVN3?oc=5",
+      "source": "Webtekno",
+      "date": "2026-11-06T13:31:23Z",
+      "description": "Tesla Cybertruck İçin Yolun Sonu: Üretim Resmen Sona Eriyor! Webtekno",
       "image": "",
       "category": "Teknoloji"
     },
@@ -3350,11 +3242,56 @@
       "category": "Teknoloji"
     },
     {
-      "title": "Xiaomi 18 3C sertifikası aldı, 100 W geliyor - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uSnZmaWpGSGY2R1JVZHZaN1o2RC02ZVZyLU1hekplTGNiUXhrZzNhM2QwV1dqTE1VMDJiQ3B5VzdnLU9keXE5TXNzZFVuRzAwVWdYSDN5ZmRpTDlYX0hvUkdNb1ZBUXVSZkE?oc=5",
+      "title": "Huawei Nova 17 Pro: 200MP kamera ve 6,84 inç OLED ekran - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Rb2c0b0pyZnlacDl5aHpDVzhWWmhwUlFiSkpzNXBBdWRlNW1YZHZQZXVGcG0zckNkYUZtZFp6VzRGRHNBemZkX2NhVlhOZXJMSlFhN3JLcTJpZDVmOGtUcF9xcHQ0RnlTZjVfWg?oc=5",
       "source": "ShiftDelete.Net",
-      "date": "2026-11-07T10:45:58Z",
-      "description": "Xiaomi 18 3C sertifikası aldı, 100 W geliyor ShiftDelete.Net",
+      "date": "2026-11-05T19:55:00Z",
+      "description": "Huawei Nova 17 Pro: 200MP kamera ve 6,84 inç OLED ekran ShiftDelete.Net",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
+      "title": "Oppo Find X10 Ultra, RAM krizi nedeniyle iptal edilebilir - DonanımHaber",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMWt1ZE85Y2ktNzJmMjBsaWU2ejFZUm9QZS1ld1dvTFVhUTZtdG1BR0s1MzdTYkRCMWcwclhDejdwYXZVejlNckxabDByOHk1Z2lRZzRUd2w2V2ZMRTZGM0VGcEJrcHNJMHBhbmZnVVZYUHRVVmRfYm5LREhJWnFRZ19YbmY1bkFnb3VfUkg5UlBfcGlLbXNlRA?oc=5",
+      "source": "DonanımHaber",
+      "date": "2026-11-08T17:00:00Z",
+      "description": "Oppo Find X10 Ultra, RAM krizi nedeniyle iptal edilebilir DonanımHaber",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
+      "title": "Tim Cook Anıtkabir Ziyareti: Ankara Turu - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WZXg4UENmMGdpelpvZ2x0cVhaRG91Y1RQTm02SHBHZ2ktWnFReE80QXBGbVNlWm1hVzFNSzVBUkVGMk04Q1RrQzRtbjJCdVNBTnplOGc0UnJxeWVrVkxxaw?oc=5",
+      "source": "ShiftDelete.Net",
+      "date": "2026-11-09T09:17:09Z",
+      "description": "Tim Cook Anıtkabir Ziyareti: Ankara Turu ShiftDelete.Net",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
+      "title": "Apple, iPhone Duo kullanıcılarına anket gönderdi - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSeVpTLWM2TXZTYzRWZGpRblZIWG9uRXlydDRQdEhEOEFZZ3lCbDJVeThJeTBZQlpLLU5qUFNCUFpDN0hFY3UteE83UTc1UEdtcUF4ZnVFbFZFbUhqRjd5bDFvdmJDRGpvZDBWZmowaGdvd3F2Rktaeg?oc=5",
+      "source": "ShiftDelete.Net",
+      "date": "2026-11-06T06:47:25Z",
+      "description": "Apple, iPhone Duo kullanıcılarına anket gönderdi ShiftDelete.Net",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
+      "title": "Enough Phone: Küçük Ekranlı, Pili Değişen Telefon - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYkhGS0RfRktEalBPb1hBWS1vVzdSZ29OYlVibUJmM0NaRktoeERCV1FuaFN3RlVuWVc0VFJLSjJCaTNlNXV0OEdlTVFmd25TWXR4Ymd4aVlBbmVXbFNyN0pOcWtDMG9PeF96aFQwTzk5blh4Y2hpNDUyWElfckljYWktdw?oc=5",
+      "source": "ShiftDelete.Net",
+      "date": "2026-11-05T09:39:30Z",
+      "description": "Enough Phone: Küçük Ekranlı, Pili Değişen Telefon ShiftDelete.Net",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
+      "title": "Microsoft, 30 yıllık Windows özelliğini nihayet yeniliyor - DonanımHaber",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMlc0NzdSZU9DR1RPNDJTVFBBYmZrRkRYR045OEVSVnRDT2xPZXBPLW9sVlFYQUYzeWxYNklNRVNpU0V5WkMwd2VGUnlkTEk2czJzdFhTTEYwZXZPdHpOTi1TVHlpb1hNamtsSlEwdXk5UDNFQ0cwZzg3MU9Fb1VuaUNHU2lRcHVMcGpZZnBpZFctblhwT3FINg?oc=5",
+      "source": "DonanımHaber",
+      "date": "2026-11-09T07:13:51Z",
+      "description": "Microsoft, 30 yıllık Windows özelliğini nihayet yeniliyor DonanımHaber",
       "image": "",
       "category": "Teknoloji"
     },
@@ -3368,11 +3305,38 @@
       "category": "Teknoloji"
     },
     {
+      "title": "Xiaomi 18 3C sertifikası aldı, 100 W geliyor - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uSnZmaWpGSGY2R1JVZHZaN1o2RC02ZVZyLU1hekplTGNiUXhrZzNhM2QwV1dqTE1VMDJiQ3B5VzdnLU9keXE5TXNzZFVuRzAwVWdYSDN5ZmRpTDlYX0hvUkdNb1ZBUXVSZkE?oc=5",
+      "source": "ShiftDelete.Net",
+      "date": "2026-11-07T10:45:58Z",
+      "description": "Xiaomi 18 3C sertifikası aldı, 100 W geliyor ShiftDelete.Net",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
       "title": "Mercedes Çok Erken Davrandığı Bir Konuda Geri Adım Attı - Webtekno",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONTVxNFByX2JVWU5fUThnRXRUc01SVDQzc2JwVWtaYmRVWktsUndGa1ZlclFDOHZlSXJZbHFFVEFHdEFXMGRtNkw0RHVwT093R01MNFU4MUdNVl9YWElwNUhYQ1NaVmFLQjQyUzk3UlZZbWt0N2VLblVHcUJwU1pUMC1DYk42ZUdsQWF0S1RBUHV3Ukt5bXo4SQ?oc=5",
       "source": "Webtekno",
       "date": "2026-11-06T14:40:57Z",
       "description": "Mercedes Çok Erken Davrandığı Bir Konuda Geri Adım Attı Webtekno",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
+      "title": "GTA 6 ön yükleme saatleri: PS5 ve Xbox için - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wd3ZMYkNMY0VpM3p4NnNzR0FVU1gxZFFnVlIzaFJBZlNIUE8zVnZwQnRuUTBSR2g2YlJINzd4RlZRUHJWWG9rbGUzQ3cwdl9NMDB1ZnZWMGNtNFBMX3c?oc=5",
+      "source": "ShiftDelete.Net",
+      "date": "2026-11-09T12:30:00Z",
+      "description": "GTA 6 ön yükleme saatleri: PS5 ve Xbox için ShiftDelete.Net",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
+      "title": "Elon Musk, Samsung kadar bellek üretmek için kolları sıvadı - DonanımHaber",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjFuWjNjMXQwd2ozSU9ncmVISThwelN4cjFpSkMxME1ZLXdxOHpJTmpFdVB2OEhuNVVvdmhZQjVPNFZBVGV5dlBjWUdJb0dlbGpUMDQ2UWprOERkR3BncjhmWVVfUC1WWjV3N0dJUTlBRFgzOThVcG8xTUw4d2hMOE1HVl9SaGMzcm04dk9XMlNjZ2Z3UHdpcnlzMA?oc=5",
+      "source": "DonanımHaber",
+      "date": "2026-11-09T10:09:00Z",
+      "description": "Elon Musk, Samsung kadar bellek üretmek için kolları sıvadı DonanımHaber",
       "image": "",
       "category": "Teknoloji"
     },
@@ -3413,11 +3377,47 @@
       "category": "Teknoloji"
     },
     {
+      "title": "Tesla Kasım 2026 Fiyat Listesi - Webtekno",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5udXFIdmhPZDJvR0VDQV9hT1dEbF9tZjBxOFhua2pUNXl4a2thc2JrZ3lQLUl3RVd3WXNSejVtSmJ2NjVMNWpEWUZhNFJNZUhyM19BLVpvN3g3R1pDRGM4c3VKeTljTjRwbUpEdEkxcDJZdFdHN0Y4?oc=5",
+      "source": "Webtekno",
+      "date": "2026-11-06T14:42:11Z",
+      "description": "Tesla Kasım 2026 Fiyat Listesi Webtekno",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
       "title": "Vivo X500 Ultra Mart ya da Nisanda Geliyor: Sızıntılar - ShiftDelete.Net",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RQ3Z4dXZEMUlnS1VacldYcE1iVlVuS0kxZmgzSlpIcFlUbUNhcVc3M19KQlh1QWliU2NzWkZIZGxDRm5VdUw1REhDTXpUdXhpT0Zud0Y5bWRjUmRlVnoxWGJoZ1EySTI2bjFPZ1BZeFVmU3htU3c?oc=5",
       "source": "ShiftDelete.Net",
       "date": "2026-11-07T06:00:00Z",
       "description": "Vivo X500 Ultra Mart ya da Nisanda Geliyor: Sızıntılar ShiftDelete.Net",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
+      "title": "Insta360 Efsane Cuma: X6 ve Luna Ultra indirimde - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83OEVFa2trRm5KcHoxdG1Fbl9PaFg0YkxUbWxIa29UZ1liU2NEUjlLRDMwUVcwZzFBdFFnUHRubU9jclZrLW1tMUIxUnJERGhtVDRvU1FoQjdOUEpybGFYa2VXZnpEbW13enh6UVo3bEo2LU93Y0xNT3BhQQ?oc=5",
+      "source": "ShiftDelete.Net",
+      "date": "2026-11-09T07:00:00Z",
+      "description": "Insta360 Efsane Cuma: X6 ve Luna Ultra indirimde ShiftDelete.Net",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
+      "title": "GTA 6'yı İndirdikten Sonra Hemen Oynayabilecek miyiz? - Webtekno",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdC1rX0s2SHM1VktLWEhsUHo0eE9nbVJXaXh4VTJSaGR6MnpBeGN6MDJSUndDVjQzZ1hiNnpJRXQ5R0xLZl85bm8xZFB6MkpwQXNueUgzYm9BVUtkTDQ3SHRZcVVIdWUwU1pWUzB1Ny0zNDFxcmxDenE0SWtCbzctcVV2WTRvMXJZampEcUExUmo?oc=5",
+      "source": "Webtekno",
+      "date": "2026-11-09T14:35:57Z",
+      "description": "GTA 6'yı İndirdikten Sonra Hemen Oynayabilecek miyiz? Webtekno",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
+      "title": "iPhone Duo için 100 binden fazla uygulama hazır - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFaFZEYks1VFFGbU55dUdLakVPN2dmaW91LWtBdzQ2UHJfZ2dlOTl5RHdHZHM4b3pfRlA4eUdrM0RGUTBWZ2REMXMxLWJsdFJtZm1jallheUoySV91YTliQTcxN1FsNE04Z2NfamM5cFdKZw?oc=5",
+      "source": "ShiftDelete.Net",
+      "date": "2026-11-07T11:30:58Z",
+      "description": "iPhone Duo için 100 binden fazla uygulama hazır ShiftDelete.Net",
       "image": "",
       "category": "Teknoloji"
     },
@@ -3436,15 +3436,6 @@
       "source": "Webtekno",
       "date": "2026-11-09T06:16:01Z",
       "description": "Kasım 2026 Suzuki Fiyat Listesi Webtekno",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
-      "title": "GTA 6'yı İndirdikten Sonra Hemen Oynayabilecek miyiz? - Webtekno",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdC1rX0s2SHM1VktLWEhsUHo0eE9nbVJXaXh4VTJSaGR6MnpBeGN6MDJSUndDVjQzZ1hiNnpJRXQ5R0xLZl85bm8xZFB6MkpwQXNueUgzYm9BVUtkTDQ3SHRZcVVIdWUwU1pWUzB1Ny0zNDFxcmxDenE0SWtCbzctcVV2WTRvMXJZampEcUExUmo?oc=5",
-      "source": "Webtekno",
-      "date": "2026-11-09T14:35:57Z",
-      "description": "GTA 6'yı İndirdikten Sonra Hemen Oynayabilecek miyiz? Webtekno",
       "image": "",
       "category": "Teknoloji"
     },
@@ -3503,6 +3494,15 @@
       "category": "Teknoloji"
     },
     {
+      "title": "Çin'in elektrikli Rolls-Royce'u tanıtıldı: 1.000 km menzil ve ihtişamlı tasarım - DonanımHaber",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORkEwdFVPcF9wUHRVUDlNdXR6QkFuLVdmV1ljWHJNUVdtWlVMb0VlS3lkekVwNnd5eGNYMXFOaEtOMjVKZmNZRTJEVFhEV2IwQTJMV3dBVzg3YmU0SlNwNm9uVldSQVRYeFpzLUVScEpScjBoNmdGSzVhUDdsb29fSlRETk41TUstdTFOX2hNT3F6YnlIdW1oY3ZR?oc=5",
+      "source": "DonanımHaber",
+      "date": "2026-11-08T10:00:00Z",
+      "description": "Çin'in elektrikli Rolls-Royce'u tanıtıldı: 1.000 km menzil ve ihtişamlı tasarım DonanımHaber",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
       "title": "Yenilenen Volkswagen Virtus'un ilk fotoğrafları yayınlandı - DonanımHaber",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVpJcmF2MEpqU25zc1hUWHRyNE9Fcm4xSnBVem53TFZqZjdvMFVkVEo5NGgwZ0o0eWZIOU5zZ19PSklCNEZ6YlM0MmltUjhrbmZCWFFWVW1QMGIzVUlVcmJwUE85Q1FXdGEtaGtDV2dyb1FVVU5wRDdKQkdfRnlSeFg3VGRoelppb3BoSnRKRFY3SkFOY0RTeTRmOA?oc=5",
       "source": "DonanımHaber",
@@ -3530,11 +3530,11 @@
       "category": "Teknoloji"
     },
     {
-      "title": "Android Auto, Android 9 ve 10 desteğini bıraktı - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wemJ5aVZJTEF2Ti1QTW1HSzZQLVFjb3NLcVRVdnE2dC04MGJKLWJtbUw2eUw0RTV0TWVHekt1LUhyLWFZWXFDUnFTd243M0hTMVVtVXJKTmxrdHBXTXkzc0hyaVZWOGtwcTlpU2VObw?oc=5",
+      "title": "ChatGPT hesap engeli: Uyarısız kapanan hesaplar - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96SHhoeE05V2Z2Ui1BQ3BxajhsMElJRmFRclpGanJUaHdqeWhFMDVJVXdScVNobjBQVXVtQWNxc0NCUURGZFNVR0dJQ001U3dGdV95MWRFMUJ1SjdjbDJwOU42ZE5hMjNZcGtiSF81ZzJCWXR2bkF2elFB?oc=5",
       "source": "ShiftDelete.Net",
-      "date": "2026-11-09T09:00:00Z",
-      "description": "Android Auto, Android 9 ve 10 desteğini bıraktı ShiftDelete.Net",
+      "date": "2026-11-08T13:32:00Z",
+      "description": "ChatGPT hesap engeli: Uyarısız kapanan hesaplar ShiftDelete.Net",
       "image": "",
       "category": "Teknoloji"
     },
@@ -3544,15 +3544,6 @@
       "source": "ShiftDelete.Net",
       "date": "2026-11-07T08:00:00Z",
       "description": "Core Ultra 4000 90 Derecede 5,1 GHz'e Düşecek ShiftDelete.Net",
-      "image": "",
-      "category": "Teknoloji"
-    },
-    {
-      "title": "Akıllı Ev Teknolojileri Haberleri ve Cihazları – Sayfa 26 - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QSmFwSk5mZzdoOWRqMlZkSzRydVROdHYySGUyc1I5TlFubWpmaURXbDFSSjJmS2xTVnpVNXVYMHM2RTBLdUVHdmVYeHFZNy13eGI0dnd2UzVkQmpvd3Zr?oc=5",
-      "source": "ShiftDelete.Net",
-      "date": "2026-11-07T17:25:56Z",
-      "description": "Akıllı Ev Teknolojileri Haberleri ve Cihazları – Sayfa 26 ShiftDelete.Net",
       "image": "",
       "category": "Teknoloji"
     },
@@ -3584,13 +3575,31 @@
       "category": "Teknoloji"
     },
     {
-      "title": "EBRD/Falcetti: Türkiye'nin elektrifikasyon yatırım ihtiyacı çok yüksek - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXIxNnFzVlV0bU5JY2cxUExwZWZXTzRyWlRpNzBlZ3lvekZ5bnNYYVBnT29FTlk5dUoxeXNHTlEzNmd0YXowSmQxTDdvWlk1UjBLUEwtWjgzbjBlNFRWOFJ5WG1xLVc2UVVZU2FyTGUyTndHMmxnZTk5Ymxxd1BhRzZqQXZVS1B3cHh4aklndS1iSkdsaDNaUmFuUFdxZDI3bkpZQ1BvSQ?oc=5",
-      "source": "Bloomberght",
-      "date": "2026-11-09T07:51:05Z",
-      "description": "EBRD/Falcetti: Türkiye'nin elektrifikasyon yatırım ihtiyacı çok yüksek Bloomberght",
+      "title": "Yeni Nissan Primastar Türkiye'de satışa sunuldu: İşte fiyatı ve özellikleri - DonanımHaber",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeGJ0b3diS0Rfakw4RHhRa1ZqcFZZWVJrelk5WGNtNUZROVViLXJ2TFpOTmJkdVBnbGdsWm1PQ3dxY2VBekJoOXJ5dkc2a2ZZblBSNFdSajJjRFFVaEpzZW5VWnJZUGR6SFdQRmZhUXg3UG5pNDdFTTVEY3B1ajZGQmI3WnJrX0lSWnRrQw?oc=5",
+      "source": "DonanımHaber",
+      "date": "2026-11-06T15:02:00Z",
+      "description": "Yeni Nissan Primastar Türkiye'de satışa sunuldu: İşte fiyatı ve özellikleri DonanımHaber",
       "image": "",
-      "category": "Ekonomi"
+      "category": "Teknoloji"
+    },
+    {
+      "title": "Süper Lig yayın ihalesi: 5 paket belli oldu - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxbWw4dWlaV0RqSkJrU0ZmcE1ZVlJSYjZyM3dOVFI1YUlzUldOZ3FzOVc4clBIUWljbXJ6NzNFXzBmbzZxeFRQN1VnWTZRYXdocVpPMm9tQzZYaXQtTDE3cE9NRmtFQXRKZ1drTko0VVAzMzQ?oc=5",
+      "source": "ShiftDelete.Net",
+      "date": "2026-11-06T14:30:41Z",
+      "description": "Süper Lig yayın ihalesi: 5 paket belli oldu ShiftDelete.Net",
+      "image": "",
+      "category": "Teknoloji"
+    },
+    {
+      "title": "Araçlarla yollar haberleşecek: Ankara’ya 247 km’lik akıllı koridor - DonanımHaber",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcU8tcEVjYmppUWp5Q3c0QXVEQmYyaDhrTXlFdkh1M1hMM0lzdjdvNGN4RE9CdVEwZ1dIamVjRlRBaDFGUHc1QkxxR0FEdWZURk9BcGxjRkZtaGNzYkw0Tlg2UlN6dEJzUy0xVjNSWERRUnktVkJsemZUVzhsdzJSbW9WZV9uTElCVE5LWE11UzM3YnF1YXNaanJsLUFMTjA?oc=5",
+      "source": "DonanımHaber",
+      "date": "2026-11-09T07:59:09Z",
+      "description": "Araçlarla yollar haberleşecek: Ankara’ya 247 km’lik akıllı koridor DonanımHaber",
+      "image": "",
+      "category": "Teknoloji"
     },
     {
       "title": "Kurum: Türkiye, tarih boyunca bir köprü olmuştur - Bloomberght",
@@ -3598,6 +3607,15 @@
       "source": "Bloomberght",
       "date": "2026-11-09T09:16:51Z",
       "description": "Kurum: Türkiye, tarih boyunca bir köprü olmuştur Bloomberght",
+      "image": "",
+      "category": "Ekonomi"
+    },
+    {
+      "title": "EBRD/Falcetti: Türkiye'nin elektrifikasyon yatırım ihtiyacı çok yüksek - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXIxNnFzVlV0bU5JY2cxUExwZWZXTzRyWlRpNzBlZ3lvekZ5bnNYYVBnT29FTlk5dUoxeXNHTlEzNmd0YXowSmQxTDdvWlk1UjBLUEwtWjgzbjBlNFRWOFJ5WG1xLVc2UVVZU2FyTGUyTndHMmxnZTk5Ymxxd1BhRzZqQXZVS1B3cHh4aklndS1iSkdsaDNaUmFuUFdxZDI3bkpZQ1BvSQ?oc=5",
+      "source": "Bloomberght",
+      "date": "2026-11-09T07:51:05Z",
+      "description": "EBRD/Falcetti: Türkiye'nin elektrifikasyon yatırım ihtiyacı çok yüksek Bloomberght",
       "image": "",
       "category": "Ekonomi"
     },
@@ -3616,6 +3634,15 @@
       "source": "Bloomberght",
       "date": "2026-11-04T16:00:56Z",
       "description": "AB'den Türkiye ekonomisi ve dış politikasına ilişkin değerlendirme Bloomberght",
+      "image": "",
+      "category": "Ekonomi"
+    },
+    {
+      "title": "Apple, Türkiye'ye uzun vadeli yatırım yapacağını duyurdu - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkFQY1JkaTFGVjJNb2J1akZqVUtfYVZDUm9nNE9TcHp2Rll4cm53ZlNZZGtPSTl0SjhGcHBwUGpoRlQzX0hsWDBRb2FNM2FVdHk3OWEwZHpDVHhoU2ttMzBPVl9LM2J3T1Y4aF8yc29PZWVhU2p6SUs2dEZZUDJjenRHUURpb3FDYl9RdmdpZWFlSHRCX1E?oc=5",
+      "source": "Bloomberght",
+      "date": "2026-11-09T19:34:48Z",
+      "description": "Apple, Türkiye'ye uzun vadeli yatırım yapacağını duyurdu Bloomberght",
       "image": "",
       "category": "Ekonomi"
     },
@@ -3656,6 +3683,15 @@
       "category": "Ekonomi"
     },
     {
+      "title": "İhracat iklimi son üç ayın en düşük seviyesinde - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeDVoUTZaTVZYdHhuc2xGQjYzLUh1cTQ2QTV0SVlTd2EzR1hzamczRVZ6a3dNbktvVXpQOXRodEdSeXd2ZlBRWHc5OEpwWUw4WEJyQWV0SnFNTTNiZkRmRERhOF9URFE4R0hnWERJWFBWRjFoNm95Q0dsNFNIWXNPdXVkVFp6aVByblNj?oc=5",
+      "source": "Bloomberght",
+      "date": "2026-11-09T07:19:34Z",
+      "description": "İhracat iklimi son üç ayın en düşük seviyesinde Bloomberght",
+      "image": "",
+      "category": "Ekonomi"
+    },
+    {
       "title": "İndirim ayında vitrinler parlak, müşterinin kafası karışık - Bloomberght",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNUJ3MkxibXlyM29tdTdMTGRodHo5VGU5X1NKWjdHdUdWVGpicHUxbkhEZ3kycU5sUWF0XzdubzJaMWtCclYwb2M4SEwwWjhqWW9OT1U0ZzZDdHdsdmlaTkFqanJ5Q1hfaFdTTDFjVlhvb1o2dVhPQ25KTUMwR21nZTl3S2RPSG5oVk1ocFItb0JXY1VGUzd4SA?oc=5",
       "source": "Bloomberght",
@@ -3670,15 +3706,6 @@
       "source": "Bloomberght",
       "date": "2026-11-06T13:33:53Z",
       "description": "ABD'de tarım dışı istihdamda beklentiyi aşan artış Bloomberght",
-      "image": "",
-      "category": "Ekonomi"
-    },
-    {
-      "title": "İhracat iklimi son üç ayın en düşük seviyesinde - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeDVoUTZaTVZYdHhuc2xGQjYzLUh1cTQ2QTV0SVlTd2EzR1hzamczRVZ6a3dNbktvVXpQOXRodEdSeXd2ZlBRWHc5OEpwWUw4WEJyQWV0SnFNTTNiZkRmRERhOF9URFE4R0hnWERJWFBWRjFoNm95Q0dsNFNIWXNPdXVkVFp6aVByblNj?oc=5",
-      "source": "Bloomberght",
-      "date": "2026-11-09T07:19:34Z",
-      "description": "İhracat iklimi son üç ayın en düşük seviyesinde Bloomberght",
       "image": "",
       "category": "Ekonomi"
     },
@@ -3701,20 +3728,20 @@
       "category": "Ekonomi"
     },
     {
-      "title": "Küresel kamuoyunun gözü COP31'de olacak - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTFWbEI2YVp1eDZEREpZcDkxYm5adVlVUEFmc1liYjUxVWM2SXpuTlZQUjhaV1plaFhoeXJ2eFRTS1Z4STY1Y2hBT0kxc3BBT0lpMmM5cERJdVRCaDQ2MVJJUGNNV3RWZU5teUF1bWQtX0FYbW5ZYTc5QTRiaUItVg?oc=5",
-      "source": "Bloomberght",
-      "date": "2026-11-09T04:50:37Z",
-      "description": "Küresel kamuoyunun gözü COP31'de olacak Bloomberght",
-      "image": "",
-      "category": "Ekonomi"
-    },
-    {
       "title": "Borsada kasım bereketi - Bloomberght",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aNFdfUFZTYXRQS0RSX05LdkF0ay1NYm1MYzBId2tDTDN2bGNkcDZJWHdjclJaMFR3dG96WnFGaElvMFhyT19VcDhzdVBIaW9ld1VBYlAwbDZ6dmRkaDd0TDZTRFlPckNVUWc?oc=5",
       "source": "Bloomberght",
       "date": "2026-11-07T07:14:25Z",
       "description": "Borsada kasım bereketi Bloomberght",
+      "image": "",
+      "category": "Ekonomi"
+    },
+    {
+      "title": "Küresel kamuoyunun gözü COP31'de olacak - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTFWbEI2YVp1eDZEREpZcDkxYm5adVlVUEFmc1liYjUxVWM2SXpuTlZQUjhaV1plaFhoeXJ2eFRTS1Z4STY1Y2hBT0kxc3BBT0lpMmM5cERJdVRCaDQ2MVJJUGNNV3RWZU5teUF1bWQtX0FYbW5ZYTc5QTRiaUItVg?oc=5",
+      "source": "Bloomberght",
+      "date": "2026-11-09T04:50:37Z",
+      "description": "Küresel kamuoyunun gözü COP31'de olacak Bloomberght",
       "image": "",
       "category": "Ekonomi"
     },
@@ -3782,15 +3809,6 @@
       "category": "Ekonomi"
     },
     {
-      "title": "Elektrik dağıtıma 2040'a kadar 80 milyar dolarlık yatırım - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUXN4Nkg5Q2tydzRiOE14dU1hVk1QRU5QV2dkaUlBQlJpOV9kLXp1ZE02a1lDMlVBMnJjbERWdFBudzdNRHVreUpmZzhoODI1U05oQ05qOWNSazlRNjdHeDI4dVh5cGQ0aDBHZGJlZTNZOHFwWUNHeDNwVkpubWNON3JfVGp0RDVQMl9lcmNJYzJ0azlEMnUtNQ?oc=5",
-      "source": "Bloomberght",
-      "date": "2026-11-09T13:34:12Z",
-      "description": "Elektrik dağıtıma 2040'a kadar 80 milyar dolarlık yatırım Bloomberght",
-      "image": "",
-      "category": "Ekonomi"
-    },
-    {
       "title": "Resmi Gazete'de bugün (07.11.2026) - Bloomberght",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUU3hGMTNmVWRpX2ZSNWFjMVVFVVMxRmpkeUdCR0EyTG95d0h5YTJmeGM4ZXdKM283STh5MFc3eFJfOEc4RjRDeHh2V25lYjRJT3lUUkNSVnVkNVdhbVlHSzBDSDhYMjdhZ2ZscjMyblNHRU1J?oc=5",
       "source": "Bloomberght",
@@ -3805,6 +3823,15 @@
       "source": "Bloomberght",
       "date": "2026-11-09T13:11:46Z",
       "description": "\"Şirketler temiz teknolojilere yatırım yapmalı\" Bloomberght",
+      "image": "",
+      "category": "Ekonomi"
+    },
+    {
+      "title": "Elektrik dağıtıma 2040'a kadar 80 milyar dolarlık yatırım - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUXN4Nkg5Q2tydzRiOE14dU1hVk1QRU5QV2dkaUlBQlJpOV9kLXp1ZE02a1lDMlVBMnJjbERWdFBudzdNRHVreUpmZzhoODI1U05oQ05qOWNSazlRNjdHeDI4dVh5cGQ0aDBHZGJlZTNZOHFwWUNHeDNwVkpubWNON3JfVGp0RDVQMl9lcmNJYzJ0azlEMnUtNQ?oc=5",
+      "source": "Bloomberght",
+      "date": "2026-11-09T13:34:12Z",
+      "description": "Elektrik dağıtıma 2040'a kadar 80 milyar dolarlık yatırım Bloomberght",
       "image": "",
       "category": "Ekonomi"
     },
@@ -3926,15 +3953,6 @@
       "category": "Ekonomi"
     },
     {
-      "title": "Bakan Şimşek: Bölgesel aktörler arasında rekabet azalacak, iş birliği artacak - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM0tncTEzZXZEVDd2V3RSdEpWMEc1OWxsTElrVWxBLTlrc2hzZXJTNGJ4b3lrVmFyT2F3UnRwQ3JJaHgwUEJxMHd2T0RPcHVrazh2czQ4ZGVtX21mUnNaQ2FEcmJhNkpqaWVSdlVtMFpsc1NRZmpRWTF4NXRuX2JsYXZIT1k0RV9nV042bFdLWlBaUy1MdXBsWWxyMkIxRm9QLUw3dnlEM1M0S25BU3V3LWl3OG5uRVlSXzZuNW5jYmxwNkRQ?oc=5",
-      "source": "TRT Haber",
-      "date": "2026-11-07T15:45:00Z",
-      "description": "Bakan Şimşek: Bölgesel aktörler arasında rekabet azalacak, iş birliği artacak TRT Haber",
-      "image": "",
-      "category": "Ekonomi"
-    },
-    {
       "title": "ABD'de enflasyon beklentileri sabit, işsizlik endişesi artıyor - Bloomberght",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc2xEb05ERmh1Vmt4UVVMZ3pPVmppT0NUbC1SWWZtUDgtd3dRQ0w3LXBhMERjYktzSTBPOUQ5T2dQMFRKN3NmSTNURkJpdVRmQ2dJaXFtemE0bWtiMndWRGFRNTNmYS1WN0w5ZXpBZ3JuVURhQUNoM1VVVzQ5aldqYkM5NC1ScjBrQXVDWkVKWjdaNFFpNEo3MFdTV2dVZw?oc=5",
       "source": "Bloomberght",
@@ -3944,11 +3962,29 @@
       "category": "Ekonomi"
     },
     {
+      "title": "Bakan Şimşek: Bölgesel aktörler arasında rekabet azalacak, iş birliği artacak - TRT Haber",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM0tncTEzZXZEVDd2V3RSdEpWMEc1OWxsTElrVWxBLTlrc2hzZXJTNGJ4b3lrVmFyT2F3UnRwQ3JJaHgwUEJxMHd2T0RPcHVrazh2czQ4ZGVtX21mUnNaQ2FEcmJhNkpqaWVSdlVtMFpsc1NRZmpRWTF4NXRuX2JsYXZIT1k0RV9nV042bFdLWlBaUy1MdXBsWWxyMkIxRm9QLUw3dnlEM1M0S25BU3V3LWl3OG5uRVlSXzZuNW5jYmxwNkRQ?oc=5",
+      "source": "TRT Haber",
+      "date": "2026-11-07T15:45:00Z",
+      "description": "Bakan Şimşek: Bölgesel aktörler arasında rekabet azalacak, iş birliği artacak TRT Haber",
+      "image": "",
+      "category": "Ekonomi"
+    },
+    {
       "title": "Trump: İran ile görüşmelerimiz olumlu ilerliyor - Bloomberght",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVjE0UXFrd18yMEQ5S3NhbkVNekQxOUxWeVRfaGJrRjhTRmp6dlF0Z0ZpM01NaER5bklqX3RDd3RKTDgxUVBhSkZuUUloYW5iVUN5NXQwZDVscWh0YVFaX0VfYjdwTTBONEtnV284cFlRd3lHUXpkejhGU29URVJGTTVvRHdzQ0RCa2c?oc=5",
       "source": "Bloomberght",
       "date": "2026-11-06T21:36:57Z",
       "description": "Trump: İran ile görüşmelerimiz olumlu ilerliyor Bloomberght",
+      "image": "",
+      "category": "Ekonomi"
+    },
+    {
+      "title": "Halkbank'ın net kârı beklentiyi aştı - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VbWpmQnpLZkowQ3lrUFVPM2lQOVdwSHlkTzVsT2pXRTFtdFZEZVRFTUx4ZG1YdWFiN2R0eUV0MjhrbmJFSldIbU0ycUFzU1J6SWhNcjZtLVJzWmVBa05xTWd0enBGMFNFMTNUZ0hrZEpYLWhLU3VDdmRmOA?oc=5",
+      "source": "Bloomberght",
+      "date": "2026-11-06T19:44:36Z",
+      "description": "Halkbank'ın net kârı beklentiyi aştı Bloomberght",
       "image": "",
       "category": "Ekonomi"
     },
@@ -3971,6 +4007,15 @@
       "category": "Ekonomi"
     },
     {
+      "title": "Cumhurbaşkanı Erdoğan Tim Cook ile görüştü - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN25mTlhENjVfdTUtVFFjbUJwRWtBQ1pBamZIbnpjS2hIN3UtSURaeVZDQ0VCUXpmaDM5UG10R244enZGOENMUVpOejY3ejUtbElxQ1RnTTlYckVYeDhTTUJEUkEzUkF5RS1UZ0JIUXFlV1ZCZnU2V3FzSWN3aGxtWWh5a1g?oc=5",
+      "source": "Bloomberght",
+      "date": "2026-11-09T13:08:43Z",
+      "description": "Cumhurbaşkanı Erdoğan Tim Cook ile görüştü Bloomberght",
+      "image": "",
+      "category": "Ekonomi"
+    },
+    {
       "title": "Siemens'in sağlık biriminde yeni yapılanma - Bloomberght",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0p3aGJSVHVDRXZMaGg3VkpRSjBjc25UUFNybGZYdHlUMVN5WXBBOEhXRVlBQVdwNUNSaHI1cFlaMmpBcHBjbklGd0tqZ2dZTHZ6SHUySnUyOHM5Y2dybi1ZTU5idVlQYWdfbmltT2k3Y0xqdU1MT2FSWUpoQ0luTlhyczI?oc=5",
       "source": "Bloomberght",
@@ -3985,24 +4030,6 @@
       "source": "Bloomberght",
       "date": "2026-11-07T10:06:13Z",
       "description": "Fon soruşturmasında yeni tutukluluklar Bloomberght",
-      "image": "",
-      "category": "Ekonomi"
-    },
-    {
-      "title": "Halkbank'ın net kârı beklentiyi aştı - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VbWpmQnpLZkowQ3lrUFVPM2lQOVdwSHlkTzVsT2pXRTFtdFZEZVRFTUx4ZG1YdWFiN2R0eUV0MjhrbmJFSldIbU0ycUFzU1J6SWhNcjZtLVJzWmVBa05xTWd0enBGMFNFMTNUZ0hrZEpYLWhLU3VDdmRmOA?oc=5",
-      "source": "Bloomberght",
-      "date": "2026-11-06T19:44:36Z",
-      "description": "Halkbank'ın net kârı beklentiyi aştı Bloomberght",
-      "image": "",
-      "category": "Ekonomi"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan Tim Cook ile görüştü - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN25mTlhENjVfdTUtVFFjbUJwRWtBQ1pBamZIbnpjS2hIN3UtSURaeVZDQ0VCUXpmaDM5UG10R244enZGOENMUVpOejY3ejUtbElxQ1RnTTlYckVYeDhTTUJEUkEzUkF5RS1UZ0JIUXFlV1ZCZnU2V3FzSWN3aGxtWWh5a1g?oc=5",
-      "source": "Bloomberght",
-      "date": "2026-11-09T13:08:43Z",
-      "description": "Cumhurbaşkanı Erdoğan Tim Cook ile görüştü Bloomberght",
       "image": "",
       "category": "Ekonomi"
     },
@@ -4052,15 +4079,6 @@
       "category": "Ekonomi"
     },
     {
-      "title": "Çin'den Nvidia CEO’suyla ilgili casusluk suçlamalarına yanıt - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTU1WUDFta2gyTzdLS3d3UTV1OTd5Vkw4ZXNIdzZLaDJpUm5GQ283VDdWb2xlTjRHeTNTY2VjTUlKUTRCbHJ2bmVyUEFnMGkwUmpsTlp5eGRJOElsUjV6OUpBRnlEVkhacjNRSFl3ZDA4YWduY052U25RWlFWcmFDODdpcFlQSjBOVExZT0lhaVhWZE1mNDFhbWhGUQ?oc=5",
-      "source": "Bloomberght",
-      "date": "2026-11-09T08:52:11Z",
-      "description": "Çin'den Nvidia CEO’suyla ilgili casusluk suçlamalarına yanıt Bloomberght",
-      "image": "",
-      "category": "Ekonomi"
-    },
-    {
       "title": "Almanya'da ihracat beklentileri aştı - Bloomberght",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZZ1lkN1NXWDhsal8tVmtueHJQbUNvVGd6SnFTMGptTG44dVNSOFpveUhmVVlTaWRmT2Y5ejhCYXRpaUowWEVuOFVSek5DS2RNM29qdC1rSUdxRURSYjFUUDlrdUQ2V0NfZzR1ODlkYktVb291UktQSnd6ejc?oc=5",
       "source": "Bloomberght",
@@ -4088,29 +4106,20 @@
       "category": "Ekonomi"
     },
     {
+      "title": "İran: Pakistan ve Katar ile istişareler devam ediyor - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYW9JZUN5d2k4RWhSUVdYQkdJcldtUGRudjNhal9nc0ZSZC03aGc1SjhtelotRVNHR0ttR3VTNzhDcXpmMm5YZjhxcGR5cEV3anVoR1hJRHFFbmJaenZ0eDhXSHhzanFEOG96ZjJlTU1ITmhGSExGSUVYTmNSZEZmaGdwLXpjbUpib1NWbGNkMzA?oc=5",
+      "source": "Bloomberght",
+      "date": "2026-11-09T09:53:16Z",
+      "description": "İran: Pakistan ve Katar ile istişareler devam ediyor Bloomberght",
+      "image": "",
+      "category": "Ekonomi"
+    },
+    {
       "title": "ABD'de tüketici güveni beklentilerin üzerinde yükseldi - Bloomberght",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdG5Ddkt6SVpMYnA4dDhDNDFjS0NFZE13M3d4VGhrZGNheXZpVkxUNWM5d3c3ZHJfXzJfZlpnNmRVV2ZRSDBwZzE3RVk1U1p4NFdWa1lzOFVsMGZwX3dOUVpfR1lEVkRFZWFveXFURUEtUkJuX0Vwd0FQNXRyUW9oVnBFNE5BTVBQYUVvUUNNdTRVd2h1?oc=5",
       "source": "Bloomberght",
       "date": "2026-11-06T16:32:48Z",
       "description": "ABD'de tüketici güveni beklentilerin üzerinde yükseldi Bloomberght",
-      "image": "",
-      "category": "Ekonomi"
-    },
-    {
-      "title": "İzmir'de fabrikada şiddetli patlama: 10 can kaybı - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUmR4RWplMnBOOVJrQ0FoNEFJSktMRXZWMVI0a3BwNzJfaTBYRndnOHc1cUkyN2ZEbGJGbWMxaXA0MHhnQllxMlQtYmZIa3pOdlB1aG03V2g2ZVg3NDV1T2xjbmdlRmZ5TXM1N01GRlJlZVBOUHZwbmtDQUROQ3h4bW5aNFB2S01KMFEweA?oc=5",
-      "source": "Bloomberght",
-      "date": "2026-11-09T11:14:26Z",
-      "description": "İzmir'de fabrikada şiddetli patlama: 10 can kaybı Bloomberght",
-      "image": "",
-      "category": "Ekonomi"
-    },
-    {
-      "title": "Pacific Tiger/Cockrell: Doğa dostu finansal projeler yapılabilir - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2FCc0V5TkxxR2dtN0xFaXFMcWs2YjhpdmdadDlxOElkbnRxM0MtZjROcVJPeDZOdXFSMWZEZHNMVHJubmJZVzhCMUNBOWlZMTc1M2lKcTVKZDMtX280VFQwVVVVZUNQdVV5YWJ4ZnBGMlRwWGlXdEhiU0VCRTJkRTBKTXJ4MUNzcl9OMkJnejh2VzdsbnBzT3hNeHhtREk?oc=5",
-      "source": "Bloomberght",
-      "date": "2026-11-09T12:58:38Z",
-      "description": "Pacific Tiger/Cockrell: Doğa dostu finansal projeler yapılabilir Bloomberght",
       "image": "",
       "category": "Ekonomi"
     },
@@ -4124,6 +4133,15 @@
       "category": "Ekonomi"
     },
     {
+      "title": "Pacific Tiger/Cockrell: Doğa dostu finansal projeler yapılabilir - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2FCc0V5TkxxR2dtN0xFaXFMcWs2YjhpdmdadDlxOElkbnRxM0MtZjROcVJPeDZOdXFSMWZEZHNMVHJubmJZVzhCMUNBOWlZMTc1M2lKcTVKZDMtX280VFQwVVVVZUNQdVV5YWJ4ZnBGMlRwWGlXdEhiU0VCRTJkRTBKTXJ4MUNzcl9OMkJnejh2VzdsbnBzT3hNeHhtREk?oc=5",
+      "source": "Bloomberght",
+      "date": "2026-11-09T12:58:38Z",
+      "description": "Pacific Tiger/Cockrell: Doğa dostu finansal projeler yapılabilir Bloomberght",
+      "image": "",
+      "category": "Ekonomi"
+    },
+    {
       "title": "\"Sürdürülebilir tarım için finansman ve yatırıma ihtiyaç var\" - Bloomberght",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzJvaVg0WkJ2V1kwcUc2UUloVUpCQkFYclo2ci1zMU0wUzVNR0d3MGEyY2c5VFJ5aXA0R0trRW5VWjAySVFTQkFHUW1LUVdxTXhEUDBqM2JhU0Qya3FtUkwzdDFlQ1JRN3Q3clJuOVlSR3VKVEQyS0RaeTJmWVNlbjFhbHJtRWZDQnFNbXplbzVibGplTHhPTUQzQQ?oc=5",
       "source": "Bloomberght",
@@ -4133,11 +4151,11 @@
       "category": "Ekonomi"
     },
     {
-      "title": "Tüpraş'tan 2026'nın en güçlü çeyreklik performansı - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOWRkbUxtdlBNVmo0OG1SdFFyclhTdHJEa21hUDAxdk03RUVzMGc2X21JbUh3ZDV5NEhhWHVySjNhbDFGQWhGWHBGeFFIVy1MWVQtdzExNE5MNi1zVUlIODYtb0hPTjBTSEFsWHBVbHdHNHFYSk5YOTB0b1VEbEptekpwcEg5bGxhN3RpM2p5RQ?oc=5",
+      "title": "Pegasus'un net kârı beklentileri aştı - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6dnVRdEdaU1VSQl9JZWh0QXYtZGxKMTcwVmgyd3ZhSWdCUkk5MzBLYWdoQUNsRmJrV0VSQnM4VkdndU5IVmlZQUtaelpEb2dXLVE2S3piNGdqN250Q2V5TFFpNjhGbFp3WFdYRmZiOU1TcC00QXhxOW5tSG4?oc=5",
       "source": "Bloomberght",
-      "date": "2026-11-06T18:39:59Z",
-      "description": "Tüpraş'tan 2026'nın en güçlü çeyreklik performansı Bloomberght",
+      "date": "2026-11-09T19:54:22Z",
+      "description": "Pegasus'un net kârı beklentileri aştı Bloomberght",
       "image": "",
       "category": "Ekonomi"
     },
@@ -4169,6 +4187,24 @@
       "category": "Ekonomi"
     },
     {
+      "title": "Çin'den Nvidia CEO’suyla ilgili casusluk suçlamalarına yanıt - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTU1WUDFta2gyTzdLS3d3UTV1OTd5Vkw4ZXNIdzZLaDJpUm5GQ283VDdWb2xlTjRHeTNTY2VjTUlKUTRCbHJ2bmVyUEFnMGkwUmpsTlp5eGRJOElsUjV6OUpBRnlEVkhacjNRSFl3ZDA4YWduY052U25RWlFWcmFDODdpcFlQSjBOVExZT0lhaVhWZE1mNDFhbWhGUQ?oc=5",
+      "source": "Bloomberght",
+      "date": "2026-11-09T08:52:11Z",
+      "description": "Çin'den Nvidia CEO’suyla ilgili casusluk suçlamalarına yanıt Bloomberght",
+      "image": "",
+      "category": "Ekonomi"
+    },
+    {
+      "title": "Tüpraş'tan 2026'nın en güçlü çeyreklik performansı - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOWRkbUxtdlBNVmo0OG1SdFFyclhTdHJEa21hUDAxdk03RUVzMGc2X21JbUh3ZDV5NEhhWHVySjNhbDFGQWhGWHBGeFFIVy1MWVQtdzExNE5MNi1zVUlIODYtb0hPTjBTSEFsWHBVbHdHNHFYSk5YOTB0b1VEbEptekpwcEg5bGxhN3RpM2p5RQ?oc=5",
+      "source": "Bloomberght",
+      "date": "2026-11-06T18:39:59Z",
+      "description": "Tüpraş'tan 2026'nın en güçlü çeyreklik performansı Bloomberght",
+      "image": "",
+      "category": "Ekonomi"
+    },
+    {
       "title": "Hazine nakit dengesi 329,9 milyar TL açık verdi - Bloomberght",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RMUFLb0tEZHd5NjVRMkdlOS1keXFZeHRrWmFxam1HUXkwSjB4SGZ3eVRaWU0zcnhWOVc4c0Nhano5S1hSVjJvRU5EVEVmYjBiNkNTX0UtNERmdlBGbkw2V0R2YlBDTFU?oc=5",
       "source": "Bloomberght",
@@ -4196,11 +4232,11 @@
       "category": "Ekonomi"
     },
     {
-      "title": "İran: Pakistan ve Katar ile istişareler devam ediyor - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYW9JZUN5d2k4RWhSUVdYQkdJcldtUGRudjNhal9nc0ZSZC03aGc1SjhtelotRVNHR0ttR3VTNzhDcXpmMm5YZjhxcGR5cEV3anVoR1hJRHFFbmJaenZ0eDhXSHhzanFEOG96ZjJlTU1ITmhGSExGSUVYTmNSZEZmaGdwLXpjbUpib1NWbGNkMzA?oc=5",
+      "title": "Şi: Çin, Avrupa'nın sorunlarının sebebi değil, çözüm ortağı - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY3VqWWdTMllDTHU3YXpSY3NMdVZ4dUlsT1BQVmoweVhzREdUSTBueE5lNWdoYzRPSUJXemtQMHlPcUdEU0NnbkdmRDhpa3IzUjZyNVRSRV9PS3pBd2JkcER1X0pSZTlSVzN0UnlPWkJERXNQRFNITjhTTnVwVFl3VVZJbmE3NlFxbW8tbFN4SzBRTEp5VExv?oc=5",
       "source": "Bloomberght",
-      "date": "2026-11-09T09:53:16Z",
-      "description": "İran: Pakistan ve Katar ile istişareler devam ediyor Bloomberght",
+      "date": "2026-11-06T18:30:47Z",
+      "description": "Şi: Çin, Avrupa'nın sorunlarının sebebi değil, çözüm ortağı Bloomberght",
       "image": "",
       "category": "Ekonomi"
     },
@@ -4214,29 +4250,11 @@
       "category": "Ekonomi"
     },
     {
-      "title": "Şi: Çin, Avrupa'nın sorunlarının sebebi değil, çözüm ortağı - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY3VqWWdTMllDTHU3YXpSY3NMdVZ4dUlsT1BQVmoweVhzREdUSTBueE5lNWdoYzRPSUJXemtQMHlPcUdEU0NnbkdmRDhpa3IzUjZyNVRSRV9PS3pBd2JkcER1X0pSZTlSVzN0UnlPWkJERXNQRFNITjhTTnVwVFl3VVZJbmE3NlFxbW8tbFN4SzBRTEp5VExv?oc=5",
-      "source": "Bloomberght",
-      "date": "2026-11-06T18:30:47Z",
-      "description": "Şi: Çin, Avrupa'nın sorunlarının sebebi değil, çözüm ortağı Bloomberght",
-      "image": "",
-      "category": "Ekonomi"
-    },
-    {
       "title": "Anadolu Grubu 3. çeyrekte beklentileri aşarken, geçen yılın gerisinde kaldı - Bloomberght",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNamRHcExWbG5BNWFibjJEempYWXA4X1M4VWJ4dl9PdTJ0bXN6QU5tc1RhNG1qVDZqWllKc2hNVjdtWWNOUmpSQWlZVi1fX1ptbl9vLWY0a3hOa1VTZFBtRjk3RmVOdUJtTFBYWmY3V3hZRUdOX1dWdWdrdnV1UTZYVEZoa2RlemNoOTBKa0JLclR1WmFUY095YnA2T1BuQnN2SllENUgzaENTbXdsWlE?oc=5",
       "source": "Bloomberght",
       "date": "2026-11-08T14:42:40Z",
       "description": "Anadolu Grubu 3. çeyrekte beklentileri aşarken, geçen yılın gerisinde kaldı Bloomberght",
-      "image": "",
-      "category": "Ekonomi"
-    },
-    {
-      "title": "Fon soruşturmasında Lydia Holding YKB Enver Çevik gözaltına alındı - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQzVsbFgzcDJJUFE1dnRac09kS0tlVkk3dXhZSElwcENfb29ONU1uRnVaX3AzYmtYMnZNMk5LSy1yYVRqemRvcTF0LU91Nms1V2l0R2JNbDNGQjNpbXQ4UlFrZV9HVWlMZGRkMS1oeWhPRHgwaEJnbmZmcnNlY19LWGx2SHJBalF1cUpMVl96QzJES2h6bFhwX0QtOVo?oc=5",
-      "source": "Bloomberght",
-      "date": "2026-11-09T13:51:42Z",
-      "description": "Fon soruşturmasında Lydia Holding YKB Enver Çevik gözaltına alındı Bloomberght",
       "image": "",
       "category": "Ekonomi"
     },
@@ -4259,6 +4277,24 @@
       "category": "Ekonomi"
     },
     {
+      "title": "İzmir'de fabrikada şiddetli patlama: 10 can kaybı - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNW5IQ1dpLXhuRkNtdzItQW84QjVZZEtUSjc5VmhmX25DRkl1SmtUX0JhcUl2WmdiQ2ZHMTRSbnVIc1BIc2RuMzhFM0tXZ3EzeFFWOWc0NlJCZHdKNkhSR2J6dVVQLVVJakxiRlAyWF9TLWQzemVWVjUtckhMUXRWVnlieGZ5OHUyVF9hMw?oc=5",
+      "source": "Bloomberght",
+      "date": "2026-11-09T13:58:47Z",
+      "description": "İzmir'de fabrikada şiddetli patlama: 10 can kaybı Bloomberght",
+      "image": "",
+      "category": "Ekonomi"
+    },
+    {
+      "title": "Fon soruşturmasında Lydia Holding YKB Enver Çevik gözaltına alındı - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQzVsbFgzcDJJUFE1dnRac09kS0tlVkk3dXhZSElwcENfb29ONU1uRnVaX3AzYmtYMnZNMk5LSy1yYVRqemRvcTF0LU91Nms1V2l0R2JNbDNGQjNpbXQ4UlFrZV9HVWlMZGRkMS1oeWhPRHgwaEJnbmZmcnNlY19LWGx2SHJBalF1cUpMVl96QzJES2h6bFhwX0QtOVo?oc=5",
+      "source": "Bloomberght",
+      "date": "2026-11-09T13:51:42Z",
+      "description": "Fon soruşturmasında Lydia Holding YKB Enver Çevik gözaltına alındı Bloomberght",
+      "image": "",
+      "category": "Ekonomi"
+    },
+    {
       "title": "Riyad'daki Aramco binasına saldırı - Bloomberght",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zbGw1ZlpidW4zVFdPSF9jeUxRWDg5bm1pS2RoY2YwMEhyRzFoTlZ5bFZwQjdydXBWcUF4Znpxcl9UTGtLX1RJdXROUThTUm95UGNXNHlVNUtscnl2eGg3LWk4UjVBRkdzSkJfRnpzYWtkbW9Tc1dtLWJB?oc=5",
       "source": "Bloomberght",
@@ -4273,6 +4309,15 @@
       "source": "Bloomberght",
       "date": "2026-11-09T12:22:12Z",
       "description": "\"COP31 dünya tarihine 'uygulama COP’u' olarak geçecek\" Bloomberght",
+      "image": "",
+      "category": "Ekonomi"
+    },
+    {
+      "title": "AMB Başkanı Lagarde'dan enflasyon uyarısı - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRGdURTFmamJtT1lsWTE0MTdCTFVXS1BiMkR3RW1RRVVjcW0wQndlZTNJamgtbk81eklRbWdHYnpxekJQdVVlMnRlSnZvb3VSTzZlTnQxYk9nM1gzUTRjMGhfWkZwWlhBNlY2WEVuM3NrOURBQXp6ZDJqVkFVSi1iSE5ONA?oc=5",
+      "source": "Bloomberght",
+      "date": "2026-11-07T16:38:29Z",
+      "description": "AMB Başkanı Lagarde'dan enflasyon uyarısı Bloomberght",
       "image": "",
       "category": "Ekonomi"
     },
@@ -4349,11 +4394,11 @@
       "category": "Ekonomi"
     },
     {
-      "title": "AMB Başkanı Lagarde'dan enflasyon uyarısı - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRGdURTFmamJtT1lsWTE0MTdCTFVXS1BiMkR3RW1RRVVjcW0wQndlZTNJamgtbk81eklRbWdHYnpxekJQdVVlMnRlSnZvb3VSTzZlTnQxYk9nM1gzUTRjMGhfWkZwWlhBNlY2WEVuM3NrOURBQXp6ZDJqVkFVSi1iSE5ONA?oc=5",
+      "title": "Ekim'de en yüksek reel getiri mevduat faizinde - Bloomberght",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYWFhWWwwU1pVdDlfeG9xSDRyZUkxUFpOcWNJanVkZ0RaTUwxMWhJZ0dUdVB4blV6S2xBY0pMWkh4akRtaGNIeFEybTBFR3UwMlBpTFUyUEJPbEVmZmNiclVTOXI5Y1FWSTVQdzM3eFBOQkIxUTUzeGowRGkzR0hZMEhTdFF4SGRPS3c?oc=5",
       "source": "Bloomberght",
-      "date": "2026-11-07T16:38:29Z",
-      "description": "AMB Başkanı Lagarde'dan enflasyon uyarısı Bloomberght",
+      "date": "2026-11-09T07:05:59Z",
+      "description": "Ekim'de en yüksek reel getiri mevduat faizinde Bloomberght",
       "image": "",
       "category": "Ekonomi"
     },
@@ -4448,40 +4493,22 @@
       "category": "Ekonomi"
     },
     {
-      "title": "Petrol, İran belirsizliği nedeniyle artışa devam ediyor - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeUJ1Y0NEWjY0RnV3M2VhWWVFTlhqTGI4SWJqWjNCXzNtNlRSTGRBNS1tMlI2bUZodU5xdzJGU0RDUlp0blNhVURoZ0o1QmFQRmFadlRlWW15NGE3NGk4MlB1VmJWeXpPcFNqTUdlalpkLUxscVlTTzNXbFI1aS03bWlwZGY1UWJMOUNGZTVyWFc5Rl82?oc=5",
-      "source": "Bloomberght",
-      "date": "2026-11-06T04:20:39Z",
-      "description": "Petrol, İran belirsizliği nedeniyle artışa devam ediyor Bloomberght",
+      "title": "Oruç Reis sismik araştırma gemisi Pakistan yolunda - TRT Haber",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEQ0cDNVT1g0cXdPRlJxWHZXa2VjeGN4OHM1V2xyOVgtMGYtaGYwSkp2RlRZWndIc1VfZ0RtSWNibWh3R3FNRWxacWxCZ3NOcC01ajlTTTQ4SjJERzhKcVdsOVFFN1c5aGFOTjllSlpXWGppWUx4MlRvYVVYbTRXUFNsSGdpUjNwY1RZUWQ0X0E1SEttMkp2LTg1a0c4UXhPcUp3?oc=5",
+      "source": "TRT Haber",
+      "date": "2026-11-06T10:45:00Z",
+      "description": "Oruç Reis sismik araştırma gemisi Pakistan yolunda TRT Haber",
       "image": "",
       "category": "Ekonomi"
     },
     {
-      "title": "Çin Merkez Bankası'nın altın alımları hız kesmiyor - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzdrYkw0bUVOYTBfby1BdHIweTlsUmEtRDhVTmI1UDB6b2JQVEZsWHRDSnV4ZWdzMG5oVkVCUHRwNGE4MVRfU1NwUTM0bVFuWnNpZEYwVURYbm5pRnNaMGp6UUtiN1FBVDZqZjI1MFJMWlo4MWh3dzFoaXFvZ2RNYTVCSDdMUzltbDYxajFpbw?oc=5",
-      "source": "Bloomberght",
-      "date": "2026-11-07T05:16:08Z",
-      "description": "Çin Merkez Bankası'nın altın alımları hız kesmiyor Bloomberght",
+      "title": "Lydia Holding yöneticisi Enver Çevik gözaltına alındı - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMGkxZEJ4NVRydHBiUlIyM0wzLXFHdng1elFacEI3cXUzS1BTbHMyMTRZQmJQMUhTLVg2N1N1VFc0ZVJXLTVXV3BVNHVBY3k2VDV1TU9oR01FbVd6aWfSAWNBVV95cUxQaTdDSXRvOUhndEJ1TmVqbi1kQkg5blA3MWI0NGpaSXRXLXdWeFNYTnJCN0lOR3c3MnBWV1FMM182VHRrOFBIZFpsM2hZbW1FQnNHWVF5WlpvNHl0dzVwOWFmN0E?oc=5",
+      "source": "BBC",
+      "date": "2026-11-09T16:10:54Z",
+      "description": "Lydia Holding yöneticisi Enver Çevik gözaltına alındı BBC",
       "image": "",
-      "category": "Ekonomi"
-    },
-    {
-      "title": "Ara seçimden sonra Musk'ın şirketlerinde büyük erime - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR0VVWHpXWWlzRUxBZUxhOTB3RUg5NFNCdjltMzI4LUJMRl8yVElJd2pCZTE2Y09lUnpManZUV3BPdmxBWmZWY3ZFWlN5aUNsMkFNYlVIWGlPTE9tQ0N6ZTFMdmNtLWhvNWlNRVhYNjRrNXlyTms1X1NPUGtzRjFtOE55V0s2OVVoUHpjYkVNMTh0QQ?oc=5",
-      "source": "Bloomberght",
-      "date": "2026-11-06T05:04:13Z",
-      "description": "Ara seçimden sonra Musk'ın şirketlerinde büyük erime Bloomberght",
-      "image": "",
-      "category": "Ekonomi"
-    },
-    {
-      "title": "'Katar ABD ile İran'a anlaşma taslağı sundu' iddiası - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWd4NEdnT0pxTk9HMU84UEs3OS1jZlM2eGdxQXVSNS0zZnlHbVE5Q2FaejZPS25IWkN2TThHRXoteHhROEpjSEM4YWYzWnhvSnBxekFPZmN0TXhPMFhGRnNncXlJanhrZlV3bVNRRDQzUGFjZ0hmdjI4RG9OME95NlZLOUZmZ0tTamxxTGU3Yw?oc=5",
-      "source": "Bloomberght",
-      "date": "2026-11-06T10:40:12Z",
-      "description": "'Katar ABD ile İran'a anlaşma taslağı sundu' iddiası Bloomberght",
-      "image": "",
-      "category": "Ekonomi"
+      "category": "Dünya"
     },
     {
       "title": "Hayali arkadaşlar zihni nasıl geliştirebilir? - BBC",
@@ -4489,15 +4516,6 @@
       "source": "BBC",
       "date": "2026-11-09T16:00:52Z",
       "description": "Hayali arkadaşlar zihni nasıl geliştirebilir? BBC",
-      "image": "",
-      "category": "Dünya"
-    },
-    {
-      "title": "COP31, 2026'nın en sıcak yıl olacağı uyarıları eşliğinde başladı - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DRHM5QmdVaWNWZnladUVESVhBUVE5dTFsWVpYQnFiUklzUWxWcWdTMlFUakZwMEQzcUwtV0tWV3Q4Y2pkVmt6ajBFZ0ZZMmczeXlRUWtRajJSR2VVa3fSAWNBVV95cUxQRENpWW1naWRwU1d4bnd4RVl0eFIxX3VhOHBicGExbEpJVUtncWpPUjktRC1Ta3dOM0ozcXQzc2lCVzk3UzJta1AwcE1teTdsWHR1WFdGdDI1YWhYQ3JIYS10bWs?oc=5",
-      "source": "BBC",
-      "date": "2026-11-09T12:50:22Z",
-      "description": "COP31, 2026'nın en sıcak yıl olacağı uyarıları eşliğinde başladı BBC",
       "image": "",
       "category": "Dünya"
     },
@@ -4574,11 +4592,29 @@
       "category": "Dünya"
     },
     {
+      "title": "İran: ABD, dün gece Keşm Adası'ndaki hedeflere saldırdı - TRT Haber",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNnBtdUVJc1hKVVJqR0tSUXBfNHpuQmhLcGdxLXl6a0ZBc0xjZEp1V1VqN2d5bUdfOTY1Y3NySGg2UDRCUEJWSVNEcndBcDY2SVpMQUlsYWRDQ09JODZ0dWxrMG5KZ1llN25STGJVT1BDRVNGM1B3bGw2ZkNId0xqSnU0TEZzbzdVZlpEVmtBYkdTQUdqY3FORUxvZjNhSzJIdnE0?oc=5",
+      "source": "TRT Haber",
+      "date": "2026-11-09T07:06:00Z",
+      "description": "İran: ABD, dün gece Keşm Adası'ndaki hedeflere saldırdı TRT Haber",
+      "image": "",
+      "category": "Dünya"
+    },
+    {
       "title": "ABD'nin İran'la savaşı bitirmek için Çin'den yardım istediği iddiası - TRT Haber",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzl4cTJQVEJIRnVmZ2VDaFlnTUFMX3g1bzU4YWZVcVJFbnI2MGplSzdQOWduMW1SaHVCbm4zblYyUXdwQ2FVWDQzWHU1Z1pkbDV5cGdoZHc0VlRvLU91NExoYkdyS2ZEbV9keVB3SXQyN0p6YllITlgyZGh0QVFqLUhGdFR2eXhXbnZ2bFhFZFN5VVF0N1Facll3cmExTXkxNk5GcTRQaWNoalNJWV9lZnRYS1I?oc=5",
       "source": "TRT Haber",
       "date": "2026-11-08T18:21:00Z",
       "description": "ABD'nin İran'la savaşı bitirmek için Çin'den yardım istediği iddiası TRT Haber",
+      "image": "",
+      "category": "Dünya"
+    },
+    {
+      "title": "COP31, 2026'nın en sıcak yıl olacağı uyarıları eşliğinde başladı - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DRHM5QmdVaWNWZnladUVESVhBUVE5dTFsWVpYQnFiUklzUWxWcWdTMlFUakZwMEQzcUwtV0tWV3Q4Y2pkVmt6ajBFZ0ZZMmczeXlRUWtRajJSR2VVa3fSAWNBVV95cUxQRENpWW1naWRwU1d4bnd4RVl0eFIxX3VhOHBicGExbEpJVUtncWpPUjktRC1Ta3dOM0ozcXQzc2lCVzk3UzJta1AwcE1teTdsWHR1WFdGdDI1YWhYQ3JIYS10bWs?oc=5",
+      "source": "BBC",
+      "date": "2026-11-09T12:50:22Z",
+      "description": "COP31, 2026'nın en sıcak yıl olacağı uyarıları eşliğinde başladı BBC",
       "image": "",
       "category": "Dünya"
     },
@@ -4736,20 +4772,29 @@
       "category": "Dünya"
     },
     {
-      "title": "Aziz Sancar’ın izinde: Küçük Talha Einstein Olimpiyatları'nda dünya şampiyonu oldu - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM2R6ZnZFTWs1OUYyNFZNT053a3dTZTczYlFsRDA1aTZZRks5SnZjZExtT0pGOTJwbTlURUpqWlo4WkU4U19HUmR0R01uVEQzU0VtbEpwNFlwNi1HRVhvZGROWHJYRDF6ak1PNnpUUWtvaW1IRGRCUnJMRGhPb0xCX014d042M1o4aFRSb01TWm5ZaV9KREg0dTlLa3VLSGUzTnp3bk9NQVhGSnE1MVdRMzFsQ0lQSWdwNWI1TGI3aTFLQTdFWmZ1V05B?oc=5",
-      "source": "TRT Haber",
-      "date": "2026-11-06T19:21:00Z",
-      "description": "Aziz Sancar’ın izinde: Küçük Talha Einstein Olimpiyatları'nda dünya şampiyonu oldu TRT Haber",
-      "image": "",
-      "category": "Dünya"
-    },
-    {
       "title": "İsrail'de hükümeti kurma görevi Netanyahu'nun rakibi Ayzenkot'a verildi - NTV Haber",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGh4bzBWT2NZZWpQcWNHMmYzcS01TlA0Y3FaTkE5Z0djWDNsT1YtNDZ3NEV0VzlBYjdKRjN4ZENya2tHWFBZcFo0Q3ZRdDd2QjlCa2c3T2FUd2VOSlpzWUtfYkVFTjhpMnAwU0tQbWhsOUFPN1dENW1hbXdnd0xvMHBmeWp6M0ZqVDdOT2YwLWFzNjZSR0hmTmVwMFpfMUV2d0YxVU9RUFM2N3N0bHMxSNIBtgFBVV95cUxNWEVsRVhxYlNZYmlFR1lKSWdwS3REaWNBQWFoSTRISkJ4T0NrVTQ0VHpKOHhjM3NaMF9LS29SZy1zMkdYVUVqRy0wUmw4SVMwZjN4M2U5X2ZJUXZVRUdlV0hOaUw1cnY2aTZOc0p5X1YyZzdEUkR6TkdjVS1ueEFibXFSVXBNV1Rka2sxdzZKWFpaRS1PQzRKQXluZkJ4UXMyV1JMRUQzaXpqMDZ5Z0VZRFFfWUdWQQ?oc=5",
       "source": "NTV Haber",
       "date": "2026-11-07T19:41:09Z",
       "description": "İsrail'de hükümeti kurma görevi Netanyahu'nun rakibi Ayzenkot'a verildi NTV Haber",
+      "image": "",
+      "category": "Dünya"
+    },
+    {
+      "title": "Nvidia'da Çin casusu krizi: Hisseler çakıldı, CEO hakkında soruşturma - NTV Haber",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS0h0ZnozRzlLQ2l2OUVaeDZJQklrUjBhX1gzX2pya2VESW9qeHEtVkwtbDEzQ3dWQVJ5OXhuS2djNE9yRldpc3hfSjFZZVJJMVI5Z3dtNkE0eDRPeHMyZm4xWGVmNG1JQzNSRzdXQUNEcGNHTDVkQkJGZkhmMEY2SzBpOUpVN1FjeGZfRGdaSE56UUdwb21vNG9xaHNlUnRMRnJqdUpR0gGrAUFVX3lxTE1NOG01VjJhX1p5aHZlNFNJUm45bFRLeXJjRzE2ZzZiOVFXOHE5aEhDOElNbE9GWVlRemhVRDhzNWZFNjF3UTYyX0VCQ3F2dV9LUzJ3cGtsOGFYbkFyMXpNTWp2VlRMODRRMTZmUHNjTndiNWR3N2cwUDJFby1jT3NndkxaNFhESFlhN0daQVk4UEstSUQwbnNRUGhnZElJYkhocDhkUW02NmZEdw?oc=5",
+      "source": "NTV Haber",
+      "date": "2026-11-09T17:58:39Z",
+      "description": "Nvidia'da Çin casusu krizi: Hisseler çakıldı, CEO hakkında soruşturma NTV Haber",
+      "image": "",
+      "category": "Dünya"
+    },
+    {
+      "title": "Aziz Sancar’ın izinde: Küçük Talha Einstein Olimpiyatları'nda dünya şampiyonu oldu - TRT Haber",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM2R6ZnZFTWs1OUYyNFZNT053a3dTZTczYlFsRDA1aTZZRks5SnZjZExtT0pGOTJwbTlURUpqWlo4WkU4U19HUmR0R01uVEQzU0VtbEpwNFlwNi1HRVhvZGROWHJYRDF6ak1PNnpUUWtvaW1IRGRCUnJMRGhPb0xCX014d042M1o4aFRSb01TWm5ZaV9KREg0dTlLa3VLSGUzTnp3bk9NQVhGSnE1MVdRMzFsQ0lQSWdwNWI1TGI3aTFLQTdFWmZ1V05B?oc=5",
+      "source": "TRT Haber",
+      "date": "2026-11-06T19:21:00Z",
+      "description": "Aziz Sancar’ın izinde: Küçük Talha Einstein Olimpiyatları'nda dünya şampiyonu oldu TRT Haber",
       "image": "",
       "category": "Dünya"
     },
@@ -4781,15 +4826,6 @@
       "category": "Dünya"
     },
     {
-      "title": "Nvidia'da Çin casusu krizi: Hisseler çakıldı, CEO hakkında soruşturma - NTV Haber",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS0h0ZnozRzlLQ2l2OUVaeDZJQklrUjBhX1gzX2pya2VESW9qeHEtVkwtbDEzQ3dWQVJ5OXhuS2djNE9yRldpc3hfSjFZZVJJMVI5Z3dtNkE0eDRPeHMyZm4xWGVmNG1JQzNSRzdXQUNEcGNHTDVkQkJGZkhmMEY2SzBpOUpVN1FjeGZfRGdaSE56UUdwb21vNG9xaHNlUnRMRnJqdUpR0gGrAUFVX3lxTE1NOG01VjJhX1p5aHZlNFNJUm45bFRLeXJjRzE2ZzZiOVFXOHE5aEhDOElNbE9GWVlRemhVRDhzNWZFNjF3UTYyX0VCQ3F2dV9LUzJ3cGtsOGFYbkFyMXpNTWp2VlRMODRRMTZmUHNjTndiNWR3N2cwUDJFby1jT3NndkxaNFhESFlhN0daQVk4UEstSUQwbnNRUGhnZElJYkhocDhkUW02NmZEdw?oc=5",
-      "source": "NTV Haber",
-      "date": "2026-11-09T17:58:39Z",
-      "description": "Nvidia'da Çin casusu krizi: Hisseler çakıldı, CEO hakkında soruşturma NTV Haber",
-      "image": "",
-      "category": "Dünya"
-    },
-    {
       "title": "Japonya'da Amerikan askerinin karıştığı cinayet sonrası 64 yıllık anlaşmaya itiraz - NTV Haber",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2QzUVI3bW1lajdpQmNib2g1Y3Q1aHlmOW1WcE5tS2t3ZkZPQUFKSXgtdmotcGtnbzFwS2xObkxrV1dTaEs5SW8yRDRfdHFIVjRIVWY3dy1ZUHQzSVFnRmdJc1BlSmM2XzhmZHJSbFFfVDZ4T3BtS1E4TF9wRTBFU0ZCNVgzRHZFbTVPdkhlclZEX19YcUNVYUN3RURFYVY0X0hLazduWFRLQUJqZG1aXzJtX2pXMElhWngwa05qMmtJd2PSAcgBQVVfeXFMTkNpdnNTS2IycTQ4a25NUlJsTWdLN3RfRVE5NXlfYWFEUlZMUm42SFgteU1tbl9Qa1RZVzV4Z1dqeWk2eXJBcjhoWWNqWTd0bTJSU3YtV0cxUTVZYkZmTHc5U3Nsa3kwNHhHUkpJNC1JZnFwTHVJNzFuSGdTTDZuUVlhaHlySUZ1eFljc3dUYzhwY21Ba3ROMDZfRGN3ZUdGX3ZZNjM5SmJrMFBoLVZoNTFiWjZNaUtrQ21UQVBrSFBoOXdoUGJaWkI?oc=5",
       "source": "NTV Haber",
@@ -4808,15 +4844,6 @@
       "category": "Dünya"
     },
     {
-      "title": "Kral Charles Karayipler'deki unvanından vazgeçmeye hazır - NTV Haber",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbFhuLXFBZ2hWc3ROaXNYd3p5SUEzZEI2NE12VWExY0ZRLWU4NGZqRWszcTMzN2F5TjhiQWhLa1p4VS14RklxVDZwemMzeFVKRzJuc2JGT0F1WWlPMU5ncFFnT25lTU1LYlFJUXVhUHNNRzM4OXlYekdrTmVkQWRySlN4Tm9GT0ZvYmFpUVp1dU02aXVFSlVnbDM0YzlVYjRX0gGmAUFVX3lxTE5rTS1ISmppODRnYjUzZXB5Qm9pc1JHYmZhNjZMOWdUNDdDZ1loTUlqR2Q5eV92eGpVNTNoa3ZGZW56bV9JV20xM3pJb0oydHFJT180U3ZCUFFnVU1zbXJ2SFZjOFVjbUU3T0V6VzE2YkwyUGJ6LXNhaDNPWGJna1FySFRtdk1rUkUwVXZaNHVxYmIzaDJiSEgwVW9ZeEtEcmJwOGVXa0E?oc=5",
-      "source": "NTV Haber",
-      "date": "2026-11-06T11:54:56Z",
-      "description": "Kral Charles Karayipler'deki unvanından vazgeçmeye hazır NTV Haber",
-      "image": "",
-      "category": "Dünya"
-    },
-    {
       "title": "Rusya, Türkiye'deki COP31'de BRICS için ayrı müzakere grubu istiyor - NTV Haber",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX19USGMwZjh1NnF2V2Z4VG54T3BmSXlmWWMtU1NPV3A3SzJoc3hMMU03WWJCbHVGREhoY3JLanVncHNsaU5yWE4xR1gyTTBFS2dmdjhGZDFEczltcHkyWmhyNHY1dVVoWVhha3NoRTZ4d3R4VG52eTJpVlZrNjFpMjRuSlRMVk1OQUZkQTk1R0haOGhrNzNLT1p0Yk92YjhhR0JV0gGoAUFVX3lxTE01ZDVCUVZHVFNEVS04X1Rfa2ktSkJ2dUFuODZHbmNXaXpaSEZucFJBYmpVNFFCTUl0V29WWlZoMmRKVWJCb0gxUlh6OXkyY2czbnhiVXZEWlJLTDBLS0N0bzUxRlhGT05rR0dENUVZRU1hNEY1YmE3T2dvd1drQWtTNk9FbkI3cGM5cWs1OEdIR0RDNzF4Sy1xc01lZWNzMmptUWdwMXZ2ag?oc=5",
       "source": "NTV Haber",
@@ -4831,6 +4858,15 @@
       "source": "NTV Haber",
       "date": "2026-11-09T09:29:55Z",
       "description": "Fransa'da 2027 seçim yarışı erken başladı. Sağ ve sol partiler anketlerde ilk sırada NTV Haber",
+      "image": "",
+      "category": "Dünya"
+    },
+    {
+      "title": "Girit açıklarında göçmen faciası. 14 kişi can verdi - NTV Haber",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTA0RDQtNFBpV3phaEIxSzR4WTRRZjI4MzNrczkwc0VvcWZuWDN4VEM0ZTFUcU5kakcwM0dHaktOME8yMXh5WVNCOGtSZlgyUzRRdTliUHZhN2x3MXNNN0tzSVJjOHlYRWR0VE0xeGZiSDVkdVYxQ09NbGtjZ3BCS0ZLVnJiNGhFWlRxVUZYTHXSAZYBQVVfeXFMUFJ1VUFId2ZUaHRlNm1ZRDJ3ck5fV0otMzk3eDU2Nk10eTVSRUNaUEF5di1jNkZKTDhqRXpwQWU1N3RsRTB2b3hjaFpNTUs0Q2laRHlRNWVuTWcydmhaeHdkNkpsS3NpOUIxa0xENFdLNS1VMjF4TmZEajRrWnhrWlVqSUk5amQxR19wUEkzczJnMlB3SW9n?oc=5",
+      "source": "NTV Haber",
+      "date": "2026-11-09T11:52:06Z",
+      "description": "Girit açıklarında göçmen faciası. 14 kişi can verdi NTV Haber",
       "image": "",
       "category": "Dünya"
     },
@@ -4898,20 +4934,20 @@
       "category": "Dünya"
     },
     {
-      "title": "Doğu Akdeniz'de Navtex gerilimi. Dışişleri Bakanlığı'ndan açıklama - NTV Haber",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNG5xLVkteWw1SlJYVU1lTHlpZDBnX1hsRk1nMDBLaktxYmJuSVNBTFNLVXJ2d3I1T09nUF83X2EyYjhSemg4TUxua2RyRGhKM05wNGtIOU52X2o2UHkyR2ZPNjhiUW1zMEhzXzc1R2ZaR2VSWGR5aWRjS0VLaF9KdUFRaW54RS0tMnRJMXNuY1RMelVGV3RvVkRSZWtSckpMTEHSAacBQVVfeXFMTXF0dU1pcVU3RDdpcmh6aVdVUkFobjZnOTBxNWhHMGEwbF84cWRudng2WGVSTEtHclg3ZUx1bEZEUHYxY3JMTGp1cER6QmRIR3gxTXFlNDhXUVJIQ2c4NWlpSkdDaGNzWlV0NUhHbVNYZlFXdnhRd3NSOWRZZnRoTTIzRkkza25UUkxNbkdyNHRtVUI0VVNwcGR4TVpPNWpSU3pmODd2czQ?oc=5",
-      "source": "NTV Haber",
-      "date": "2026-11-06T19:56:54Z",
-      "description": "Doğu Akdeniz'de Navtex gerilimi. Dışişleri Bakanlığı'ndan açıklama NTV Haber",
-      "image": "",
-      "category": "Dünya"
-    },
-    {
       "title": "Fransa’da 146 bin kişi sokakları doldurdu: 360 kişi gözaltına alındı - NTV Haber",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONnpvVUI5WXczZ2hKQ0ZYWG1ONmdybzlnM1B4N00tLVBHMndncG52a2lUZ1lTWFppcE4ybXVlN2JxTHlSMDczZDRMaWN3V0FQOXNfSjFsdHRkYU1wdURaM2RMZi16aElJbFRENWZSbHdnMzA4dDd4blg3QlNJaHM2X2pNZW4zYXN2VmczenBOcHhhNkZQYVZXOFFyLWNOeEpkSW9KVWVhdFYwTkdjR0Nz0gG0AUFVX3lxTFBsdWJqMzF3Y2hfU195QkFYTGJGVzE0c0NDVGt6X24zRTFYLVNBZnU3aGJsZTBxMjg4MVBJTzR1bmNVMW5MMDZUOHYtcDlWMmtXeHNUb1pJV0hPb05LYURaa1BWYmJrb2plcFgyQ2Y1ZWpVaFE5cHFLVTMzZzZwTUhHeDBaa3lqalhxSW9PbmZ3TXlvblFadVBjXzVVSXozNDR6YlFkTlh6dVYzRGs2cDZrSS1mTQ?oc=5",
       "source": "NTV Haber",
       "date": "2026-11-07T23:11:25Z",
       "description": "Fransa’da 146 bin kişi sokakları doldurdu: 360 kişi gözaltına alındı NTV Haber",
+      "image": "",
+      "category": "Dünya"
+    },
+    {
+      "title": "Doğu Akdeniz'de Navtex gerilimi. Dışişleri Bakanlığı'ndan açıklama - NTV Haber",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNG5xLVkteWw1SlJYVU1lTHlpZDBnX1hsRk1nMDBLaktxYmJuSVNBTFNLVXJ2d3I1T09nUF83X2EyYjhSemg4TUxua2RyRGhKM05wNGtIOU52X2o2UHkyR2ZPNjhiUW1zMEhzXzc1R2ZaR2VSWGR5aWRjS0VLaF9KdUFRaW54RS0tMnRJMXNuY1RMelVGV3RvVkRSZWtSckpMTEHSAacBQVVfeXFMTXF0dU1pcVU3RDdpcmh6aVdVUkFobjZnOTBxNWhHMGEwbF84cWRudng2WGVSTEtHclg3ZUx1bEZEUHYxY3JMTGp1cER6QmRIR3gxTXFlNDhXUVJIQ2c4NWlpSkdDaGNzWlV0NUhHbVNYZlFXdnhRd3NSOWRZZnRoTTIzRkkza25UUkxNbkdyNHRtVUI0VVNwcGR4TVpPNWpSU3pmODd2czQ?oc=5",
+      "source": "NTV Haber",
+      "date": "2026-11-06T19:56:54Z",
+      "description": "Doğu Akdeniz'de Navtex gerilimi. Dışişleri Bakanlığı'ndan açıklama NTV Haber",
       "image": "",
       "category": "Dünya"
     },
@@ -4961,20 +4997,20 @@
       "category": "Dünya"
     },
     {
-      "title": "İddia: İran, 2024-2025'te Rusya'dan 90 füze fırlatma sistemi sipariş etti - NTV Haber",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRVlsZDZzMGEteWFUME9zUnRzOXNGcmxRMVNXb1U2Z1N3ZFlpTkk3U2ZJWG85NWs5ZW5IVVpVclEzTVlOYllaOEZ1ZUw1S3hidjVDV1U0M0Y1UllLdURMNTFHZ2w5cFExNXVyTk1KZExxZUlQdlRBN1NUMUx3Zk16a3h2U2V5U2JXeXpDang3WVltV0VUX1VfOTNmdGtQME5hQUxqWVpzVllRUdIBrwFBVV95cUxQTEctX3ZEWHEzaTMxWDVhMHA1R3lQYXZYenlKdDlkaHoyNVNCUDRya2FBemVXeGh6T1NkaUQzR1J1S1FzM0hhQ0NsTXdNLTkyZDRxLXNOdVJDME5aY05aYVpKa2V1N3U1czRCdUoxdm8xdTZ0RmFna1R0bHV6R19tQUp2M3FtSm9Ld1Y1cHA1RTZMWU9KVW5zR3p5YllWY2ZuU1VlZENrRk9hazFfSktJ?oc=5",
-      "source": "NTV Haber",
-      "date": "2026-11-06T13:02:03Z",
-      "description": "İddia: İran, 2024-2025'te Rusya'dan 90 füze fırlatma sistemi sipariş etti NTV Haber",
-      "image": "",
-      "category": "Dünya"
-    },
-    {
       "title": "Japonya'da 5,7 büyüklüğünde deprem. 20'den fazla kişi yaralandı - NTV Haber",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3BzZlNkZ0pJd3Q5dHM0VU0xdjZDZ1U5TnBaY3pTYmtkRXJyR0dmSjd5MlF1WjV5cjA2NW9aQkZoeEtmd1NpRjNkNEh5QU9hR2lSOTBQZ2JaeFlsM0FZeWNBY0c1cWhKblRuaWdKN003bkh2cDNSa0kxSUF2Vy1Lcm1MTk9lT0FvVkpkTDIzZ1Q2YlFERWZVUl9aRETSAaIBQVVfeXFMT3A2MVowTzlmN3ZoTDJUU1RYMWRwOTRfdXp3X1ZwcmFTdFBGcDQ5cVhYZ2FEYmxtdFQ3QjVPV2EyWTYwTWRQMjl2NTFxY0pnYVAxd2RON2pZT3VoWV9LVGVkVHZRU09RejVmVklwTWo0VU92Q3RhS2ZHWEhtaTl3cDQ3cWdaRnBZS25SRWNPMDN6a1pYVTk5NzQ1S0owbkotdFNB?oc=5",
       "source": "NTV Haber",
       "date": "2026-11-08T06:55:47Z",
       "description": "Japonya'da 5,7 büyüklüğünde deprem. 20'den fazla kişi yaralandı NTV Haber",
+      "image": "",
+      "category": "Dünya"
+    },
+    {
+      "title": "İddia: İran, 2024-2025'te Rusya'dan 90 füze fırlatma sistemi sipariş etti - NTV Haber",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRVlsZDZzMGEteWFUME9zUnRzOXNGcmxRMVNXb1U2Z1N3ZFlpTkk3U2ZJWG85NWs5ZW5IVVpVclEzTVlOYllaOEZ1ZUw1S3hidjVDV1U0M0Y1UllLdURMNTFHZ2w5cFExNXVyTk1KZExxZUlQdlRBN1NUMUx3Zk16a3h2U2V5U2JXeXpDang3WVltV0VUX1VfOTNmdGtQME5hQUxqWVpzVllRUdIBrwFBVV95cUxQTEctX3ZEWHEzaTMxWDVhMHA1R3lQYXZYenlKdDlkaHoyNVNCUDRya2FBemVXeGh6T1NkaUQzR1J1S1FzM0hhQ0NsTXdNLTkyZDRxLXNOdVJDME5aY05aYVpKa2V1N3U1czRCdUoxdm8xdTZ0RmFna1R0bHV6R19tQUp2M3FtSm9Ld1Y1cHA1RTZMWU9KVW5zR3p5YllWY2ZuU1VlZENrRk9hazFfSktJ?oc=5",
+      "source": "NTV Haber",
+      "date": "2026-11-06T13:02:03Z",
+      "description": "İddia: İran, 2024-2025'te Rusya'dan 90 füze fırlatma sistemi sipariş etti NTV Haber",
       "image": "",
       "category": "Dünya"
     },
@@ -5078,20 +5114,20 @@
       "category": "Dünya"
     },
     {
-      "title": "\"Açlık tarikatı\" liderine 200 yıl hapis cezası. 448 kişinin ölümüne neden oldu - NTV Haber",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkthV2g3YkMzOFlzT3pYcHZvSUZOQkVFRDY1TF9JSWdwcUk4RTlJVTJ1dzN1cGtFT1dpLVpQb3VBQ1NHM2N1YzZfaERTV0VNYkpFMHRIOTBCUTAzOTMtZF9WOFN5dmlBNkFneFF2bXhrUUdhU0xHVHBaX19UWUFLSGduallGTjdEQ3JJTTJiU0xJZUcyUW1rVUd5bzY2UG9BZ0NPLURUQ3o0SkRNbTBUNXZn0gG3AUFVX3lxTE91R3dUa1FNZFRCR3ppWnlHVkdYM29jMDZ3M0dmczQ1ZFRjRTlWazFWUUNfc3BPLUt6Y25KUU9zelFBYk11Ul9rTTNZQUh2S0tYTW5DME1mVEZzQjJWVmQyLXRlNHJkd1l2NXdBcndERTRVR1I2TjM1dnFSb2Z4ZTNlTG9zZlNzSE5LSzFUcklyS2RqUG5aMUVWQnh6eU0xeWM0MlFEQ2lqU2s4RkIybDR3YTEwQWNDSQ?oc=5",
-      "source": "NTV Haber",
-      "date": "2026-11-07T02:56:37Z",
-      "description": "\"Açlık tarikatı\" liderine 200 yıl hapis cezası. 448 kişinin ölümüne neden oldu NTV Haber",
-      "image": "",
-      "category": "Dünya"
-    },
-    {
       "title": "İsrail'in kurucu Başbakanı Ben-Gurion: Gazze'nin deniz tarafından yutulmasını isterdim - NTV Haber",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOODFZTFE0Q3JkUFNQMUg0VktUS3VSRXdoTFg5ZE5HLVB1TlFpOFI2cXZZbFd2LXhINmthbjNHdnR2M1ZqdDJ4OGljN1JyRmptLUFqcUYzZHVyNjFCSHJsM2Q4Y21IOFliUDlXbDRXVFBDNXd5eU1meko3WGRDS2ZqWEx5RzBLR2drR2FkV3JfMmlkYmEyTG82RldhVEZTMWFtTkw5VW9fQUZyY2hrMDlKbVBPZ0J0R3cyVnl1VdIBwgFBVV95cUxPdUQ4cFJWWWVpM3pXb1F2eE9GVE9UZTZqWmFLNWl6R0VjaUFwVGNwdXZ4N2xmMEJPWjB0ZVdHLTF3bnc2VjhWQnJSYlg2dktPRW1tdnlNOHRhdFpDT2VMRkRlVlhyRl9WbWVrdDVtYWpKZWRMM1lCN2FMSklibVgtT1RYT1lDcWt1cnV5T1NrR1VoYVdibXBnTV9Fc3pHLXM5bGxVRGE1cG9yZ3BiUVlFbnZvcklZRVczMjhETGRJVkxidw?oc=5",
       "source": "NTV Haber",
       "date": "2026-11-09T09:05:24Z",
       "description": "İsrail'in kurucu Başbakanı Ben-Gurion: Gazze'nin deniz tarafından yutulmasını isterdim NTV Haber",
+      "image": "",
+      "category": "Dünya"
+    },
+    {
+      "title": "\"Açlık tarikatı\" liderine 200 yıl hapis cezası. 448 kişinin ölümüne neden oldu - NTV Haber",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkthV2g3YkMzOFlzT3pYcHZvSUZOQkVFRDY1TF9JSWdwcUk4RTlJVTJ1dzN1cGtFT1dpLVpQb3VBQ1NHM2N1YzZfaERTV0VNYkpFMHRIOTBCUTAzOTMtZF9WOFN5dmlBNkFneFF2bXhrUUdhU0xHVHBaX19UWUFLSGduallGTjdEQ3JJTTJiU0xJZUcyUW1rVUd5bzY2UG9BZ0NPLURUQ3o0SkRNbTBUNXZn0gG3AUFVX3lxTE91R3dUa1FNZFRCR3ppWnlHVkdYM29jMDZ3M0dmczQ1ZFRjRTlWazFWUUNfc3BPLUt6Y25KUU9zelFBYk11Ul9rTTNZQUh2S0tYTW5DME1mVEZzQjJWVmQyLXRlNHJkd1l2NXdBcndERTRVR1I2TjM1dnFSb2Z4ZTNlTG9zZlNzSE5LSzFUcklyS2RqUG5aMUVWQnh6eU0xeWM0MlFEQ2lqU2s4RkIybDR3YTEwQWNDSQ?oc=5",
+      "source": "NTV Haber",
+      "date": "2026-11-07T02:56:37Z",
+      "description": "\"Açlık tarikatı\" liderine 200 yıl hapis cezası. 448 kişinin ölümüne neden oldu NTV Haber",
       "image": "",
       "category": "Dünya"
     },
@@ -5132,15 +5168,6 @@
       "category": "Dünya"
     },
     {
-      "title": "Feridun Sinirlioğlu BM vizyonunu anlattı. \"BM kusursuz değil ama vazgeçilmez\" - NTV Haber",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWhUVXJfZVBzbVUxeUNxSGNDYlZacG13MG5WT0JwTk04eHphYkVZV1dwRWlMeHZtaHJQUjdpVElTcWktTXpJbzhVazFjM0RlVVpQZ1VNWEM4TjYxQUlHdFBJWkxZVzAxeGhhM2hUWHAyUTlWc1Awd3E4WjN1ejM3alhxdXFvMkhEOVZ0Z3c2VDlwQkVwRUJiTERocVdxUnhlZXR1NG11Z0ktZlZNNjlPONIBtgFBVV95cUxNYVY1TXNQRGZvR29waGhRTUpWalpXcHJ2b0tNalFna09HNkhpR1EyZTBzTFhwQmJtdTdKd2tMaWhXa2VLaE9BUUpFbUxEVFlCdFFUdm9VV2hBcVRpdmdhcGh0TlZWRlRqc1BqQmF0OTJtZnZZTFQ4VDNNN0ZQTFp3QVR1NElDYk5oM2o1cS15Y0w2N1ByUUFxcmIyYWpISWhoeFkwOFRJaVlGd3h3UnhFRFRGUlE1Zw?oc=5",
-      "source": "NTV Haber",
-      "date": "2026-11-07T00:27:25Z",
-      "description": "Feridun Sinirlioğlu BM vizyonunu anlattı. \"BM kusursuz değil ama vazgeçilmez\" NTV Haber",
-      "image": "",
-      "category": "Dünya"
-    },
-    {
       "title": "Teksas'ta vali değişti, polise yeni göçmen talimatı - NTV Haber",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORzk4NDZDS3JMWjFnWTBKaktRdnRuOFd2eFRIbmV4ekwzeWFzamdfa2Z0YTJIU3ZaLTREZ2hNSFN2a2RGVmhvcFN1Y1NPcFVhV2ZkcEY3MXdOMC1qd3pjLWcwSXZZUXdzckFHV0Jib3lSc0dFNWdkX0Fvb2JHNG5QSDNIZ0lDNkZOLXNvcWVvMNIBlAFBVV95cUxNTEQ1YU52ZHQzWGF4SzlNbGR2WEJGX2RwTDFsTTdHWTBtaWpTRFFlMnN0V0pGZUkxTllDdDZVLUZNY0hfeHh5WXNOcXo1bWszMXRwRTRFeTBRSHpLMUZCd2pjSW9ZMnZGSldyTy1NYTZfX0k3UkJCOUZiRVBBaGZkU0NZZ0lHMEk0QWlrWXlHU0YwVk5N?oc=5",
       "source": "NTV Haber",
@@ -5150,11 +5177,11 @@
       "category": "Dünya"
     },
     {
-      "title": "Hegseth hedefte. Seçim hezimetinin faturası ona mı kesilecek? - NTV Haber",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2NNSzRGM3REMmVWaHJKa190dDBYd2xzOGFoMWoyVk1BUldKMWloeFBuRmp4Sl9IdlV4UUJqT2c1anNlaFZWYjA3UmdscHI5SS1ReXpnVGN4a21HVXJHWmUxSkVXVmFJSkpScWRQYUFrSEhZRXlSME9IUHdTcWlQQlNjaDJ3SjV0WXNlVUxFUkFFa2E1aUxUb3F5ZnXSAaIBQVVfeXFMTnUxMzVMb0c3UDUwaGV4U1lEcGdvNFl5X1FCOUlOWThNU19sVVVKQXF4blcyYUJvQkY0alRLbGQ0QzlyY3FQNUU0R0xKWW00dlRnVmdlTGh2MFM0VGFrZDhQQVprVFlhSEtvdnlERnEyTHJLNTJNemZJWlEtNDYzY2FWOHVnLV9vN1A3TE5CV3luazV1R1N6Snk1dFJVWWZMNE5B?oc=5",
+      "title": "Feridun Sinirlioğlu BM vizyonunu anlattı. \"BM kusursuz değil ama vazgeçilmez\" - NTV Haber",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWhUVXJfZVBzbVUxeUNxSGNDYlZacG13MG5WT0JwTk04eHphYkVZV1dwRWlMeHZtaHJQUjdpVElTcWktTXpJbzhVazFjM0RlVVpQZ1VNWEM4TjYxQUlHdFBJWkxZVzAxeGhhM2hUWHAyUTlWc1Awd3E4WjN1ejM3alhxdXFvMkhEOVZ0Z3c2VDlwQkVwRUJiTERocVdxUnhlZXR1NG11Z0ktZlZNNjlPONIBtgFBVV95cUxNYVY1TXNQRGZvR29waGhRTUpWalpXcHJ2b0tNalFna09HNkhpR1EyZTBzTFhwQmJtdTdKd2tMaWhXa2VLaE9BUUpFbUxEVFlCdFFUdm9VV2hBcVRpdmdhcGh0TlZWRlRqc1BqQmF0OTJtZnZZTFQ4VDNNN0ZQTFp3QVR1NElDYk5oM2o1cS15Y0w2N1ByUUFxcmIyYWpISWhoeFkwOFRJaVlGd3h3UnhFRFRGUlE1Zw?oc=5",
       "source": "NTV Haber",
-      "date": "2026-11-06T02:58:29Z",
-      "description": "Hegseth hedefte. Seçim hezimetinin faturası ona mı kesilecek? NTV Haber",
+      "date": "2026-11-07T00:27:25Z",
+      "description": "Feridun Sinirlioğlu BM vizyonunu anlattı. \"BM kusursuz değil ama vazgeçilmez\" NTV Haber",
       "image": "",
       "category": "Dünya"
     },
@@ -5191,15 +5218,6 @@
       "source": "NTV Haber",
       "date": "2026-11-06T21:19:53Z",
       "description": "ABD'den 20 milyon dolarlık ödül duyurusu. İran'ın nükleer sırlarının peşinde NTV Haber",
-      "image": "",
-      "category": "Dünya"
-    },
-    {
-      "title": "Girit açıklarında göçmen faciası. 14 kişi can verdi - NTV Haber",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTA0RDQtNFBpV3phaEIxSzR4WTRRZjI4MzNrczkwc0VvcWZuWDN4VEM0ZTFUcU5kakcwM0dHaktOME8yMXh5WVNCOGtSZlgyUzRRdTliUHZhN2x3MXNNN0tzSVJjOHlYRWR0VE0xeGZiSDVkdVYxQ09NbGtjZ3BCS0ZLVnJiNGhFWlRxVUZYTHXSAZYBQVVfeXFMUFJ1VUFId2ZUaHRlNm1ZRDJ3ck5fV0otMzk3eDU2Nk10eTVSRUNaUEF5di1jNkZKTDhqRXpwQWU1N3RsRTB2b3hjaFpNTUs0Q2laRHlRNWVuTWcydmhaeHdkNkpsS3NpOUIxa0xENFdLNS1VMjF4TmZEajRrWnhrWlVqSUk5amQxR19wUEkzczJnMlB3SW9n?oc=5",
-      "source": "NTV Haber",
-      "date": "2026-11-09T11:52:06Z",
-      "description": "Girit açıklarında göçmen faciası. 14 kişi can verdi NTV Haber",
       "image": "",
       "category": "Dünya"
     },
